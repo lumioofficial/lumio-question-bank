@@ -1,1 +1,13 @@
-
+{
+  "question": "The SI unit of force is?",
+  "options": [
+    "Newton",
+    "Joule",
+    "Pascal",
+    "Watt"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Force is measured in Newton (N).",
+  "difficulty": "easy",
+  "subject": "Physics"
+}
