@@ -1,13 +1,2608 @@
-{
-  "question": "The SI unit of force is?",
-  "options": [
-    "Newton",
-    "Joule",
-    "Pascal",
-    "Watt"
-  ],
-  "correctAnswer": 0,
-  "explanation": "Force is measured in Newton (N).",
-  "difficulty": "easy",
-  "subject": "Physics"
-}
+[
+  {
+    "question": "What is the primary quantum number (n) representing?",
+    "options": [
+      "Main energy level or shell",
+      "Shape of the orbital",
+      "Orientation of the orbital in space",
+      "Spin direction of the electron"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The principal quantum number (n) indicates the main energy level or shell occupied by an electron.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which gas is evolved when zinc reacts with dilute sulfuric acid?",
+    "options": [
+      "Hydrogen gas",
+      "Oxygen gas",
+      "Sulfur dioxide",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zinc reacts with dilute sulfuric acid in a single displacement reaction to produce zinc sulfate and hydrogen gas: Zn + H2SO4 → ZnSO4 + H2.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation state of Chromium in K2Cr2O7?",
+    "options": [
+      "+6",
+      "+3",
+      "+7",
+      "+12"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In potassium dichromate (K2Cr2O7): 2(+1) + 2(Cr) + 7(-2) = 0 ⇒ 2 + 2Cr - 14 = 0 ⇒ 2Cr = 12 ⇒ Cr = +6.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the bond angle in a methane (CH4) molecule?",
+    "options": [
+      "109.5°",
+      "120°",
+      "180°",
+      "90°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Methane has an sp3 hybridized central carbon atom forming a regular tetrahedral geometry with bond angles of 109.5°.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that the total pressure of a mixture of non-reacting gases is equal to the sum of partial pressures?",
+    "options": [
+      "Dalton's Law",
+      "Graham's Law",
+      "Boyle's Law",
+      "Charles's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dalton's Law of Partial Pressures states that P_total = P1 + P2 + ... + Pn for non-reacting gaseous mixtures.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What functional group is present in aldehydes?",
+    "options": [
+      "-CHO",
+      "-COOH",
+      "-OH",
+      "-CO-"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aldehydes contain a carbonyl group bonded to at least one hydrogen atom, represented as -CHO.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "According to Bronsted-Lowry theory, an acid is a(n):",
+    "options": [
+      "Proton donor",
+      "Proton acceptor",
+      "Electron pair donor",
+      "Electron pair acceptor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Bronsted-Lowry concept defines an acid as a substance capable of donating a proton (H+ ion).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which element has the highest electronegativity on the Pauling scale?",
+    "options": [
+      "Fluorine",
+      "Oxygen",
+      "Chlorine",
+      "Francium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fluorine has the highest electronegativity value of 4.0 on the Pauling scale.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What type of hybridization is present in ethyne (C2H2)?",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "sp3d"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In ethyne (acetylene), each carbon atom forms a triple bond (one sigma and two pi bonds), corresponding to sp hybridization and linear geometry.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the molar volume of an ideal gas at STP (0°C and 1 atm)?",
+    "options": [
+      "22.4 L",
+      "24.5 L",
+      "11.2 L",
+      "22.7 L"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At standard temperature and pressure (STP: 273.15 K and 1 atm), 1 mole of an ideal gas occupies 22.4 liters.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following is an example of an exothermic reaction?",
+    "options": [
+      "Combustion of methane",
+      "Photosynthesis",
+      "Thermal decomposition of CaCO3",
+      "Evaporation of water"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Combustion reactions release energy in the form of heat to the surroundings, making them exothermic.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the pH of a 0.01 M HCl solution?",
+    "options": [
+      "2",
+      "1",
+      "12",
+      "0.01"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HCl is a strong acid, so [H+] = 0.01 M = 10^-2 M. pH = -log10[H+] = -log10(10^-2) = 2.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which halogen is a liquid at room temperature?",
+    "options": [
+      "Bromine",
+      "Iodine",
+      "Chlorine",
+      "Fluorine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bromine (Br2) is the only non-metallic element that is a liquid at room temperature.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What product is formed when ethanol is completely oxidized using alkaline KMnO4?",
+    "options": [
+      "Ethanoic acid",
+      "Ethanal",
+      "Methanoic acid",
+      "Propanone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alkaline KMnO4 is a strong oxidizing agent that oxidizes primary alcohols like ethanol completely into carboxylic acids (ethanoic acid).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which crystal lattice type has coordination number 12?",
+    "options": [
+      "Face-Centered Cubic (FCC)",
+      "Simple Cubic (SC)",
+      "Body-Centered Cubic (BCC)",
+      "Diamond Cubic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both Face-Centered Cubic (FCC) and Hexagonal Close-Packed (HCP) structures have a coordination number of 12.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What catalyst is used in the Haber process for ammonia synthesis?",
+    "options": [
+      "Finely divided Iron",
+      "Nickel",
+      "Platinum",
+      "Vanadium pentoxide"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Finely divided iron with molybdenum/potassium oxide promoter is used as a catalyst in the Haber process (N2 + 3H2 ⇌ 2NH3).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the IUPAC name of acetone?",
+    "options": [
+      "Propan-2-one",
+      "Propanal",
+      "Ethanone",
+      "Butan-2-one"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acetone (CH3COCH3) contains a three-carbon chain with a ketone group at position 2, named Propan-2-one.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What particle is emitted in a beta-minus decay?",
+    "options": [
+      "Electron",
+      "Positron",
+      "Helium nucleus",
+      "Photon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In beta-minus (β-) decay, a neutron converts into a proton, emitting an electron and an electron antineutrino.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that the rate of an effusion/diffusion of a gas is inversely proportional to the square root of its molar mass?",
+    "options": [
+      "Graham's Law",
+      "Charles's Law",
+      "Boyle's Law",
+      "Henry's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Graham's Law states Rate ∝ 1 / √(Molar Mass).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the SI unit of molar conductivity?",
+    "options": [
+      "S m^2 mol^-1",
+      "S cm^-1",
+      "Ohm m",
+      "S m^-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Molar conductivity (Λm) has SI units of Siemens meter squared per mole (S m^2 mol^-1).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which defect in solids causes a decrease in the density of the crystal?",
+    "options": [
+      "Schottky defect",
+      "Frenkel defect",
+      "Interstitial defect",
+      "Metal excess defect"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a Schottky defect, an equal number of cations and anions are missing from the crystal lattice, decreasing the mass and overall density.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the general formula for alkanes?",
+    "options": [
+      "C_n H_(2n+2)",
+      "C_n H_(2n)",
+      "C_n H_(2n-2)",
+      "C_n H_(2n+1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Saturated hydrocarbons (alkanes) follow the general formula C_n H_(2n+2).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which catalyst is used in the Contact Process for manufacturing sulfuric acid?",
+    "options": [
+      "Vanadium(V) oxide (V2O5)",
+      "Finely divided Nickel",
+      "Iron oxide",
+      "Platinum wire"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vanadium pentoxide (V2O5) catalyzes the oxidation of SO2 to SO3 in the Contact Process.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following elements is a metalloid?",
+    "options": [
+      "Silicon",
+      "Sodium",
+      "Sulfur",
+      "Silver"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Silicon exhibits properties intermediate between metals and non-metals, classifying it as a metalloid.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the geometry of a water molecule (H2O) according to VSEPR theory?",
+    "options": [
+      "Bent / V-shaped",
+      "Linear",
+      "Trigonal planar",
+      "Tetrahedral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Water has two bonding pairs and two lone pairs on oxygen, producing a bent or V-shaped molecular geometry.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the half-life period equation for a first-order reaction?",
+    "options": [
+      "t_1/2 = 0.693 / k",
+      "t_1/2 = [A]0 / 2k",
+      "t_1/2 = 1 / (k[A]0)",
+      "t_1/2 = 2k / [A]0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For first-order kinetics, t_1/2 = ln(2) / k = 0.693 / k, which is independent of the initial concentration.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which organic reaction involves conversion of an amide to a primary amine with one less carbon atom?",
+    "options": [
+      "Hofmann bromamide degradation",
+      "Reimer-Tiemann reaction",
+      "Cannizzaro reaction",
+      "Aldol condensation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Hofmann bromamide degradation treats an amide with Br2 and NaOH to yield a primary amine containing one fewer carbon atom.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the main ore of Aluminum?",
+    "options": [
+      "Bauxite",
+      "Hematite",
+      "Galena",
+      "Cinnabar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bauxite (Al2O3·2H2O) is the primary commercial ore used for extracting aluminum.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the conjugate base of HSO4-?",
+    "options": [
+      "SO4(2-)",
+      "H2SO4",
+      "SO3(2-)",
+      "H3O+"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conjugate base is formed when an acid loses a proton (H+). HSO4- - H+ = SO4(2-).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following gas laws relates pressure and volume at constant temperature?",
+    "options": [
+      "Boyle's Law",
+      "Charles's Law",
+      "Gay-Lussac's Law",
+      "Avogadro's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Boyle's Law states that at constant temperature, pressure is inversely proportional to volume (P1V1 = P2V2).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the unit of the rate constant for a zero-order reaction?",
+    "options": [
+      "mol L^-1 s^-1",
+      "s^-1",
+      "L mol^-1 s^-1",
+      "L^2 mol^-2 s^-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For zero-order: Rate = k[A]^0 = k. Thus, units of k are identical to rate units: mol L^-1 s^-1.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What substance is added to lower the melting point of alumina during Hall-Héroult process?",
+    "options": [
+      "Cryolite (Na3AlF6)",
+      "Limestone (CaCO3)",
+      "Coke",
+      "Silica (SiO2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cryolite (Na3AlF6) lowers the melting point of alumina (Al2O3) from ~2050°C to ~950°C and improves electrical conductivity.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which transition metal ion is colorless in aqueous solution?",
+    "options": [
+      "Zn2+",
+      "Cu2+",
+      "Fe3+",
+      "Cr3+"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zn2+ has a completely filled 3d subshell (3d10). With no unpaired d-electrons, d-d transitions cannot occur, making it colorless.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the molecular formula of benzene?",
+    "options": [
+      "C6H6",
+      "C6H12",
+      "C6H14",
+      "C5H5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benzene is an aromatic hydrocarbon with the planar cyclic formula C6H6.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which test is used to distinguish between aldehydes and ketones using an ammoniacal silver nitrate solution?",
+    "options": [
+      "Tollens' test",
+      "Fehling's test",
+      "Iodoform test",
+      "Biuret test"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tollens' reagent (ammoniacal silver nitrate) oxidizes aldehydes to form a metallic silver mirror, while ketones do not react.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What type of intermolecular force is strongest in liquid water?",
+    "options": [
+      "Hydrogen bonding",
+      "Dipole-induced dipole",
+      "London dispersion forces",
+      "Covalent bonding"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Water molecules form strong intermolecular hydrogen bonds between hydrogen and oxygen atoms of adjacent molecules.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "According to Le Chatelier's principle, increasing pressure on a gaseous equilibrium system shifts it toward:",
+    "options": [
+      "The side with fewer moles of gas",
+      "The side with more moles of gas",
+      "The exothermic side always",
+      "No shift occurs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An increase in total pressure shifts equilibrium toward the side with fewer gas molecules to relieve the applied pressure.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the shape of an s-orbital?",
+    "options": [
+      "Spherical",
+      "Dumbbell",
+      "Double dumbbell",
+      "Complex"
+    ],
+    "correctAnswer": 0,
+    "explanation": "All s-orbitals are spherically symmetrical around the nucleus.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which alloy consists primarily of copper and zinc?",
+    "options": [
+      "Brass",
+      "Bronze",
+      "Steel",
+      "Solder"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Brass is an alloy composed mainly of copper and zinc. (Bronze is copper and tin).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relation between standard Gibbs energy change (ΔG°) and equilibrium constant (K)?",
+    "options": [
+      "ΔG° = -RT ln(K)",
+      "ΔG° = RT ln(K)",
+      "ΔG° = -RT log10(K)",
+      "ΔG° = -nFE°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The thermodynamic equation relating standard Gibbs free energy and equilibrium constant is ΔG° = -RT ln(K).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which carboxylic acid is present in ant stings?",
+    "options": [
+      "Methanoic acid (Formic acid)",
+      "Ethanoic acid (Acetic acid)",
+      "Citric acid",
+      "Lactic acid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Methanoic acid (HCOOH), commonly called formic acid, is released during ant bites and bee stings.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the geometry of sulfur hexafluoride (SF6)?",
+    "options": [
+      "Octahedral",
+      "Trigonal bipyramidal",
+      "Tetrahedral",
+      "Square planar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SF6 has sp3d2 hybridization on the central sulfur atom with 6 bonding pairs, resulting in an octahedral shape.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which parameter remains constant during an isothermal process?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Volume",
+      "Enthalpy only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An isothermal thermodynamic process takes place at a constant temperature (ΔT = 0).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reagent is used in Lucas test to distinguish primary, secondary, and tertiary alcohols?",
+    "options": [
+      "Anhydrous ZnCl2 + concentrated HCl",
+      "Alkaline KMnO4",
+      "K2Cr2O7 + H2SO4",
+      "Aqueous AgNO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lucas reagent consists of a solution of anhydrous zinc chloride in concentrated hydrochloric acid.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation number of oxygen in peroxides (e.g., H2O2)?",
+    "options": [
+      "-1",
+      "-2",
+      "+1",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In peroxide compounds containing the O-O bond, oxygen exhibits an oxidation state of -1.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that the mass of a substance deposited during electrolysis is directly proportional to the quantity of electricity passed?",
+    "options": [
+      "Faraday's First Law of Electrolysis",
+      "Faraday's Second Law of Electrolysis",
+      "Kohlrausch's Law",
+      "Ohm's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Faraday's First Law states m = Z * Q = Z * I * t.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the monomer of natural rubber?",
+    "options": [
+      "Isoprene (2-methyl-1,3-butadiene)",
+      "Chloroprene",
+      "Styrene",
+      "Ethene"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Natural rubber is a polymer made up of repeating units of isoprene (2-methyl-1,3-butadiene).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which isotope of hydrogen is radioactive?",
+    "options": [
+      "Tritium (H-3)",
+      "Deuterium (H-2)",
+      "Protium (H-1)",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tritium (3H) is a radioactive isotope of hydrogen with a half-life of approximately 12.3 years.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the osmotic pressure equation for a dilute solution?",
+    "options": [
+      "π = CRT",
+      "π = C / RT",
+      "π = RT / C",
+      "π = nRT"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osmotic pressure π is given by Van 't Hoff's equation π = CRT, where C is molarity, R is gas constant, and T is temperature.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which quantum number determines the orientation of an orbital in space?",
+    "options": [
+      "Magnetic quantum number (m)",
+      "Principal quantum number (n)",
+      "Azimuthal quantum number (l)",
+      "Spin quantum number (s)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The magnetic quantum number (m or m_l) specifies the 3D orientation of an orbital relative to a magnetic field.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  }
+]
+[
+  {
+    "question": "Which of the following is an intensive property?",
+    "options": [
+      "Density",
+      "Mass",
+      "Volume",
+      "Enthalpy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An intensive property does not depend on the amount of matter present. Density remains constant regardless of sample size, whereas mass, volume, and enthalpy are extensive properties.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the hybridisation of xenon in XeF4?",
+    "options": [
+      "sp3d2",
+      "sp3d",
+      "sp3",
+      "dsp2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Xenon tetrafluoride has 4 bonding pairs and 2 lone pairs around the central Xe atom (total steric number = 6), resulting in sp3d2 hybridisation and a square planar geometry.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which gas is liberated at the anode during the electrolysis of aqueous NaCl (Brine)?",
+    "options": [
+      "Chlorine (Cl2)",
+      "Hydrogen (H2)",
+      "Oxygen (O2)",
+      "Sodium (Na)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "During the electrolysis of aqueous NaCl, chloride ions (Cl-) are oxidized at the anode to form chlorine gas (Cl2) due to overpotential effects.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the IUPAC name of CH3-CH=CH-COOH?",
+    "options": [
+      "But-2-enoic acid",
+      "But-3-enoic acid",
+      "Prop-2-enoic acid",
+      "Butanoic acid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Numbering starts from the carboxylic carbon: C1=COOH, C2=CH, C3=CH, C4=CH3. The 4-carbon chain with a double bond at carbon 2 gives But-2-enoic acid.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which constant is defined by the ratio of vapor pressure of a solvent in solution to that of the pure solvent?",
+    "options": [
+      "Mole fraction of solvent (Raoult's Law)",
+      "Henry's constant",
+      "Van 't Hoff factor",
+      "Equilibrium constant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to Raoult's Law, the relative lowering of vapor pressure (P/P°) is equal to the mole fraction of the solvent in ideal solutions.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which element acts as a powerful reducing agent among the alkali metals in aqueous solution?",
+    "options": [
+      "Lithium",
+      "Sodium",
+      "Potassium",
+      "Cesium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lithium has the most negative standard reduction potential (-3.04 V) due to its high hydration energy, making it the strongest reducing agent in aqueous solution.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the Coordination Number of an atom in a Body-Centered Cubic (BCC) lattice?",
+    "options": [
+      "8",
+      "6",
+      "12",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a BCC lattice, the central atom touches 8 corner atoms, so its coordination number is 8.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which organic compound shows positive Iodoform test?",
+    "options": [
+      "Ethanol",
+      "Methanol",
+      "Propan-1-ol",
+      "Benzaldehyde"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compounds with a CH3-CH(OH)- or CH3-C=O group give a positive iodoform test. Ethanol (CH3CH2OH) is oxidized to acetaldehyde (CH3CHO) and forms yellow iodoform (CHI3).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the maximum number of electrons that can be accommodated in a subshell with l = 3?",
+    "options": [
+      "14",
+      "10",
+      "6",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Azimuthal quantum number l = 3 corresponds to the f-subshell. The maximum electron capacity is 2(2l + 1) = 2(2*3 + 1) = 14.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that equal volumes of all gases under similar conditions of temperature and pressure contain equal numbers of molecules?",
+    "options": [
+      "Avogadro's Law",
+      "Boyle's Law",
+      "Charles's Law",
+      "Gay-Lussac's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Avogadro's Law states that V ∝ n at constant temperature and pressure.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the primary product obtained when phenol reacts with neutral FeCl3 solution?",
+    "options": [
+      "Violet colored complex",
+      "White precipitate",
+      "Yellow solution",
+      "Brisk effervescence"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Phenol reacts with neutral ferric chloride solution to form a characteristic violet-colored iron-phenol complex.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What type of colloid is milk?",
+    "options": [
+      "Emulsion",
+      "Sol",
+      "Gel",
+      "Foam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Milk is a liquid-in-liquid colloidal dispersion, classified as an emulsion (fat droplets dispersed in water).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which indicator is best suited for the titration of a strong acid with a weak base?",
+    "options": [
+      "Methyl orange",
+      "Phenolphthalein",
+      "Starch solution",
+      "Universal indicator"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The equivalence point of a strong acid-weak base titration lies in the acidic pH range (~4-6), where Methyl Orange changes color.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation number of Sulfur in S8 molecule?",
+    "options": [
+      "0",
+      "+2",
+      "+6",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In an element's free or elemental uncombined state (such as S8 or O2), its oxidation number is zero.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which named reaction converts a primary amine, chloroform, and KOH into an isocyanide?",
+    "options": [
+      "Carbylamine reaction",
+      "Wurtz reaction",
+      "Cannizzaro reaction",
+      "Sandmeyer reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Carbylamine test involves heating a primary aliphatic or aromatic amine with chloroform and ethanolic KOH to form a foul-smelling isocyanide.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the magnetic behavior of O2 molecule according to Molecular Orbital Theory?",
+    "options": [
+      "Paramagnetic",
+      "Diamagnetic",
+      "Ferromagnetic",
+      "Antiferromagnetic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Molecular Orbital Theory shows that O2 has two unpaired electrons in its degenerate π* (anti-bonding) orbitals, making it paramagnetic.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which group in the Periodic Table is known as the Chalcogens?",
+    "options": [
+      "Group 16",
+      "Group 17",
+      "Group 15",
+      "Group 18"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group 16 elements (Oxygen, Sulfur, Selenium, Tellurium, Polonium) are collectively called Chalcogens (ore-formers).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the slope of the plot between ln[A] vs time (t) for a first-order reaction?",
+    "options": [
+      "-k",
+      "k",
+      "-k / 2.303",
+      "2.303 / k"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The integrated rate equation is ln[A] = ln[A]0 - kt. Plotting ln[A] against t yields a straight line with slope = -k.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which carbohydrate is known as table sugar?",
+    "options": [
+      "Sucrose",
+      "Glucose",
+      "Fructose",
+      "Maltose"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sucrose, a disaccharide of glucose and fructose, is commonly known as table sugar.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following complexes exhibits linkage isomerism?",
+    "options": [
+      "[Co(NH3)5(NO2)]Cl2",
+      "[Co(NH3)6]Cl3",
+      "[Pt(NH3)2Cl2]",
+      "[Fe(H2O)6]Cl3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Linkage isomerism arises when ambidentate ligands like NO2- (nitro or nitrito) can bind to the central metal atom through different donor atoms (N or O).",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the empirical formula of a compound containing 40% Carbon, 6.7% Hydrogen, and 53.3% Oxygen by mass?",
+    "options": [
+      "CH2O",
+      "CHO",
+      "C2H4O",
+      "CH4O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Moles: C = 40/12 = 3.33; H = 6.7/1 = 6.7; O = 53.3/16 = 3.33. Dividing by smallest value (3.33): C:H:O = 1:2:1. Empirical formula is CH2O.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What process is used to concentrate sulfide ores?",
+    "options": [
+      "Froth Floatation",
+      "Gravity separation",
+      "Magnetic separation",
+      "Leaching"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sulfide ores (e.g., ZnS, PbS, CuFeS2) are preferentially wetted by oil and separated from gangue using the Froth Floatation process.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation product of a secondary alcohol when treated with K2Cr2O7/H+?",
+    "options": [
+      "Ketone",
+      "Aldehyde",
+      "Carboxylic acid",
+      "Ester"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Secondary alcohols oxidize to form ketones. Further oxidation requires breaking C-C bonds under severe conditions.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which vitamin is water-soluble?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vitamins B and C are water-soluble, whereas Vitamins A, D, E, and K are fat-soluble.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the SI unit of rate of a chemical reaction?",
+    "options": [
+      "mol L^-1 s^-1",
+      "mol s^-1",
+      "L mol^-1 s^-1",
+      "s^-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reaction rate is defined as change in concentration per unit time: (mol/L) / s = mol L^-1 s^-1.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which rule states that pairing of electrons in orbitals of the same subshell does not take place until each orbital is singly occupied?",
+    "options": [
+      "Hund's Rule of Maximum Multiplicity",
+      "Pauli Exclusion Principle",
+      "Aufbau Principle",
+      "Heisenberg Uncertainty Principle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hund's Rule requires that degenerate orbitals are each singly occupied before any orbital is doubly occupied.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the bond order of N2 molecule?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "2.5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "N2 has 14 electrons. Bond order = (Nb - Na)/2 = (10 - 4)/2 = 3 (representing a triple bond between nitrogen atoms).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which catalyst is used in the Rosenmund reduction of acyl chlorides to aldehydes?",
+    "options": [
+      "Pd / BaSO4",
+      "Ni / H2",
+      "LiAlH4",
+      "NaBH4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rosenmund reduction uses hydrogen gas over palladium poisoned with barium sulfate (Pd/BaSO4) to reduce acyl chlorides to aldehydes without further reduction to alcohol.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the product formed when chlorobenzene reacts with aqueous NaOH at 623 K and 300 atm pressure?",
+    "options": [
+      "Phenol",
+      "Benzene",
+      "Aniline",
+      "Benzoic acid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This reaction is known as the Dow Process. Chlorobenzene is hydrolyzed to sodium phenoxide under drastic conditions, which yields phenol upon acidification.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which halogen acid is the strongest acid in aqueous solution?",
+    "options": [
+      "HI",
+      "HBr",
+      "HCl",
+      "HF"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acid strength increases down Group 17 as H-X bond length increases and bond dissociation energy decreases: HF < HCl < HBr < HI.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the packing efficiency of a Face-Centered Cubic (FCC) lattice?",
+    "options": [
+      "74%",
+      "68%",
+      "52.4%",
+      "78%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The fraction of space occupied by spheres in an FCC unit cell is 74%, leaving 26% void space.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following undergoes SN1 reaction most rapidly?",
+    "options": [
+      "tert-Butyl chloride",
+      "Isopropyl chloride",
+      "Ethyl chloride",
+      "Methyl chloride"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SN1 reactions proceed via a carbocation intermediate. Tert-butyl chloride forms a stable 3° carbocation, making it react most rapidly via SN1 mechanism.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relation between E°cell and standard Gibbs free energy change ΔG°?",
+    "options": [
+      "ΔG° = -n F E°cell",
+      "ΔG° = n F E°cell",
+      "ΔG° = -R T ln(E°cell)",
+      "E°cell = -n F ΔG°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The relationship between standard cell potential and standard free energy change is ΔG° = -n F E°cell.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which oxide of nitrogen is an anhydride of Nitrous acid (HNO2)?",
+    "options": [
+      "N2O3",
+      "N2O5",
+      "NO2",
+      "NO"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nitrous acid (HNO2) has Nitrogen in +3 oxidation state. Dinitrogen trioxide (N2O3) also has N in +3 oxidation state and reacts with water to form HNO2.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the geometry of the CIF3 (Chlorine trifluoride) molecule?",
+    "options": [
+      "T-shaped",
+      "Trigonal planar",
+      "Trigonal bipyramidal",
+      "Pyramidal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ClF3 has 3 bonding pairs and 2 lone pairs on the central chlorine atom (sp3d hybridisation), resulting in a bent T-shaped molecular geometry.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the conjugate acid of NH3?",
+    "options": [
+      "NH4+",
+      "NH2-",
+      "N3-",
+      "NH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conjugate acid is formed when a base accepts a proton (H+). NH3 + H+ = NH4+.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following is a condensation polymer?",
+    "options": [
+      "Nylon-6,6",
+      "Polyethylene",
+      "PVC",
+      "Polystyrene"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nylon-6,6 is produced by condensation polymerization of hexamethylenediamine and adipic acid with the elimination of water molecules.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which gas law relates volume and temperature at constant pressure?",
+    "options": [
+      "Charles's Law",
+      "Boyle's Law",
+      "Gay-Lussac's Law",
+      "Dalton's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Charles's Law states that at constant pressure, volume is directly proportional to absolute temperature (V ∝ T).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the coordination number of Cobalt in [Co(en)3]3+ (where 'en' is ethylenediamine)?",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethylenediamine ('en') is a bidentate ligand. Three bidentate ligands form 3 × 2 = 6 coordinate bonds with Cobalt, making its coordination number 6.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that the mass of a substance dissolved in a liquid is directly proportional to the partial pressure of the gas above the liquid?",
+    "options": [
+      "Henry's Law",
+      "Raoult's Law",
+      "Dalton's Law",
+      "Graham's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Henry's Law states p = KH * x, where solubility/concentration of gas is directly proportional to its partial pressure.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What product is formed when toluene is treated with CrO2Cl2 (Chromyl chloride) followed by hydrolysis?",
+    "options": [
+      "Benzaldehyde",
+      "Benzoic acid",
+      "Benzyl alcohol",
+      "Chlorobenzene"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This is the Etard reaction, which selectively oxidizes the methyl group of toluene into an aldehyde to produce benzaldehyde.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which radioactive decay mode increases the atomic number (Z) of a nucleus by 1?",
+    "options": [
+      "Beta-minus (β-) decay",
+      "Alpha (α) decay",
+      "Gamma (γ) emission",
+      "Positron (β+) decay"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In β- decay, a neutron transforms into a proton and an electron. Since a proton is gained, the atomic number Z increases by 1.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the pH of pure water at 25°C?",
+    "options": [
+      "7",
+      "0",
+      "14",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At 25°C, [H+] in pure water is 10^-7 M, resulting in pH = -log10(10^-7) = 7 (neutral).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following d-block elements does NOT show variable oxidation states?",
+    "options": [
+      "Scandium",
+      "Manganese",
+      "Iron",
+      "Copper"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Scandium (Z=21) only shows the +3 oxidation state in its compounds due to losing its two 4s and one 3d electrons.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What type of isomerism is shown by Pentan-2-one and Pentan-3-one?",
+    "options": [
+      "Position isomerism",
+      "Chain isomerism",
+      "Functional isomerism",
+      "Geometrical isomerism"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pentan-2-one and Pentan-3-one have the same carbon skeleton and functional group, but differ in the position of the carbonyl group (C2 vs C3).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which metal is refined using the Mond Process?",
+    "options": [
+      "Nickel",
+      "Zirconium",
+      "Copper",
+      "Aluminum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Mond Process refines nickel by reacting it with CO to form volatile nickel tetracarbonyl Ni(CO)4, which decomposes on higher heating to yield pure nickel.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the SI unit of specific conductance (conductivity, κ)?",
+    "options": [
+      "S m^-1",
+      "S m^2 mol^-1",
+      "Ohm m",
+      "S cm^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conductivity κ = 1/ρ, so its SI unit is Siemens per meter (S m^-1) or S cm^-1.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which functional group gives a brisk effervescence of CO2 gas when treated with aqueous NaHCO3?",
+    "options": [
+      "-COOH (Carboxylic acid)",
+      "-OH (Alcohol)",
+      "-CHO (Aldehyde)",
+      "-NH2 (Amine)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carboxylic acids are strong enough acids to react with sodium bicarbonate (NaHCO3) to release carbon dioxide gas (effervescence).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the shape of the PCl5 molecule in the gas phase?",
+    "options": [
+      "Trigonal bipyramidal",
+      "Square pyramidal",
+      "Octahedral",
+      "Tetrahedral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Phosphorus pentachloride has sp3d hybridisation with 5 bond pairs, producing a trigonal bipyramidal shape.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "According to the Arrhenius equation k = A * e^(-Ea / RT), what does Ea represent?",
+    "options": [
+      "Activation energy",
+      "Frequency factor",
+      "Enthalpy of reaction",
+      "Free energy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the Arrhenius equation, Ea is the activation energy required for the reactants to undergo a chemical transformation.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  }
+]
+[
+  {
+    "question": "Which of the following noble gases does NOT form compounds with fluorine under standard experimental conditions?",
+    "options": [
+      "Helium",
+      "Xenon",
+      "Krypton",
+      "Radon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Helium has the highest ionization energy and a closed-shell 1s2 configuration, preventing it from forming stable chemical compounds with fluorine.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the order of reaction for radioactive decay processes?",
+    "options": [
+      "First order",
+      "Zero order",
+      "Second order",
+      "Half order"
+    ],
+    "correctAnswer": 0,
+    "explanation": "All natural and artificial radioactive decay processes follow first-order reaction kinetics, where the rate depends solely on the concentration of the radioactive nuclei.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reagent is used in the Lucas Test to distinguish between primary, secondary, and tertiary alcohols?",
+    "options": [
+      "Anhydrous ZnCl2 and concentrated HCl",
+      "Dilute HCl and ZnSO4",
+      "Concentrated H2SO4 and KMnO4",
+      "Alkaline I2 solution"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lucas reagent is a solution of anhydrous ZnCl2 in concentrated HCl. Tertiary alcohols react immediately forming turbidity, secondary alcohols react within 5 minutes, and primary alcohols do not react at room temperature.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the molarity of pure water at 4°C?",
+    "options": [
+      "55.55 M",
+      "18 M",
+      "100 M",
+      "1 M"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1 liter of pure water weighs approximately 1000 g. Moles = 1000 g / 18.015 g/mol = 55.55 moles. Thus, molarity = 55.55 M.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What product is formed at the cathode during the electrolysis of molten NaCl?",
+    "options": [
+      "Sodium metal (Na)",
+      "Chlorine gas (Cl2)",
+      "Hydrogen gas (H2)",
+      "Oxygen gas (O2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In molten NaCl electrolysis, Na+ ions migrate to the cathode and get reduced to form sodium metal (Na), while Cl- ions are oxidized at the anode to Cl2 gas.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which isomerism is exhibited by the pair [Co(NH3)5(SO4)]Br and [Co(NH3)5Br]SO4?",
+    "options": [
+      "Ionisation isomerism",
+      "Linkage isomerism",
+      "Coordination isomerism",
+      "Hydrate isomerism"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ionisation isomerism occurs when a counter ion in a coordination compound displaces a ligand inside the coordination sphere, giving different ions in solution.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the spin-only magnetic moment of an ion with 3 unpaired electrons?",
+    "options": [
+      "3.87 BM",
+      "2.83 BM",
+      "1.73 BM",
+      "4.90 BM"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Magnetic moment μ = √(n(n+2)) Bohr Magnetons (BM). For n = 3: μ = √(3 × 5) = √15 ≈ 3.87 BM.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which set of quantum numbers is NOT permitted for an electron in an atom?",
+    "options": [
+      "n = 2, l = 2, ml = 0, ms = +1/2",
+      "n = 3, l = 1, ml = -1, ms = -1/2",
+      "n = 4, l = 0, ml = 0, ms = +1/2",
+      "n = 1, l = 0, ml = 0, ms = -1/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The azimuthal quantum number l can only range from 0 to (n - 1). For n = 2, the maximum allowed value of l is 1; therefore l = 2 is impossible.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the IUPAC name of acetone?",
+    "options": [
+      "Propan-2-one",
+      "Propanal",
+      "Ethanoic acid",
+      "Butan-2-one"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acetone has the structure CH3-CO-CH3, a 3-carbon ketone chain, which corresponds to the IUPAC name Propan-2-one.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "According to Le Chatelier's principle, what happens to an exothermic reaction at equilibrium when the temperature is increased?",
+    "options": [
+      "Equilibrium shifts to the left (reactants side)",
+      "Equilibrium shifts to the right (products side)",
+      "Equilibrium constant increases",
+      "No change occurs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For an exothermic reaction (heat released), adding thermal energy favors the endothermic reverse direction to consume heat, shifting equilibrium to the left.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that the total enthalpy change of a chemical reaction is independent of the pathway taken?",
+    "options": [
+      "Hess's Law",
+      "Kirchhoff's Law",
+      "First Law of Thermodynamics",
+      "Henry's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hess's Law of Constant Heat Summation states that overall enthalpy change ΔH for a process depends only on initial and final states, not intermediate steps.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which nitrogen base is present in RNA but absent in DNA?",
+    "options": [
+      "Uracil",
+      "Thymine",
+      "Adenine",
+      "Guanine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RNA contains Uracil instead of Thymine, which is found in DNA.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the main ore of aluminum metal?",
+    "options": [
+      "Bauxite",
+      "Hematite",
+      "Galena",
+      "Siderite"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bauxite (hydrated aluminum oxide, Al2O3·xH2O) is the primary commercial source and ore of aluminum.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which factor causes the decrease in atomic radius across a period from left to right in the Periodic Table?",
+    "options": [
+      "Increase in effective nuclear charge",
+      "Increase in principal quantum number",
+      "Increase in electron shielding effect",
+      "Decrease in atomic number"
+    ],
+    "correctAnswer": 0,
+    "explanation": "As nuclear charge increases across a period while electrons are added to the same main shell, effective nuclear charge increases, pulling valence electrons closer to the nucleus.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the catalyst used in the Haber process for industrial ammonia synthesis?",
+    "options": [
+      "Finely divided Iron with K2O and Al2O3 promoters",
+      "Nickel powder",
+      "Platinum wire mesh",
+      "Vanadium pentoxide (V2O5)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Industrial synthesis of ammonia from N2 and H2 via the Haber-Bosch process uses finely divided iron as catalyst with promoters like alumina (Al2O3) and potassium oxide (K2O).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which test is used to detect presence of peptide bonds in proteins?",
+    "options": [
+      "Biuret Test",
+      "Barfoed's Test",
+      "Seliwanoff's Test",
+      "Tollen's Test"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Biuret test detects peptide bonds (-CO-NH-). Alkaline copper sulfate turns violet-purple when complexed with compounds having two or more peptide links.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following molecules has a zero dipole moment?",
+    "options": [
+      "CCl4",
+      "CHCl3",
+      "H2O",
+      "NH3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbon tetrachloride (CCl4) has a symmetric tetrahedral structure where the individual C-Cl bond dipole moments vectorially cancel each other out completely.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relation between half-life (t1/2) and rate constant (k) for a zero-order reaction?",
+    "options": [
+      "t1/2 = [A]0 / 2k",
+      "t1/2 = 0.693 / k",
+      "t1/2 = 1 / (k [A]0)",
+      "t1/2 = k / [A]0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a zero-order reaction rate = k, integrating yields [A] = [A]0 - kt. When [A] = [A]0/2, t1/2 = [A]0 / (2k).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reducing agent selectively converts aldehydes and ketones to alcohols without reducing carboxylic acid or ester groups?",
+    "options": [
+      "NaBH4",
+      "LiAlH4",
+      "H2 / Pt",
+      "Na in liquid NH3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sodium borohydride (NaBH4) is a milder reducing agent that reduces aldehydes and ketones to primary and secondary alcohols, but does not reduce esters or carboxylic acids.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the formula for calculating Van 't Hoff factor (i) in case of dissociation?",
+    "options": [
+      "i = 1 + (n - 1)α",
+      "i = 1 - (1 - n)α",
+      "i = 1 + α / n",
+      "i = n α"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a solute dissociating into 'n' ions with degree of dissociation α, total particles = 1 - α + n α = 1 + (n - 1)α.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What type of solid is diamond?",
+    "options": [
+      "Covalent network solid",
+      "Ionic solid",
+      "Molecular solid",
+      "Metallic solid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diamond is a covalent network solid composed of sp3-hybridized carbon atoms linked infinitely in a three-dimensional lattice.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which compound is formed when benzaldehyde undergoes the Cannizzaro reaction with 50% NaOH?",
+    "options": [
+      "Benzyl alcohol and Sodium benzoate",
+      "Benzoic acid and Benzene",
+      "Benzoin",
+      "Acetophenone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aldehydes lacking alpha-hydrogens (like benzaldehyde) undergo disproportionation in concentrated alkali to yield a primary alcohol (benzyl alcohol) and a carboxylic acid salt (sodium benzoate).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the geometry and hybridisation of the CIF5 molecule?",
+    "options": [
+      "Square pyramidal, sp3d2",
+      "Trigonal bipyramidal, sp3d",
+      "Octahedral, sp3d2",
+      "Pentagonal bipyramidal, sp3d3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ClF5 has 5 bond pairs and 1 lone pair on central Cl atom (steric number = 6, sp3d2), giving a square pyramidal geometry.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following compounds exhibits optical activity?",
+    "options": [
+      "Lactic acid",
+      "Acetic acid",
+      "Ethanol",
+      "Propan-2-ol"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lactic acid [CH3-CH(OH)-COOH] contains a chiral carbon atom bonded to four distinct groups (-H, -OH, -CH3, -COOH), making it optically active.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relation between critical temperature (Tc) and van der Waals constants 'a' and 'b'?",
+    "options": [
+      "Tc = 8a / (27 R b)",
+      "Tc = a / (27 R b^2)",
+      "Tc = 3 b",
+      "Tc = a / (R b)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Critical temperature Tc derived from van der Waals equation of state is given by 8a / (27 R b).",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the major product of Wurtz reaction between Methyl iodide and Ethyl iodide?",
+    "options": [
+      "Mixture of Ethane, Propane, and Butane",
+      "Propane only",
+      "Ethane only",
+      "Butane only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Wurtz reaction of a mixture of two different alkyl halides gives a mixture of three alkanes (R-R, R-R', R'-R'), namely ethane, propane, and butane.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which catalyst is used in the Contact Process for the manufacture of Sulfuric acid?",
+    "options": [
+      "Vanadium pentoxide (V2O5)",
+      "Finely divided Platinum",
+      "Iron catalyst",
+      "Copper oxide"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the Contact Process, V2O5 is used to catalyze the oxidation of SO2 to SO3 at 720 K.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the functional group formed in the reaction between a primary amine and an aldehyde?",
+    "options": [
+      "Schiff base (Imine)",
+      "Amide",
+      "Oxime",
+      "Hydrazone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reaction of primary amines with aldehydes yields azomethines or imines, commonly known as Schiff bases (>C=N-R).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which colloid purification method uses an applied electric field across a semi-permeable membrane?",
+    "options": [
+      "Electrodialysis",
+      "Peptization",
+      "Ultrafiltration",
+      "Coagulation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Electrodialysis accelerates the removal of ionic impurities from colloidal solutions by placing electrodes across the dialyzing membrane.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the pH of a 0.01 M HCl solution at 25°C?",
+    "options": [
+      "2",
+      "1",
+      "12",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HCl is a strong acid, fully dissociating to [H+] = 0.01 M = 10^-2 M. pH = -log(10^-2) = 2.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which organic synthesis converts aniline into chlorobenzene using Cu2Cl2 / HCl?",
+    "options": [
+      "Sandmeyer Reaction",
+      "Finkelstein Reaction",
+      "Gattermann Reaction",
+      "Swarts Reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sandmeyer reaction converts a benzene diazonium salt (prepared from aniline) to chlorobenzene or bromobenzene using cuprous chloride/bromide.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the coordination number of Na+ in the Sodium Chloride (NaCl) rock salt structure?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In NaCl crystal structure, each Na+ ion is surrounded octahedrally by 6 Cl- ions, and each Cl- by 6 Na+ ions (6:6 coordination).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following compounds displays anti-aromatic character?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene (non-planar)",
+      "Cyclopropenyl cation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cyclobutadiene is planar, cyclic, fully conjugated, and has 4 π-electrons (4n with n=1), fitting the criteria for anti-aromaticity.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law connects electrode potential (E) to standard potential (E°) and reactant/product concentrations?",
+    "options": [
+      "Nernst Equation",
+      "Faraday's Law",
+      "Kohlrausch's Law",
+      "Gibbs-Helmholtz Equation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Nernst Equation (E = E° - (RT/nF)ln Q) gives the dependence of cell or electrode potential on species concentrations.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the principal quantum number (n) of the valence shell in potassium (Z = 19)?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The electronic configuration of Potassium (Z=19) is 1s2 2s2 2p6 3s2 3p6 4s1. The highest occupied main energy level is n = 4.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which gas is evolved when calcium carbide (CaC2) reacts with water?",
+    "options": [
+      "Acetylene (Ethyne)",
+      "Methane",
+      "Ethane",
+      "Ethylene"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CaC2 + 2 H2O → Ca(OH)2 + C2H2 (Acetylene gas).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the formula of rust?",
+    "options": [
+      "Fe2O3 · x H2O",
+      "FeO",
+      "Fe3O4",
+      "Fe(OH)2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rust is hydrated ferric oxide with the chemical formula Fe2O3 · x H2O.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "According to Bronsted-Lowry theory, what is a base?",
+    "options": [
+      "Proton acceptor",
+      "Proton donor",
+      "Electron pair donor",
+      "Electron pair acceptor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to Brønsted-Lowry concept, an acid is a proton donor and a base is a proton acceptor.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that limiting molar conductivity of an electrolyte can be represented as the sum of individual contributions of anions and cations?",
+    "options": [
+      "Kohlrausch's Law",
+      "Faraday's First Law",
+      "Ostwald's Dilution Law",
+      "Debye-Hückel-Onsager Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kohlrausch's Law of Independent Migration of Ions states that limiting molar conductivity of an electrolyte is the sum of limiting molar conductivities of its constituent ions.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reagent converts an amide into a primary amine with one less carbon atom?",
+    "options": [
+      "Br2 / KOH",
+      "LiAlH4",
+      "PCl5",
+      "HNO2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hofmann Bromamide Degradation reaction treats an acid amide with bromine in aqueous or ethanolic KOH to yield a primary amine containing one carbon fewer.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the bond angle in a water (H2O) molecule?",
+    "options": [
+      "104.5°",
+      "109.5°",
+      "120°",
+      "180°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Water has sp3 hybridisation with 2 bond pairs and 2 lone pairs. Repulsion from lone pairs distorts tetrahedral angle down to 104.5°.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which rule predicts the major alkene product in an elimination reaction of alkyl halides?",
+    "options": [
+      "Saytzeff's (Zaitsev's) Rule",
+      "Markovnikov's Rule",
+      "Anti-Markovnikov's Rule",
+      "Hund's Rule"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Saytzeff's Rule states that dehydrohalogenation reactions yield the more highly substituted (more stable) alkene as the major product.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the Oxidation Number of Chromium in Potassium dichromate (K2Cr2O7)?",
+    "options": [
+      "+6",
+      "+3",
+      "+7",
+      "+2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In K2Cr2O7: 2(+1) + 2(Cr) + 7(-2) = 0 ⇒ 2Cr - 12 = 0 ⇒ Cr = +6.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following is a non-reducing sugar?",
+    "options": [
+      "Sucrose",
+      "Glucose",
+      "Maltose",
+      "Lactose"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In sucrose, the reducing groups (anomeric carbons) of both glucose and fructose are involved in glycosidic bond formation, making it a non-reducing sugar.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which physical process is responsible for the Tyndall effect observed in colloidal solutions?",
+    "options": [
+      "Scattering of light",
+      "Refraction of light",
+      "Absorption of light",
+      "Dispersion of light"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tyndall effect is the phenomenon of scattering of light beam by suspended colloidal particles in a medium.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the SI unit of molar conductivity (Λm)?",
+    "options": [
+      "S cm^2 mol^-1",
+      "S m^-1",
+      "Ohm^-1 cm^-1",
+      "S m^2 mol^-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard SI unit for molar conductivity is Siemens meter squared per mole (S m^2 mol^-1).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which alloy contains copper and zinc?",
+    "options": [
+      "Brass",
+      "Bronze",
+      "Solder",
+      "Steel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Brass is an alloy composed mainly of copper and zinc. (Bronze is an alloy of copper and tin).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation state of Nickel in [Ni(CO)4]?",
+    "options": [
+      "0",
+      "+2",
+      "+4",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbon monoxide (CO) is a neutral ligand. Since the overall complex is neutral, the oxidation state of nickel is 0.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which polymer is commonly known as Teflon?",
+    "options": [
+      "Polytetrafluoroethylene (PTFE)",
+      "Polyacrylonitrile",
+      "Polyvinyl chloride",
+      "Polystyrene"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Teflon is the brand name for polytetrafluoroethylene (PTFE), produced by polymerizing tetrafluoroethylene (CF2=CF2).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the change in enthalpy (ΔH) for an ideal gas undergoing an isothermal process?",
+    "options": [
+      "0",
+      "Positive",
+      "Negative",
+      "Infinite"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For an ideal gas, enthalpy H depends solely on temperature. In an isothermal process (ΔT = 0), ΔH = n Cp ΔT = 0.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  }
+]
+[
+  {
+    "question": "Which quantum number determines the spatial orientation of an orbital?",
+    "options": [
+      "Magnetic quantum number (ml)",
+      "Principal quantum number (n)",
+      "Azimuthal quantum number (l)",
+      "Spin quantum number (ms)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The magnetic quantum number (ml) specifies the orientation of the orbital in space relative to a coordinate system.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the hybridization of the central atom in SF6?",
+    "options": [
+      "sp3d2",
+      "sp3d",
+      "sp3",
+      "dsp2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sulfur in SF6 forms 6 single bonds with no lone pairs (steric number = 6), corresponding to sp3d2 hybridization and octahedral geometry.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which factor does NOT affect the rate constant (k) of a chemical reaction?",
+    "options": [
+      "Initial concentration of reactants",
+      "Temperature",
+      "Presence of a catalyst",
+      "Activation energy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The rate constant k depends on temperature, activation energy, and catalysts (as described by the Arrhenius equation), but is independent of initial reactant concentrations.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which functional group is formed in the Victor Meyer test when a primary alcohol reacts to form a blood-red color?",
+    "options": [
+      "Nitrolic acid salt",
+      "Pseudonitrol",
+      "Ketone",
+      "Carboxylic acid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the Victor Meyer test, primary alcohols produce nitrolic acids which turn blood-red upon alkalinization with NaOH.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the unit of the rate constant for a second-order reaction?",
+    "options": [
+      "L mol^-1 s^-1",
+      "mol L^-1 s^-1",
+      "s^-1",
+      "L^2 mol^-2 s^-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a second-order reaction, rate = k[A]^2. Units: (mol L^-1 s^-1) / (mol L^-1)^2 = L mol^-1 s^-1.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that the partial pressure of a volatile component in a solution is directly proportional to its mole fraction?",
+    "options": [
+      "Raoult's Law",
+      "Henry's Law",
+      "Dalton's Law",
+      "Boyle's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Raoult's law states that P_A = P°_A * x_A for ideal solutions containing volatile components.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the Coordination Number and oxidation state of Fe in [Fe(CN)6]4-?",
+    "options": [
+      "Coordination number = 6, Oxidation state = +2",
+      "Coordination number = 6, Oxidation state = +3",
+      "Coordination number = 4, Oxidation state = +2",
+      "Coordination number = 6, Oxidation state = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "There are 6 monodentate CN- ligands (CN = 6). Solving x + 6(-1) = -4 gives x = +2 for iron.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which halogen forms the strongest hydrogen bonding?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fluorine is the most electronegative element with a small atomic radius, allowing it to form the strongest hydrogen bonds (e.g., in HF).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What type of colloid is formed when liquid is dispersed in a gas?",
+    "options": [
+      "Liquid Aerosol",
+      "Foam",
+      "Emulsion",
+      "Sol"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Liquid droplets dispersed in a gaseous medium form a liquid aerosol (such as fog, mist, or clouds).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reaction converts phenol to salicylaldehyde using chloroform and aqueous NaOH?",
+    "options": [
+      "Reimer-Tiemann Reaction",
+      "Kolbe's Reaction",
+      "Friedel-Crafts Acylation",
+      "Stephen Reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Reimer-Tiemann reaction introduces an aldehyde group (-CHO) ortho to the -OH group of phenol using CHCl3 and NaOH.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the empirical relation between standard free energy change (ΔG°) and equilibrium constant (K)?",
+    "options": [
+      "ΔG° = -R T ln(K)",
+      "ΔG° = R T ln(K)",
+      "ΔG° = -n F K",
+      "K = -ΔG° / RT"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The fundamental thermodynamic relation connecting standard free energy and equilibrium constant is ΔG° = -RT ln(K).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which d-block element has the highest melting point?",
+    "options": [
+      "Tungsten (W)",
+      "Iron (Fe)",
+      "Chromium (Cr)",
+      "Osmium (Os)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tungsten (W) has strong interatomic metallic bonding due to maximum unpaired d-electrons, resulting in the highest melting point among metals (3422°C).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the major product obtained when propene reacts with HBr in the presence of peroxides?",
+    "options": [
+      "1-Bromopropane",
+      "2-Bromopropane",
+      "1,2-Dibromopropane",
+      "Propane"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the presence of organic peroxides, addition of HBr to unsymmetrical alkenes follows the Kharasch (Anti-Markovnikov) effect to give 1-bromopropane.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which amino acid is achiral?",
+    "options": [
+      "Glycine",
+      "Alanine",
+      "Valine",
+      "Leucine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Glycine (H2N-CH2-COOH) has two hydrogen atoms attached to its alpha carbon, making it the only standard achiral amino acid.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the magnetic property of [Fe(CN)6]3-?",
+    "options": [
+      "Paramagnetic with 1 unpaired electron",
+      "Diamagnetic",
+      "Paramagnetic with 5 unpaired electrons",
+      "Ferromagnetic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fe3+ (d5) with strong field ligand CN- causes electron pairing: t2g5 eg0. This leaves 1 unpaired electron, making it weakly paramagnetic.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which technique is used to separate isotopes of an element based on mass-to-charge ratio?",
+    "options": [
+      "Mass Spectrometry",
+      "Paper Chromatography",
+      "Fractional Distillation",
+      "Electrophoresis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mass spectrometry separates charged atomic or molecular species based on their mass-to-charge ratio (m/z).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which rule dictates that the most stable arrangement of electrons in subshells is the one with the maximum number of parallel spins?",
+    "options": [
+      "Hund's Rule",
+      "Aufbau Principle",
+      "Pauli Exclusion Principle",
+      "Heisenberg Principle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hund's Rule of Maximum Multiplicity states that spin pairing is minimized in degenerate orbitals to maximize total spin stability.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What product is formed when ethyl iodide is heated with dry silver oxide (Ag2O)?",
+    "options": [
+      "Diethyl ether",
+      "Ethanol",
+      "Ethyl acetate",
+      "Ethene"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Heating an alkyl halide with dry Ag2O forms an ether: 2 C2H5I + Ag2O → (C2H5)2O + 2 AgI.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relation between pressure (P) and volume (V) during an adiabatic process for an ideal gas?",
+    "options": [
+      "P V^γ = constant",
+      "P V = constant",
+      "P / T = constant",
+      "V / T = constant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a reversible adiabatic process involving an ideal gas, the equation of state is P V^γ = constant, where γ = Cp/Cv.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which indicator turns pink in basic solutions?",
+    "options": [
+      "Phenolphthalein",
+      "Methyl orange",
+      "Litmus paper",
+      "Bromothymol blue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Phenolphthalein is colorless in acidic and neutral solutions but turns pink/magenta in basic solutions (pH > 8.2).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the primary function of cryolite (Na3AlF6) in the Hall-Héroult process for aluminum extraction?",
+    "options": [
+      "Lower the melting point and increase electrical conductivity of alumina",
+      "Act as an oxidizing agent",
+      "Remove silica impurities",
+      "Prevent oxidation of anode"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cryolite lowers the melting temperature of pure alumina from ~2050°C to ~950°C and increases the electrolyte's electrical conductivity.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which alloy is composed of copper and tin?",
+    "options": [
+      "Bronze",
+      "Brass",
+      "Solder",
+      "German Silver"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bronze is primarily a metal alloy consisting of copper combined with tin.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation state of Nitrogen in HNO3?",
+    "options": [
+      "+5",
+      "+3",
+      "+4",
+      "-3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Nitric acid (HNO3): (+1) + N + 3(-2) = 0 ⇒ N - 5 = 0 ⇒ N = +5.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which organic compound undergoes the Hell-Volhard-Zelinsky (HVZ) reaction?",
+    "options": [
+      "Carboxylic acids having α-hydrogen",
+      "Aldehydes lacking α-hydrogen",
+      "Primary aliphatic amines",
+      "Aromatic ketones"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The HVZ reaction halogenates carboxylic acids possessing at least one alpha-hydrogen atom at the alpha position using X2 and red phosphorus.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the shape of H2O2 (Hydrogen peroxide) in the solid state?",
+    "options": [
+      "Non-planar open book structure",
+      "Linear",
+      "Trigonal planar",
+      "Tetrahedral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H2O2 has a non-planar 'open book' geometry in both gas and crystalline solid phases due to lone pair repulsions.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which catalyst is used in the synthesis of high-density polyethylene (HDPE)?",
+    "options": [
+      "Ziegler-Natta catalyst",
+      "Wilkinson's catalyst",
+      "Lindlar's catalyst",
+      "Adams' catalyst"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ziegler-Natta catalyst (Triethylaluminum + Titanium tetrachloride, TiCl4 + Al(C2H5)3) synthesizes unbranched high-density polyethylene under low pressure.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What happens to the solubility of most gases in liquids as temperature increases?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains constant",
+      "First increases then decreases"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gas dissolution in liquid is an exothermic process. Increasing temperature shifts equilibrium backward according to Le Chatelier's principle, decreasing gas solubility.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which acid is present in ant stings?",
+    "options": [
+      "Formic acid (Methanoic acid)",
+      "Acetic acid",
+      "Citric acid",
+      "Oxalic acid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ant stings introduce formic acid (HCOOH), causing skin irritation and inflammation.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the molecular formula of ferrocene?",
+    "options": [
+      "Fe(C5H5)2",
+      "Fe(C6H6)2",
+      "Fe(CO)5",
+      "Fe(C2H4)3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ferrocene is a sandwich organometallic complex with formula Fe(η5-C5H5)2 consisting of two cyclopentadienyl rings bound to a central Fe(II) center.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the standard reduction potential of the Standard Hydrogen Electrode (SHE)?",
+    "options": [
+      "0.00 V",
+      "1.00 V",
+      "-1.00 V",
+      "0.059 V"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By international convention, the standard electrode potential of SHE is assigned as exactly 0.00 Volts at all temperatures.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that mass can neither be created nor destroyed in a chemical reaction?",
+    "options": [
+      "Law of Conservation of Mass",
+      "Law of Definite Proportions",
+      "Law of Multiple Proportions",
+      "Gay-Lussac's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Formulated by Antoine Lavoisier, the Law of Conservation of Mass states that total mass of products equals total mass of reactants.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the bond order of O2+ ion?",
+    "options": [
+      "2.5",
+      "2.0",
+      "1.5",
+      "3.0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "O2 has 16 electrons (bond order 2.0). Removing 1 electron from an antibonding orbital yields O2+ with 15 electrons and bond order (10-5)/2 = 2.5.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which element exhibits the highest oxidation state in the periodic table?",
+    "options": [
+      "Osmium (Os)",
+      "Manganese (Mn)",
+      "Uranium (U)",
+      "Chromium (Cr)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Osmium (and Ruthenium) displays an oxidation state of +8 (e.g., in OsO4), which is among the highest known chemical oxidation states.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What product is formed by the reaction of an aldehyde with Fehling's solution?",
+    "options": [
+      "Red precipitate of Cu2O",
+      "Silver mirror",
+      "Blue precipitate of Cu(OH)2",
+      "Black precipitate of CuO"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aliphatic aldehydes reduce Fehling's solution (Cu2+ complex) to form a characteristic red precipitate of cuprous oxide (Cu2O).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which thermodynamic quantity is zero for a perfectly crystalline substance at absolute zero temperature (0 K)?",
+    "options": [
+      "Entropy (S)",
+      "Enthalpy (H)",
+      "Internal Energy (U)",
+      "Gibbs Free Energy (G)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Third Law of Thermodynamics states that the entropy of a pure, perfectly crystalline substance is zero at absolute zero temperature.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which functional group is identified by the Carbylamine test?",
+    "options": [
+      "Primary amine",
+      "Secondary amine",
+      "Tertiary amine",
+      "Nitro compound"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Carbylamine test specifically identifies primary amines (aliphatic or aromatic) by converting them into foul-smelling isocyanides upon heating with CHCl3 and KOH.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the packing fraction of a Simple Cubic lattice?",
+    "options": [
+      "0.524",
+      "0.680",
+      "0.740",
+      "0.320"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a simple cubic unit cell, packing efficiency is π/6 ≈ 0.524 (or 52.4%).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following compounds does NOT undergo aldol condensation?",
+    "options": [
+      "Benzaldehyde",
+      "Acetaldehyde",
+      "Propanal",
+      "Acetone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aldol condensation requires presence of α-hydrogen atoms. Benzaldehyde lacks α-hydrogens and cannot undergo self-aldol condensation.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the principal ore of Zinc?",
+    "options": [
+      "Zinc Blende (ZnS)",
+      "Calamine (ZnCO3)",
+      "Zincite (ZnO)",
+      "Franklinite"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zinc Blende (sphalerite, ZnS) is the chief commercial ore of zinc metal.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which property of a solution depends ONLY on the number of solute particles and not their identity?",
+    "options": [
+      "Colligative property",
+      "Intensive property",
+      "Chemical property",
+      "Additive property"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Colligative properties (like osmotic pressure, elevation in boiling point) depend solely on the total concentration of dissolved solute particles.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the shape of XeF2 (Xenon difluoride) molecule?",
+    "options": [
+      "Linear",
+      "Bent",
+      "Trigonal planar",
+      "Tetrahedral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "XeF2 has 2 bonding pairs and 3 equatorial lone pairs around Xe (sp3d hybridization), resulting in a linear molecular shape.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reaction converts an amide to a primary amine using LiAlH4?",
+    "options": [
+      "Reduction",
+      "Hoffmann Bromamide Degradation",
+      "Decarboxylation",
+      "Hydrolysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reduction of amides using LiAlH4 yields primary amines containing the same number of carbon atoms (R-CONH2 → R-CH2NH2).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the coordination number of each ion in the CsCl crystal lattice?",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Cesium Chloride structure, Cs+ occupies the body center and is surrounded by 8 Cl- ions at the corners (8:8 coordination).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which polymer is formed by the condensation of ethylene glycol and terephthalic acid?",
+    "options": [
+      "Dacron (Terylene)",
+      "Nylon-6",
+      "Bakelite",
+      "Teflon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Polyethylene terephthalate (Dacron/Terylene) is a polyester formed by condensation polymerisation of ethylene glycol and terephthalic acid.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which noble gas is formed during radioactive decay of radium?",
+    "options": [
+      "Radon",
+      "Xenon",
+      "Krypton",
+      "Argon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Radon-222 is generated directly from the alpha decay of Radium-226.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the hybridisation of carbon in graphite?",
+    "options": [
+      "sp2",
+      "sp3",
+      "sp",
+      "dsp2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In graphite, each carbon atom is sp2 hybridized, forming planar hexagonal rings with delocalized pi-electrons between layers.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which metal is purified using the Van Arkel method?",
+    "options": [
+      "Zirconium",
+      "Copper",
+      "Iron",
+      "Zinc"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Van Arkel de Boer process purifies metals like Zirconium (Zr) and Titanium (Ti) by converting them into volatile iodides and thermal decomposition.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relationship between the half-life of a first-order reaction and the initial concentration of reactant?",
+    "options": [
+      "Half-life is independent of initial concentration",
+      "Half-life is directly proportional to initial concentration",
+      "Half-life is inversely proportional to initial concentration",
+      "Half-life is proportional to square of initial concentration"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a first-order reaction, t1/2 = 0.693 / k, which is entirely independent of initial reactant concentration [A]0.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which test distinguishes aliphatic primary amines from aromatic primary amines using cold nitrous acid?",
+    "options": [
+      "Azo-dye test",
+      "Carbylamine test",
+      "Hinsberg test",
+      "Biuret test"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aromatic primary amines form stable diazonium salts at 0-5°C which couple with β-naphthol to yield a orange-red dye, whereas aliphatic amines evolve N2 gas.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the total number of atoms per unit cell in a Face-Centered Cubic (FCC) lattice?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In FCC: 8 corner atoms × 1/8 + 6 face-centered atoms × 1/2 = 1 + 3 = 4 atoms.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  }
+]
