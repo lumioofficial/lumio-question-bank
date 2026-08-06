@@ -1,11 +1,2096 @@
 [
   {
-    "id": 1,
-    "question": "2 + 2 = ?",
-    "options": ["2", "3", "4", "5"],
+    "question": "A body of mass m moving with velocity v collides elastically head-on with another identical body at rest. After collision, their velocities respectively are:",
+    "options": [
+      "0 and v",
+      "v and 0",
+      "v/2 and v/2",
+      "-v and v"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a head-on elastic collision between two equal masses, the bodies interchange their velocities. Thus, the first body comes to rest (0) and the second moves with initial velocity v.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two spheres of radii r and 2r are made of the same material. What is the ratio of their terminal velocities in a viscous liquid?",
+    "options": [
+      "1:2",
+      "1:4",
+      "1:8",
+      "2:1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Terminal velocity v_t is directly proportional to the square of the radius (r²). Ratio = (r1/r2)² = (r/2r)² = 1/4.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A projectile is thrown with speed u at an angle θ with the horizontal. The magnitude of change in momentum when it hits the ground at the same level is:",
+    "options": [
+      "Zero",
+      "m u sinθ",
+      "2 m u sinθ",
+      "2 m u cosθ"
+    ],
     "correctAnswer": 2,
-    "explanation": "2 + 2 = 4",
+    "explanation": "Horizontal component of velocity remains unchanged (u cosθ). Vertical component changes from +u sinθ to -u sinθ. Total change in velocity = 2 u sinθ, so change in momentum = 2 m u sinθ.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A solid sphere and a solid cylinder of same mass and outer radius roll down an inclined plane without slipping from the same height. Which reaches the bottom first?",
+    "options": [
+      "Solid sphere",
+      "Solid cylinder",
+      "Both reach at the same time",
+      "Depends on the angle of inclination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acceleration down an incline is a = g sinθ / (1 + k²/r²). Solid sphere has smaller (k²/r²) = 2/5 = 0.4 compared to solid cylinder = 1/2 = 0.5. Higher acceleration means sphere reaches first.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "A body executes simple harmonic motion with an amplitude A. At what displacement from the mean position is its kinetic energy equal to its potential energy?",
+    "options": [
+      "A / 2",
+      "A / √2",
+      "A / 4",
+      "A / √3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "KE = PE => (1/2)mω²(A² - x²) = (1/2)mω²x² => A² - x² = x² => 2x² = A² => x = A / √2.",
     "difficulty": "easy",
-    "subject": "Mathematics"
+    "subject": "Physics"
+  },
+  {
+    "question": "If the earth suddenly stops rotating about its axis, the value of acceleration due to gravity at the equator will:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain unchanged",
+      "Become zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Latitude variation formula is g' = g - R ω² cos²λ. At equator (λ=0), g' = g - R ω². If rotation stops (ω=0), g' increases to g.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two wires A and B are of the same material. Wire A has length L and radius r. Wire B has length 2L and radius 2r. The ratio of Young's modulus of A to B is:",
+    "options": [
+      "1:1",
+      "1:2",
+      "2:1",
+      "1:4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Young's modulus depends strictly on the material of the wire, not on dimensions. Since both wires are made of the same material, the ratio is 1:1.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal fluid flows through a horizontal tube of variable cross-section. Where the area of cross-section is minimum, the fluid velocity and pressure respectively are:",
+    "options": [
+      "Maximum, Maximum",
+      "Minimum, Minimum",
+      "Maximum, Minimum",
+      "Minimum, Maximum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "By continuity equation (A v = constant), smaller area means maximum velocity. By Bernoulli's principle (P + 1/2 ρ v² = constant), higher velocity results in minimum static pressure.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A particle moves in a circle of radius R with constant speed v. The average acceleration over half a revolution is:",
+    "options": [
+      "Zero",
+      "v² / R",
+      "2 v² / (π R)",
+      "v² / (2 π R)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Change in velocity over half a circle = v - (-v) = 2v. Time taken t = π R / v. Average acceleration = Change in velocity / time = 2v / (π R / v) = 2 v² / (π R).",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work done in blowing a soap bubble of radius R is W. The work done in blowing it to a radius 2R is:",
+    "options": [
+      "2 W",
+      "3 W",
+      "4 W",
+      "8 W"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Work done W = T × Total surface area = T × 2(4π R²) = 8 π T R². For radius 2R, total work W' = 8 π T (2R)² = 4 W. Additional work required = W' - W = 3 W.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "If the distance between two point masses is reduced to half, the gravitational force of attraction between them increases by:",
+    "options": [
+      "100%",
+      "200%",
+      "300%",
+      "400%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "F ∝ 1/r². If r becomes r/2, F' becomes 4F. Percentage increase = [(4F - F)/F] × 100% = 300%.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A elevator cab of mass M is moving upward with an acceleration 'a'. The tension in the supporting cable is:",
+    "options": [
+      "M g",
+      "M (g - a)",
+      "M (g + a)",
+      "M a"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For upward acceleration, net force equation is T - Mg = Ma => T = M(g + a).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A wheel of radius 0.5 m is rotated from rest with angular acceleration 2 rad/s². What is its angular velocity after 5 seconds?",
+    "options": [
+      "5 rad/s",
+      "10 rad/s",
+      "20 rad/s",
+      "2.5 rad/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using kinematic rotational equation ω = ω₀ + α t = 0 + (2 rad/s² × 5 s) = 10 rad/s.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which of the following physical quantities is a scalar quantity?",
+    "options": [
+      "Angular Momentum",
+      "Electric Dipole Moment",
+      "Magnetic Flux",
+      "Gravitational Field Intensity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Magnetic flux is a dot product of magnetic field and area vector (Φ = B · A), making it a scalar quantity.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The time period of a simple pendulum inside a freely falling lift is:",
+    "options": [
+      "Zero",
+      "Infinite",
+      "Same as on ground",
+      "2 seconds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a freely falling lift, effective acceleration due to gravity g_eff = g - g = 0. Time period T = 2π √(L / g_eff) = 2π √(L / 0) = Infinite.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "If momentum of a body is increased by 50%, its kinetic energy increases by:",
+    "options": [
+      "50%",
+      "100%",
+      "125%",
+      "150%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "KE = p² / 2m. New momentum p' = 1.5 p. New KE' = (1.5 p)² / 2m = 2.25 KE. Percentage increase = (2.25 - 1) × 100% = 125%.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "When a spring is stretched by 2 cm, its stored potential energy is U. If it is stretched by 8 cm, the stored energy will be:",
+    "options": [
+      "4 U",
+      "8 U",
+      "16 U",
+      "2 U"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Potential energy U = (1/2) k x². Since x increases from 2 cm to 8 cm (4 times), U increases by (4)² = 16 times.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The center of mass of a system of particles does NOT depend on:",
+    "options": [
+      "Mass of the particles",
+      "Positions of the particles",
+      "Forces acting on the particles",
+      "Relative distances between particles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Center of mass is purely a geometrical mass-weighted average position vector (R_cm = ∑ m_i r_i / ∑ m_i). It does not depend on applied external or internal forces.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The dimension of surface tension is:",
+    "options": [
+      "[M L T⁻²]",
+      "[M L⁰ T⁻²]",
+      "[M L⁻¹ T⁻²]",
+      "[M L T⁻¹]"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Surface tension = Force / Length = [M L T⁻²] / [L] = [M L⁰ T⁻²].",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A capillary tube of radius r is immersed in water and water rises to height h. If the tube is cut so that its length above water level is h/2, what happens?",
+    "options": [
+      "Water overflows like a fountain",
+      "Water level rises to the top and stays without overflowing",
+      "Water level falls back to zero",
+      "Water stays at height h/4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to Jurin's Law, h × r = constant. If height is insufficient, radius of curvature of the liquid meniscus increases so that the water reaches the top edge without overflowing.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]
+[
+  {
+    "question": "At what temperature do the Celsius and Fahrenheit scales read the exact same value?",
+    "options": [
+      "-40°",
+      "0°",
+      "40°",
+      "100°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using C/5 = (F - 32)/9, set C = F = x. So x/5 = (x - 32)/9 => 9x = 5x - 160 => 4x = -160 => x = -40°.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal gas undergoes an isothermal expansion. The change in its internal energy (ΔU) is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Equal to work done"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Internal energy of an ideal gas depends solely on temperature. Since temperature remains constant in an isothermal process (ΔT = 0), the change in internal energy ΔU = 0.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A black body at 227°C radiates heat at a rate of 20 cal/s. At 727°C, the rate of heat radiation will be:",
+    "options": [
+      "40 cal/s",
+      "80 cal/s",
+      "160 cal/s",
+      "320 cal/s"
+    ],
+    "correctAnswer": 3,
+    "explanation": "By Stefan's Law, E ∝ T⁴. T1 = 227 + 273 = 500 K, T2 = 727 + 273 = 1000 K (doubled). E2/E1 = (1000/500)⁴ = 2⁴ = 16. E2 = 16 × 20 = 320 cal/s.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "If a gas is compressed adiabatically to 1/8th of its original volume, its final pressure becomes (given γ = 5/3):",
+    "options": [
+      "8 times",
+      "16 times",
+      "32 times",
+      "64 times"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For an adiabatic process, P1 V1^γ = P2 V2^γ => P2 = P1 × (V1 / V2)^γ = P1 × (8)^(5/3) = P1 × (2³)^(5/3) = P1 × 2⁵ = 32 P1.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a Newton's rings experiment, the central spot in reflected light is dark because:",
+    "options": [
+      "Light rays undergo destructive interference due to a 180° (π) phase change upon reflection at the denser glass boundary",
+      "No reflection takes place at the point of contact",
+      "Light is completely absorbed by the glass plate",
+      "Constructive interference occurs with zero path difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At the point of contact, film thickness t = 0. However, reflection at the upper surface of the bottom plate (rarer-to-denser interface) causes an additional phase change of π (or path change of λ/2), resulting in destructive interference and a dark central spot.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two coherent light sources of intensities I and 4I interfere. What are the maximum and minimum intensities in the interference pattern?",
+    "options": [
+      "5I and I",
+      "9I and I",
+      "9I and 3I",
+      "4I and I"
+    ],
+    "correctAnswer": 1,
+    "explanation": "I_max = (√I1 + √I2)² = (√I + √4I)² = (√I + 2√I)² = (3√I)² = 9I. I_min = (√I2 - √I1)² = (2√I - √I)² = I.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Light of wavelength 600 nm passes through a single slit of width 0.2 mm. The angular width of the central principal maximum is:",
+    "options": [
+      "3 × 10⁻³ rad",
+      "6 × 10⁻³ rad",
+      "1.2 × 10⁻³ rad",
+      "1.5 × 10⁻³ rad"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Angular width of central maximum in single-slit diffraction = 2λ / a = 2 × (600 × 10⁻⁹ m) / (0.2 × 10⁻³ m) = 1200 × 10⁻⁹ / 2 × 10⁻⁴ = 6 × 10⁻³ rad.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "A source of sound of frequency 500 Hz approaches a stationary listener with a velocity of 30 m/s. If the velocity of sound in air is 330 m/s, the apparent frequency heard by listener is:",
+    "options": [
+      "450 Hz",
+      "500 Hz",
+      "550 Hz",
+      "600 Hz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "By Doppler Effect: f' = f × [v / (v - v_s)] = 500 × [330 / (330 - 30)] = 500 × (330 / 300) = 550 Hz.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In an open organ pipe, the ratio of frequencies of the fundamental, first overtone, and second overtone (harmonics) is:",
+    "options": [
+      "1 : 2 : 3",
+      "1 : 3 : 5",
+      "1 : 4 : 9",
+      "2 : 3 : 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An open organ pipe produces both even and odd harmonics in consecutive integer ratios 1 : 2 : 3 : 4...",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A ray of light is incident on a plane glass slab at Brewster's angle (i_p). What is the angle between the reflected ray and the refracted ray?",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When light is incident at Brewster's angle, the reflected ray (completely polarized) and refracted ray are perpendicular to each other (angle = 90°).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two thin lenses of powers +5 D and -2 D are placed in contact coaxially. What is the focal length of the combined lens system?",
+    "options": [
+      "33.3 cm",
+      "50 cm",
+      "20 cm",
+      "10 cm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net power P = P1 + P2 = +5 - 2 = +3 D. Combined focal length f = 1/P = 1/3 m = 100/3 cm ≈ 33.3 cm.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the change in entropy when 1 kg of ice at 0°C melts into water at 0°C? (Latent heat of fusion = 3.36 × 10⁵ J/kg)",
+    "options": [
+      "0 J/K",
+      "1230.8 J/K",
+      "273 J/K",
+      "3360 J/K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Change in entropy ΔS = dQ / T = (m × L) / T = (1 kg × 3.36 × 10⁵ J/kg) / 273.15 K ≈ 1230.8 J/K.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "The mean translational kinetic energy per molecule of a monoatomic gas at temperature T is given by:",
+    "options": [
+      "(1/2) k_B T",
+      "(3/2) k_B T",
+      "(5/2) k_B T",
+      "3 k_B T"
+    ],
+    "correctAnswer": 1,
+    "explanation": "By the law of equipartition of energy, each degree of freedom contributes (1/2) k_B T. A monoatomic gas has 3 translational degrees of freedom, so KE = (3/2) k_B T.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A glass prism of refractive index 1.5 has an angle of prism A = 6°. The angle of minimum deviation for thin prism is:",
+    "options": [
+      "3°",
+      "6°",
+      "9°",
+      "1.5°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a thin prism, minimum deviation δ = (μ - 1) A = (1.5 - 1) × 6° = 0.5 × 6° = 3°.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a closed organ pipe of length L, the wavelength of the fundamental mode is:",
+    "options": [
+      "L",
+      "2 L",
+      "4 L",
+      "L / 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For a closed pipe, fundamental mode has a node at the closed end and antinode at open end, making length L = λ / 4. Therefore, fundamental wavelength λ = 4 L.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which of the following thermal processes occurs at a constant pressure?",
+    "options": [
+      "Isothermal",
+      "Isochoric",
+      "Isobaric",
+      "Adiabatic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An isobaric process is a thermodynamic process in which the pressure of the system remains constant throughout.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The velocity of sound waves in air is independent of:",
+    "options": [
+      "Temperature",
+      "Humidity",
+      "Pressure at constant temperature",
+      "Density of medium"
+    ],
+    "correctAnswer": 2,
+    "explanation": "By Laplace formula v = √(γ P / ρ). At constant temperature, P/ρ remains constant, so changes in pressure do not affect the velocity of sound.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a simple astronomical telescope in normal adjustment, the distance between the objective and eyepiece lenses is:",
+    "options": [
+      "f_o - f_e",
+      "f_o + f_e",
+      "f_o × f_e",
+      "(f_o + f_e) / 2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In normal adjustment, the final image is formed at infinity, so length of telescope tube L = focal length of objective (f_o) + focal length of eyepiece (f_e).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two sound waves of equations y1 = A sin(100π t) and y2 = A sin(104π t) produce beats. The beat frequency is:",
+    "options": [
+      "2 Hz",
+      "4 Hz",
+      "100 Hz",
+      "104 Hz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ω1 = 100π => f1 = 50 Hz. ω2 = 104π => f2 = 52 Hz. Beat frequency = |f2 - f1| = 52 - 50 = 2 Hz.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "According to Wien's Displacement Law, the product of peak emission wavelength (λ_max) and absolute temperature (T) is:",
+    "options": [
+      "Variable",
+      "Constant",
+      "Zero",
+      "Inversely proportional to T"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wien's law states λ_max × T = b (Wien's constant ≈ 2.898 × 10⁻³ m·K).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  }
+]
+[
+  {
+    "question": "Two electric point charges +q and +4q are separated by a distance L. Where must a third charge -q be placed on the line joining them for it to be in equilibrium?",
+    "options": [
+      "L/3 from +q",
+      "L/4 from +q",
+      "L/2 from +q",
+      "2L/3 from +q"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For equilibrium, electrostatic forces from both charges must balance: k q q'/x² = k (4q) q'/(L-x)². Taking square root: 1/x = 2/(L-x) => L - x = 2x => 3x = L => x = L/3 from charge +q.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Three capacitors each of capacitance C are connected in series. What is the equivalent capacitance of the combination?",
+    "options": [
+      "3 C",
+      "C / 3",
+      "3 / C",
+      "C + 3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For identical capacitors in series, 1/C_eq = 1/C + 1/C + 1/C = 3/C, giving C_eq = C/3.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "When a copper wire is stretched to double its original length keeping its volume constant, its electrical resistance becomes:",
+    "options": [
+      "Doubled",
+      "Halved",
+      "Four times",
+      "Unchanged"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Resistance R = ρ L / A. Since volume V = A × L is constant, A = V/L. So R = ρ L² / V. Since length is doubled (2L), new resistance becomes 2² = 4 times initial resistance.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "An electron enters a uniform magnetic field perpendicularly with speed v. The path followed by the electron is a:",
+    "options": [
+      "Straight line",
+      "Parabola",
+      "Circle",
+      "Helix"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When a charged particle enters perpendicularly (θ = 90°) to a uniform magnetic field, the magnetic Lorentz force acts as centripetal force, making the path circular.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the force between two long parallel wires separated by distance d carrying currents I1 and I2 in opposite directions?",
+    "options": [
+      "Attractive force of (μ₀ I1 I2) / (2π d)",
+      "Repulsive force of (μ₀ I1 I2) / (2π d)",
+      "Attractive force of (μ₀ I1 I2) / (4π d)",
+      "Zero force"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parallel conductors carrying currents in opposite directions repel each other with force per unit length F/L = (μ₀ I1 I2) / (2π d).",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a pure inductive AC circuit, what is the phase relationship between voltage V and current I?",
+    "options": [
+      "Voltage and current are in phase",
+      "Voltage leads current by 90° (π/2)",
+      "Current leads voltage by 90° (π/2)",
+      "Voltage leads current by 180° (π)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In an ideal inductor, inductive reactance causes alternating voltage to lead alternating current by a phase angle of 90° (π/2 radians).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A transformer steps up 220 V to 2200 V. If primary current is 5 A and efficiency is 100%, what is the secondary current?",
+    "options": [
+      "0.5 A",
+      "50 A",
+      "2 A",
+      "10 A"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For 100% efficient transformer, power output = power input: V_s × I_s = V_p × I_p => 2200 × I_s = 220 × 5 => I_s = 1100 / 2200 = 0.5 A.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the magnitude of magnetic dipole moment of a current loop of radius R carrying current I?",
+    "options": [
+      "I × 2πR",
+      "I × π R²",
+      "I / (π R²)",
+      "2π I / R"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Magnetic dipole moment M = I × Area = I × (π R²).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "If the threshold wavelength for photoelectric emission from a metal is 600 nm, photoelectric emission will occur when light of which wavelength strikes it?",
+    "options": [
+      "700 nm",
+      "800 nm",
+      "500 nm",
+      "650 nm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Photoelectric emission occurs only when the incident wavelength is less than or equal to threshold wavelength (λ ≤ λ_th). 500 nm is less than 600 nm.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the ratio of minimum wavelength of Lyman series to minimum wavelength of Balmer series in hydrogen spectrum?",
+    "options": [
+      "1 : 4",
+      "4 : 1",
+      "1 : 2",
+      "2 : 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For minimum wavelength (series limit, n2 = ∞): 1/λ_L = R(1/1² - 0) = R. For Balmer: 1/λ_B = R(1/2² - 0) = R/4. Therefore, λ_L / λ_B = (R/4) / R = 1 / 4.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "The rest mass of a photon is:",
+    "options": [
+      "1.67 × 10⁻²⁷ kg",
+      "9.1 × 10⁻³¹ kg",
+      "Zero",
+      "Dependent on its frequency"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Photons travel at speed of light c in vacuum, and according to special relativity, their rest mass is strictly zero.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a nuclear reactor, heavy water (D2O) or graphite is primarily used as a:",
+    "options": [
+      "Coolant",
+      "Moderator",
+      "Control rod",
+      "Nuclear fuel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A moderator is used to slow down fast-moving neutrons produced during fission to thermal speeds to sustain the chain reaction.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The band gap energy (E_g) for a typical semiconductor like Germanium at room temperature is approximately:",
+    "options": [
+      "0.7 eV",
+      "1.1 eV",
+      "3.0 eV",
+      "0.0 eV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Germanium has a narrow band gap of about 0.67–0.7 eV at 300 K (Silicon is ~1.1 eV).",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the voltage gain of an ideal operational amplifier (Op-Amp) in open loop configuration?",
+    "options": [
+      "Zero",
+      "1",
+      "100",
+      "Infinite"
+    ],
+    "correctAnswer": 3,
+    "explanation": "An ideal operational amplifier possesses infinite open-loop voltage gain, infinite input impedance, and zero output impedance.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "When a p-n junction is reverse biased, the width of the depletion layer and the potential barrier respectively:",
+    "options": [
+      "Decreases, Decreases",
+      "Increases, Increases",
+      "Increases, Decreases",
+      "Decreases, Increases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In reverse bias, external electric field supports the internal barrier field, drawing majority carriers away from junction, thereby increasing depletion width and potential barrier.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A galvanometer of resistance 100 Ω gives full scale deflection for 1 mA. To convert it into a voltmeter reading up to 10 V, high resistance connected in series is:",
+    "options": [
+      "9900 Ω",
+      "10000 Ω",
+      "9000 Ω",
+      "1000 Ω"
+    ],
+    "correctAnswer": 0,
+    "explanation": "V = I_g (G + R) => 10 V = 0.001 A × (100 + R) => 100 + R = 10000 => R = 9900 Ω.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work done in bringing a unit positive charge from infinity to a point in an electric field is defined as:",
+    "options": [
+      "Electric Field Intensity",
+      "Electric Potential",
+      "Electric Flux",
+      "Capacitance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "By definition, Electric Potential V = Work done / Charge = W / q.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A Wheatstone bridge is most sensitive when all four resistance arms are:",
+    "options": [
+      "Very high",
+      "Very low",
+      "Equal in magnitude",
+      "In ratio 1 : 100"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A Wheatstone bridge exhibits maximum sensitivity to small resistance changes when all four bridge arms have nearly equal resistance magnitudes.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which electromagnetic wave region has the shortest wavelength in the spectrum?",
+    "options": [
+      "Ultraviolet rays",
+      "X-rays",
+      "Gamma rays",
+      "Microwaves"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gamma rays have the highest frequency and shortest wavelength (< 10⁻¹¹ m) among all electromagnetic waves.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a Full-Wave Rectifier using two diodes with AC supply frequency 50 Hz, the ripple frequency in output voltage is:",
+    "options": [
+      "25 Hz",
+      "50 Hz",
+      "100 Hz",
+      "200 Hz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Full-wave rectifiers convert both half-cycles of AC, doubling the ripple frequency: f_out = 2 × f_in = 2 × 50 Hz = 100 Hz.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  }
+]
+[
+  {
+    "question": "A particle executes Simple Harmonic Motion (SHM) with an amplitude A and period T. The time taken to travel from x = A/2 to x = A is:",
+    "options": [
+      "T / 6",
+      "T / 12",
+      "T / 4",
+      "T / 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Displacement equation x = A sin(ωt). Time to reach x = A/2 is t1 = T/12 (since sin(π/6) = 1/2). Time to reach x = A is t2 = T/4. Time interval from A/2 to A is Δt = T/4 - T/12 = T/6.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two thin coaxial circular coils of equal radii R and equal turns N carry equal currents I in opposite directions. If they are separated by distance 2R, the magnetic field midway between them is:",
+    "options": [
+      "Zero",
+      "(μ₀ N I) / (2√2 R)",
+      "(μ₀ N I) / R",
+      "(μ₀ N I) / (2 R)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Since the coils carry equal currents in opposite directions, the magnetic field vectors generated by each coil at the midpoint are equal in magnitude and opposite in direction, cancelling out to zero.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the binding energy per nucleon for a stable middle-mass nucleus (around Mass Number A = 56)?",
+    "options": [
+      "2.2 MeV",
+      "8.8 MeV",
+      "12.1 MeV",
+      "931.5 MeV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The binding energy per nucleon curve peaks around Iron-56 (A = 56) at approximately 8.8 MeV per nucleon, representing the highest nuclear stability.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A body cools from 60°C to 50°C in 5 minutes in a surrounding of temperature 20°C. According to Newton's Law of Cooling, how long will it take to cool from 50°C to 40°C?",
+    "options": [
+      "5 minutes",
+      "6 minutes",
+      "7 minutes",
+      "9 minutes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rate of cooling dT/dt = k(T_avg - T_s). For first step: (60-50)/5 = k(55-20) => 2 = 35k => k = 2/35. For second step: (50-40)/t = k(45-20) => 10/t = (2/35) × 25 => t = 7 minutes.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "A convex mirror of focal length f forms an image of an object placed in front of it. The magnification produced by the convex mirror is:",
+    "options": [
+      "Always greater than 1",
+      "Always less than 1",
+      "Equal to 1",
+      "Depends on object distance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A convex mirror always forms a virtual, erect, and diminished image for real objects, making the magnitude of magnification m < 1 always.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "If the earth expands to twice its present radius without any change in its mass, the duration of a day would become:",
+    "options": [
+      "6 hours",
+      "12 hours",
+      "48 hours",
+      "96 hours"
+    ],
+    "correctAnswer": 3,
+    "explanation": "By conservation of angular momentum, I1 ω1 = I2 ω2. For a solid sphere I = 2/5 M R². Doubling radius makes I2 = 4 I1. So ω2 = ω1 / 4. Time period T ∝ 1/ω, so new day T2 = 4 × 24 = 96 hours.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which of the following self-inductance values will store maximum magnetic energy when connected to a circuit carrying a steady current I?",
+    "options": [
+      "Energy stored is independent of L",
+      "The one with maximum self-inductance L",
+      "The one with minimum self-inductance L",
+      "Zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The magnetic potential energy stored in an inductor is given by U = (1/2) L I². For a constant current I, stored energy is directly proportional to self-inductance L.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In an n-p-n transistor circuit configured in common emitter mode, the current gain β is defined as the ratio of:",
+    "options": [
+      "Collector current to base current (I_c / I_b)",
+      "Collector current to emitter current (I_c / I_e)",
+      "Base current to collector current (I_b / I_c)",
+      "Emitter current to base current (I_e / I_b)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Common Emitter (CE) configuration, input is at base and output is at collector. Common-emitter current gain β = ΔI_c / ΔI_b.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A sound absorber attenuates the sound intensity level by 20 dB. By what factor is the sound intensity reduced?",
+    "options": [
+      "2",
+      "10",
+      "20",
+      "100"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Decibel formula Δβ = 10 log10(I1 / I2). 20 = 10 log10(I1 / I2) => log10(I1 / I2) = 2 => I1 / I2 = 10² = 100. Sound intensity is reduced by a factor of 100.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the equivalent resistance between two diagonally opposite corners of a cube made of 12 equal wires, each having resistance R?",
+    "options": [
+      "(5 / 6) R",
+      "(3 / 4) R",
+      "(7 / 12) R",
+      "(1 / 2) R"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By symmetry analysis of current entering one corner and exiting the body-opposite corner, total equivalent resistance across body diagonal is R_eq = (5/6) R.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a photoelectric experiment, stopping potential depends on:",
+    "options": [
+      "Frequency of incident light and work function of target material",
+      "Intensity of incident light only",
+      "Distance between source and photosensitive plate",
+      "Surface area of photosensitive plate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Einstein's photoelectric equation e V_s = h f - ϕ shows stopping potential V_s depends on incident light frequency f and target work function ϕ, but is independent of light intensity.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A ray of light passes through an equilateral glass prism (A = 60°) with minimum deviation of 30°. What is the speed of light in the prism?",
+    "options": [
+      "1.5 × 10⁸ m/s",
+      "2.12 × 10⁸ m/s",
+      "2.0 × 10⁸ m/s",
+      "3.0 × 10⁸ m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "μ = sin[(A + δ_m)/2] / sin(A/2) = sin(45°) / sin(30°) = (1/√2) / (1/2) = √2 ≈ 1.414. Speed v = c / μ = (3 × 10⁸) / 1.414 ≈ 2.12 × 10⁸ m/s.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a Young's double slit experiment, if monochromatic light source is replaced by white light, what will be observed on the screen?",
+    "options": [
+      "No interference pattern at all",
+      "A central white fringe surrounded by a few colored fringes",
+      "Uniform dark screen",
+      "Monochromatic bright fringes everywhere"
+    ],
+    "correctAnswer": 1,
+    "explanation": "All wavelengths construct constructively at zero path difference forming a central white fringe. Outer fringes overlap due to varying wavelengths, displaying colored edges.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A charged particle of mass m and charge q is accelerated from rest through a potential difference V. Its final de Broglie wavelength is proportional to:",
+    "options": [
+      "V",
+      "1 / V",
+      "1 / √V",
+      "√V"
+    ],
+    "correctAnswer": 2,
+    "explanation": "de Broglie wavelength λ = h / p = h / √(2 m q V). Hence, wavelength λ is inversely proportional to √V (1 / √V).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work done in increasing the distance between two parallel plates of a capacitor of area A and charge Q from d to 2d (isolated from battery) is:",
+    "options": [
+      "Q² d / (2 ε₀ A)",
+      "Q² d / (ε₀ A)",
+      "2 Q² d / (ε₀ A)",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Initial C1 = ε₀ A / d, Final C2 = ε₀ A / (2d). Initial energy U1 = Q² / (2C1), Final U2 = Q² / (2C2) = 2 U1. Work done = ΔU = U2 - U1 = Q² d / (2 ε₀ A).",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "According to Ampere's Law, line integral of magnetic field (∮ B · dl) around a closed loop enclosing current I is:",
+    "options": [
+      "μ₀ I",
+      "μ₀ / I",
+      "I / ε₀",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ampere's Circuital Law states ∮ B · dl = μ₀ I_enclosed.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The efficiency of a Carnot heat engine working between absolute temperatures T1 (source) and T2 (sink) can be 100% only if:",
+    "options": [
+      "T1 = ∞ K or T2 = 0 K",
+      "T1 = T2",
+      "T1 = 0 K",
+      "T2 = 273 K"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Efficiency η = 1 - (T2 / T1). For η = 1 (100%), either T2 must be absolute zero (0 K) or source temperature T1 must be infinite (∞ K).",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the force acting on a unit length of a current-carrying straight wire placed perpendicular to a magnetic field B?",
+    "options": [
+      "B I",
+      "B / I",
+      "I / B",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Magnetic force F = B I L sin(θ). For L = 1 and θ = 90°, force per unit length F/L = B I.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which logic gate is known as a universal logic gate?",
+    "options": [
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "NAND and NOR gates are universal gates because any basic logic function (AND, OR, NOT) can be constructed solely using them.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The dimensional formula for magnetic permeability (μ₀) is:",
+    "options": [
+      "[M L T⁻² A⁻²]",
+      "[M L T⁻¹ A⁻¹]",
+      "[M L² T⁻² A⁻¹]",
+      "[M L T⁻² A⁻¹]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "From force between parallel wires F/L = μ₀ I² / (2π d) => μ₀ = (F × d) / (L × I²) = [MLT⁻²] × [L] / ([L] × [A²]) = [M L T⁻² A⁻²].",
+    "difficulty": "medium",
+    "subject": "Physics"
+  }
+]
+[
+  {
+    "question": "A particle moves in a circular path of radius r with a constant speed v. What is the magnitude of average acceleration during a quarter revolution?",
+    "options": [
+      "(2√2 v²) / (π r)",
+      "(2 v²) / (π r)",
+      "(√2 v²) / (π r)",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Change in velocity for a 90° turn is Δv = √(v² + v²) = √2 v. Time taken t = (2π r / 4) / v = (π r) / (2 v). Average acceleration = Δv / t = (√2 v) / [(π r) / (2 v)] = (2√2 v²) / (π r).",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal gas is taken through a cyclic process A -> B -> C -> A. If work done in path A->B is 50 J, B->C is -20 J, and C->A is zero, what is the net heat absorbed by the gas in one complete cycle?",
+    "options": [
+      "70 J",
+      "30 J",
+      "-30 J",
+      "Zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For a closed cyclic process, the net change in internal energy ΔU = 0. According to the First Law of Thermodynamics (dQ = dU + dW), net heat Q = net work W = 50 J - 20 J + 0 J = 30 J.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a simple pendulum experiment, if the percentage error in measuring length L is 2% and in measuring time period T is 1%, what is the maximum percentage error in determining 'g'?",
+    "options": [
+      "3%",
+      "4%",
+      "5%",
+      "1%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Since T = 2π √(L/g), squaring gives g = 4π² L / T². Maximum relative error (Δg / g) = (ΔL / L) + 2(ΔT / T) = 2% + 2(1%) = 4%.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "At what height above the Earth's surface does the acceleration due to gravity become 1/4th of its value on the Earth's surface? (R = radius of Earth)",
+    "options": [
+      "R / 2",
+      "R",
+      "2 R",
+      "4 R"
+    ],
+    "correctAnswer": 1,
+    "explanation": "g' = g [R / (R + h)]². Setting g' = g/4 gives 1/4 = [R / (R + h)]² => 1/2 = R / (R + h) => R + h = 2R => h = R.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A charged particle is projected with velocity v into a uniform magnetic field B at an angle of 45° to the field lines. The trajectory of the particle is a:",
+    "options": [
+      "Circle",
+      "Parabola",
+      "Helix with uniform pitch",
+      "Straight line"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The component v cos(45°) along B causes linear motion along field lines, while v sin(45°) perpendicular to B produces uniform circular motion. Combining these yields a helical trajectory with uniform pitch.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a potentiometer experiment, the balancing length with a cell of EMF 1.5 V is 300 cm. When another cell of unknown EMF E is used, the balancing length becomes 400 cm. What is the value of E?",
+    "options": [
+      "1.1 V",
+      "2.0 V",
+      "2.25 V",
+      "3.0 V"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For a potentiometer, E ∝ l => E2 / E1 = l2 / l1 => E2 = 1.5 V × (400 / 300) = 1.5 × (4/3) = 2.0 V.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A convex lens of focal length 20 cm in air is completely immersed in water (refractive index μ_w = 4/3, glass μ_g = 3/2). What is its focal length in water?",
+    "options": [
+      "20 cm",
+      "40 cm",
+      "80 cm",
+      "160 cm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "By Lens Maker's Formula: f_w / f_a = (μ_g - 1) / [(μ_g / μ_w) - 1] = (1.5 - 1) / [(1.5 / 1.333) - 1] = (0.5) / (1.125 - 1) = 0.5 / 0.125 = 4. Thus, f_w = 4 × 20 cm = 80 cm.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the ratio of minimum wavelength of Lyman series to maximum wavelength of Lyman series in the hydrogen spectrum?",
+    "options": [
+      "3 : 4",
+      "1 : 4",
+      "4 : 3",
+      "1 : 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Minimum wavelength (series limit, n2=∞): 1/λ_min = R(1 - 0) = R => λ_min = 1/R. Maximum wavelength (first line, n2=2): 1/λ_max = R(1 - 1/4) = 3R/4 => λ_max = 4/(3R). Ratio λ_min / λ_max = (1/R) / [4/(3R)] = 3 / 4.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "When an unpolarized light wave of intensity I₀ passes through two ideal polaroids whose transmission axes are inclined at 60° to each other, the emergent intensity is:",
+    "options": [
+      "I₀ / 2",
+      "I₀ / 4",
+      "I₀ / 8",
+      "3 I₀ / 8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "After the 1st polaroid, unpolarized light becomes polarized with intensity I1 = I₀ / 2. By Malus's Law, after the 2nd polaroid: I2 = I1 cos²(60°) = (I₀ / 2) × (1/2)² = I₀ / 8.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "An LC circuit contains a 10 mH inductor and a 1 μF capacitor. What is the natural resonant frequency of the circuit?",
+    "options": [
+      "1592 Hz",
+      "3183 Hz",
+      "500 Hz",
+      "1000 Hz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Resonant frequency f = 1 / [2π √(LC)] = 1 / [2π √(10⁻² × 10⁻⁶)] = 1 / [2π √(10⁻⁸)] = 1 / (2π × 10⁻⁴) = 10000 / (2π) ≈ 1591.5 Hz.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "If the kinetic energy of a free electron is doubled, its de Broglie wavelength becomes multiplied by a factor of:",
+    "options": [
+      "2",
+      "1 / 2",
+      "√2",
+      "1 / √2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "de Broglie wavelength λ = h / √(2m K). Since wavelength is inversely proportional to square root of kinetic energy (λ ∝ 1/√K), doubling K multiplies λ by 1/√2.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A body of mass 2 kg attached to a spring executes SHM with a force constant k = 200 N/m. What is the angular frequency (ω) of oscillation?",
+    "options": [
+      "10 rad/s",
+      "100 rad/s",
+      "5 rad/s",
+      "20 rad/s"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Angular frequency for a spring-mass system is ω = √(k / m) = √(200 / 2) = √100 = 10 rad/s.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the magnetic field intensity at the center of a long solenoid having n turns per unit length carrying current I?",
+    "options": [
+      "μ₀ n I",
+      "μ₀ n I / 2",
+      "μ₀ N I / (2 R)",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using Ampere's law, the magnetic field inside an ideal long solenoid far from its ends is uniform and given by B = μ₀ n I.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a nuclear fusion reaction, two deuterons (²H₁) fuse to form a helium nucleus (⁴He₂). If mass defect is 0.028 amu, the energy released in the reaction is:",
+    "options": [
+      "13.6 MeV",
+      "26.08 MeV",
+      "931.5 MeV",
+      "180 MeV"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Energy released Q = Δm × 931.5 MeV = 0.028 × 931.5 MeV ≈ 26.08 MeV.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work done in turning a magnetic dipole of dipole moment M through an angle of 180° from its stable equilibrium orientation in a uniform magnetic field B is:",
+    "options": [
+      "Zero",
+      "M B",
+      "2 M B",
+      "-M B"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Work done W = -M B (cos θ2 - cos θ1). For turning from θ1 = 0° to θ2 = 180°: W = -M B (cos 180° - cos 0°) = -M B (-1 - 1) = 2 M B.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal gas expands adiabatically from volume V to 2V. The work done by the gas is positive, so its final temperature will be:",
+    "options": [
+      "Higher than initial temperature",
+      "Lower than initial temperature",
+      "Same as initial temperature",
+      "Absolute zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In an adiabatic process dQ = 0, so dU = -dW. When the gas expands (dW > 0), internal energy decreases (dU < 0), which causes its temperature to drop.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which of the following optical instruments uses a combination of two convex lenses to produce an inverted, magnified virtual image of small objects?",
+    "options": [
+      "Astronomical Telescope",
+      "Compound Microscope",
+      "Simple Magnifying Glass",
+      "Galilean Telescope"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A compound microscope uses a short focal length objective and an eyepiece (both convex lenses) to form a highly magnified, inverted virtual final image.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A zener diode is primarily used in electronic circuits as a:",
+    "options": [
+      "Rectifier",
+      "Voltage Regulator",
+      "Amplifier",
+      "Oscillator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When operated in reverse breakdown region, a Zener diode maintains a nearly constant voltage across its terminals despite variations in current, making it an ideal voltage regulator.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a series AC circuit containing a resistor R and capacitor C, the power factor cos(φ) is given by:",
+    "options": [
+      "R / √(R² + (1/ωC)²)",
+      "(1/ωC) / R",
+      "R / (ωC)",
+      "ωC / R"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Power factor cos(φ) = R / Z. For an RC series circuit, impedance Z = √(R² + X_C²) = √(R² + (1/ωC)²). Thus cos(φ) = R / √(R² + (1/ωC)²).",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two metallic spheres of radii 1 cm and 3 cm are given charges of -1 nC and +5 nC respectively. If they are connected by a thin conducting wire, the final charge on the smaller sphere is:",
+    "options": [
+      "+1 nC",
+      "+2 nC",
+      "+3 nC",
+      "+4 nC"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Total charge Q_total = -1 + 5 = +4 nC. When connected, charge redistributes proportional to radius (q ∝ r): q1 = Q_total × [r1 / (r1 + r2)] = 4 nC × [1 / (1 + 3)] = 1 nC.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]
+[
+  {
+    "question": "Two solid spheres of same material have radii R and 2R. They are heated to the same temperature and left in vacuum to cool by radiation. The ratio of their initial rates of cooling is:",
+    "options": [
+      "1 : 2",
+      "2 : 1",
+      "1 : 4",
+      "4 : 1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rate of cooling dT/dt = (e σ A / m c) (T⁴ - T₀⁴) ∝ A / m ∝ R² / R³ ∝ 1/R. Thus, (dT/dt)₁ / (dT/dt)₂ = R₂ / R₁ = 2R / R = 2 : 1.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "A particle performs SHM with frequency f. What is the frequency of oscillation of its kinetic energy?",
+    "options": [
+      "f / 2",
+      "f",
+      "2 f",
+      "4 f"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Displacement varies as x = A sin(2πft). Kinetic Energy KE = (1/2)m v² ∝ cos²(2πft) = [1 + cos(4πft)] / 2. The frequency of KE oscillation is doubled, i.e., 2f.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The magnetic susceptibility (χ) of a paramagnetic material varies with absolute temperature T as:",
+    "options": [
+      "χ ∝ T",
+      "χ ∝ 1 / T",
+      "χ ∝ T²",
+      "χ ∝ 1 / T²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to Curie's Law for paramagnetism, magnetic susceptibility is inversely proportional to absolute temperature: χ = C / T.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "An electron, a proton, and an alpha particle have the same kinetic energy. Which one has the shortest de Broglie wavelength?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Alpha particle",
+      "All have the same wavelength"
+    ],
+    "correctAnswer": 2,
+    "explanation": "de Broglie wavelength λ = h / √(2 m K). For constant kinetic energy K, λ ∝ 1 / √m. The alpha particle has the largest mass, hence the shortest wavelength.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A convex mirror of focal length f produces an image 1/n times the size of the object. The distance of the object from the mirror is:",
+    "options": [
+      "(n - 1) f",
+      "(n + 1) f",
+      "(1 - n) f",
+      "f / n"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a convex mirror, magnification m = +1/n = -v/u => v = -u/n. Using mirror formula 1/f = 1/v + 1/u => 1/f = -n/u + 1/u = (1 - n)/u. Since f is positive for convex mirror, object distance u = (n - 1) f.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the equivalent resistance between two diametrically opposite points of a uniform circular wire ring of total resistance 12 Ω?",
+    "options": [
+      "3 Ω",
+      "6 Ω",
+      "12 Ω",
+      "2.4 Ω"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Two diametrically opposite points divide the ring into two semi-circular arcs of resistance 6 Ω each connected in parallel. R_eq = (6 × 6) / (6 + 6) = 3 Ω.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a p-n junction diode, the barrier potential is mainly due to the concentration of:",
+    "options": [
+      "Free electrons on n-side and holes on p-side",
+      "Immobile positive ions on n-side and negative ions on p-side",
+      "Immobile negative ions on n-side and positive ions on p-side",
+      "Majority carriers on both sides"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diffusion of majority carriers creates a layer of uncompensated immobile donor ions (positive) on the n-side and acceptor ions (negative) on the p-side across the depletion region.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The time period of a charged particle performing circular motion in a uniform magnetic field is independent of its:",
+    "options": [
+      "Mass",
+      "Charge",
+      "Velocity",
+      "Magnetic field strength"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Time period T = (2π m) / (q B). It depends on mass, charge, and magnetic field, but is completely independent of velocity and radius of orbit.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "If the equation of a transverse wave is y = 5 sin π(0.02 x - 2 t) where x and y are in cm and t in seconds, the wave velocity is:",
+    "options": [
+      "50 cm/s",
+      "100 cm/s",
+      "200 cm/s",
+      "20 cm/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comparing with y = A sin(k x - ω t): ω = 2π rad/s and k = 0.02π cm⁻¹. Wave velocity v = ω / k = (2π) / (0.02π) = 100 cm/s.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In an isothermal expansion of an ideal gas, heat absorbed by the gas is equal to:",
+    "options": [
+      "Change in internal energy",
+      "Work done by the gas",
+      "Zero",
+      "Negative of work done"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In an isothermal process, temperature is constant so ΔU = 0. By First Law of Thermodynamics dQ = dU + dW = dW.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A body of mass 10 kg is raised to a height of 10 m by a force. The work done by gravitational force is: (g = 9.8 m/s²)",
+    "options": [
+      "+980 J",
+      "-980 J",
+      "+98 J",
+      "-98 J"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gravity acts vertically downwards while displacement is vertically upwards (θ = 180°). Work done by gravity = m g h cos(180°) = - (10 × 9.8 × 10) = -980 J.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A stone is dropped into a deep well 19.6 m deep. The splash of sound is heard after 2.06 seconds. The velocity of sound in air is:",
+    "options": [
+      "320 m/s",
+      "326.7 m/s",
+      "340 m/s",
+      "330 m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Time for stone to fall h = (1/2) gt² => 19.6 = 0.5 × 9.8 × t1² => t1 = 2 s. Time for sound to travel up t2 = 2.06 - 2 = 0.06 s. Velocity of sound v = h / t2 = 19.6 / 0.06 ≈ 326.7 m/s.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "The power dissipated in an AC circuit containing resistance R and self-inductance L connected to source V_rms is minimum when phase angle φ is:",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Average power P = V_rms I_rms cos(φ). Power is minimum (zero) when power factor cos(φ) = 0, which occurs at a phase angle φ = 90°.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a nuclear reaction, which of the following quantities is NOT conserved?",
+    "options": [
+      "Total Mass-Energy",
+      "Total Linear Momentum",
+      "Total Charge Number",
+      "Total Rest Mass"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rest mass is converted into kinetic/radiant energy (mass defect Δm), so rest mass alone is not conserved, though total relativistic mass-energy is strictly conserved.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The ratio of root mean square (rms) speed to most probable speed for molecules of a gas is:",
+    "options": [
+      "√3 : √2",
+      "√2 : √3",
+      "3 : 2",
+      "8 : 3π"
+    ],
+    "correctAnswer": 0,
+    "explanation": "v_rms = √(3RT/M) and v_mp = √(2RT/M). The ratio v_rms / v_mp = √(3/2) = √3 : √2.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A force F = (2i + 3j - k) N acts on a body and displaces it through d = (i + 4j + k) m. The work done is:",
+    "options": [
+      "13 J",
+      "14 J",
+      "15 J",
+      "10 J"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Work W = F · d = (2)(1) + (3)(4) + (-1)(1) = 2 + 12 - 1 = 13 J.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "An astronomical telescope has an objective lens of focal length 100 cm and eyepiece of focal length 5 cm. Its magnifying power in normal adjustment is:",
+    "options": [
+      "20",
+      "500",
+      "105",
+      "95"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Magnifying power M = f_o / f_e = 100 cm / 5 cm = 20.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two parallel conductors carrying currents in the same direction exert:",
+    "options": [
+      "Attractive force on each other",
+      "Repulsive force on each other",
+      "Zero force on each other",
+      "Torque on each other"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parallel wires carrying electric currents in the same direction attract each other due to magnetic force interactions.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the wavelength of electromagnetic radiation emitted when an electron in hydrogen atom jumps from n = 2 to n = 1 level? (R = Rydberg constant)",
+    "options": [
+      "4 / (3 R)",
+      "3 / (4 R)",
+      "R / 4",
+      "1 / R"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1/λ = R (1/1² - 1/2²) = R (1 - 1/4) = 3R / 4 => λ = 4 / (3 R).",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A metallic spherical shell of radius R is given a positive charge Q. The electric potential at any point inside the shell at a distance r (r < R) from its center is:",
+    "options": [
+      "Zero",
+      "k Q / r",
+      "k Q / R",
+      "k Q / R²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Inside a charged conducting sphere, electric field E = 0, which means potential V is constant and equal to its value on the surface: V = k Q / R.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  }
+]
+[
+  {
+    "question": "Two non-mixing liquids of densities ρ and nρ (n > 1) are put in a container. The height of each liquid is h. A solid cylinder of length L and density d is put in this container. It floats with its axis vertical and total length L in both liquids such that its length in the denser liquid is L/3. The density d of the cylinder is:",
+    "options": [
+      "(1 + 2n)ρ / 3",
+      "(2 + n)ρ / 3",
+      "(1 + n)ρ / 3",
+      "(3 + n)ρ / 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For floating equilibrium, total weight = total buoyant force. Weight = A × L × d × g. Buoyant force = A × (2L/3) × ρ × g + A × (L/3) × nρ × g. Equating both: L d = (2L/3) ρ + (L/3) nρ => d = (2 + n)ρ / 3 = (1 + 2n)ρ / 3.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "A capillary tube of radius r is immersed in water and water rises to height h. The mass of water in the capillary tube is 5 g. Another capillary tube of radius 2r is immersed in water. The mass of water that will rise in this tube is:",
+    "options": [
+      "2.5 g",
+      "5.0 g",
+      "10.0 g",
+      "20.0 g"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Height of capillary rise h = (2T cosθ) / (r ρ g) => h ∝ 1/r. Mass of water column m = π r² h ρ ∝ r² × (1/r) ∝ r. Doubling radius r doubles the mass of water lifted, so m2 = 2 × 5 g = 10 g.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A body is projected vertically upwards with a velocity equal to half the escape velocity from the Earth's surface. What is the maximum height reached by the body? (R = Radius of Earth)",
+    "options": [
+      "R / 2",
+      "R / 3",
+      "R / 4",
+      "R"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Escape velocity v_e = √(2gR). Projection speed v = v_e / 2 = √(gR / 2). By conservation of mechanical energy: -GMm/R + (1/2)m v² = -GMm/(R + h). Substituting GM = gR² and v² = gR/2 gives 1/(R + h) = 3/(4R), leading to h = R/3.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "In an LCR series circuit, the voltage across L, C, and R are 60 V, 20 V, and 30 V respectively. The total RMS voltage supplied by the AC source is:",
+    "options": [
+      "110 V",
+      "50 V",
+      "70 V",
+      "30 V"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net source voltage V = √[ V_R² + (V_L - V_C)² ] = √[ 30² + (60 - 20)² ] = √[ 30² + 40² ] = √2500 = 50 V.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal monoatomic gas is compressed adiabatically to 1/8th of its initial volume. If its initial temperature was T, what is its final temperature?",
+    "options": [
+      "2 T",
+      "4 T",
+      "8 T",
+      "16 T"
+    ],
+    "correctAnswer": 1,
+    "explanation": "For an adiabatic process, T V^(γ - 1) = constant. For a monoatomic gas, γ = 5/3, so γ - 1 = 2/3. T2 / T1 = (V1 / V2)^(2/3) = (8)^(2/3) = (2³)^(2/3) = 2² = 4. Thus T2 = 4 T.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the magnetic field at the center of a circular loop of radius R carrying current I?",
+    "options": [
+      "μ₀ I / (2 R)",
+      "μ₀ I / (4π R)",
+      "μ₀ I / (2π R)",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By Biot-Savart law, the magnetic field at the center of a circular loop carrying current I is B = (μ₀ I) / (2 R).",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The threshold wavelength for photoelectric emission from a metal surface is 5000 Å. Photoelectrons will be emitted if light of which wavelength falls on it?",
+    "options": [
+      "6000 Å",
+      "5500 Å",
+      "4000 Å",
+      "7000 Å"
+    ],
+    "correctAnswer": 2,
+    "explanation": "For photoelectric emission to occur, incident wavelength λ must be less than or equal to threshold wavelength λ₀. Among options, 4000 Å is the only wavelength smaller than 5000 Å.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A planet has twice the mass and twice the radius of Earth. The acceleration due to gravity on its surface would be:",
+    "options": [
+      "g / 2",
+      "g",
+      "2 g",
+      "4 g"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acceleration due to gravity g = G M / R². For the planet, g' = G (2M) / (2R)² = (2/4) × (G M / R²) = g / 2.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a Young's double-slit experiment, the slit separation is doubled and the distance between slits and screen is halved. The fringe width becomes:",
+    "options": [
+      "Double",
+      "One-fourth",
+      "Half",
+      "Unchanged"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fringe width β = λ D / d. If new distance D' = D/2 and new separation d' = 2d, then β' = λ (D/2) / (2d) = β / 4.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the ratio of angular momentum of an electron in 3rd orbit to that in 1st orbit of hydrogen atom according to Bohr's model?",
+    "options": [
+      "3 : 1",
+      "1 : 3",
+      "9 : 1",
+      "1 : 9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bohr's quantization condition states L = n h / (2π) => L ∝ n. Therefore, L3 / L1 = 3 / 1.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A body of mass 5 kg falls freely under gravity from a height of 20 m. Its kinetic energy just before hitting the ground is: (g = 10 m/s²)",
+    "options": [
+      "100 J",
+      "500 J",
+      "1000 J",
+      "200 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "By conservation of energy, Kinetic Energy at ground = Initial Potential Energy = m g h = 5 kg × 10 m/s² × 20 m = 1000 J.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A transformer is used to step down 220 V to 11 V. If primary current is 1 A and efficiency is 80%, the secondary current is:",
+    "options": [
+      "16 A",
+      "20 A",
+      "10 A",
+      "25 A"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Efficiency η = (V_s I_s) / (V_p I_p) => 0.80 = (11 × I_s) / (220 × 1) => I_s = (0.80 × 220) / 11 = 16 A.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which type of semiconductor is formed when Pure Silicon is doped with Boron?",
+    "options": [
+      "n-type",
+      "p-type",
+      "Intrinsic",
+      "Insulator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Boron is a trivalent impurity (group 13 element). Doping tetravalent silicon with a trivalent impurity creates holes, forming a p-type semiconductor.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two simple harmonic motions are represented by y1 = 10 sin(3πt + π/3) and y2 = 5 sin(3πt + π/6). The phase difference between them is:",
+    "options": [
+      "π / 3",
+      "π / 6",
+      "π / 2",
+      "π / 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phase difference Δφ = φ1 - φ2 = (3πt + π/3) - (3πt + π/6) = π/3 - π/6 = π/6.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The drift velocity of free electrons in a conductor carrying current I is v_d. If the current is doubled and cross-sectional area is halved, the new drift velocity will be:",
+    "options": [
+      "v_d",
+      "2 v_d",
+      "4 v_d",
+      "v_d / 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Drift velocity v_d = I / (n e A). If I' = 2I and A' = A/2, then v_d' = (2I) / [n e (A/2)] = 4 [I / (n e A)] = 4 v_d.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A force F = -k x (where k is a positive constant and x is displacement) represents a force that is:",
+    "options": [
+      "Non-conservative",
+      "Conservative",
+      "Constant",
+      "Rotational"
+    ],
+    "correctAnswer": 1,
+    "explanation": "F = -k x is a central restoring spring force. Work done by this force along any closed path is zero, making it a conservative force.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the angle of deviation produced by a thin prism of refractive index μ and refracting angle A?",
+    "options": [
+      "(μ - 1) A",
+      "(μ + 1) A",
+      "A / μ",
+      "μ A"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a thin prism with small refracting angle A, deviation δ = (μ - 1) A.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal inductor of self-inductance L is connected across a source of direct current (DC) of potential V. The reactance offered by the inductor is:",
+    "options": [
+      "Infinite",
+      "Zero",
+      "ω L",
+      "1 / (ω L)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inductive reactance X_L = ω L = 2π f L. For direct current (DC), frequency f = 0, so reactance offered by inductor is zero.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A hollow sphere filled with water is suspended by a long thread and used as a pendulum. As water leaks out slowly through a small hole at the bottom, the time period of the pendulum will:",
+    "options": [
+      "Remain unchanged",
+      "Continuously increase",
+      "First increase, then decrease to initial value",
+      "Continuously decrease"
+    ],
+    "correctAnswer": 2,
+    "explanation": "As water leaks out, the center of gravity shifts downwards, increasing effective length L and hence time period T = 2π√(L/g). Once completely empty, the center of gravity returns to original center, bringing T back to initial value.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two electric dipoles of dipole moment p are placed along the same line pointing in opposite directions separated by a distance r. The force of interaction between them is proportional to:",
+    "options": [
+      "1 / r²",
+      "1 / r³",
+      "1 / r⁴",
+      "1 / r"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The electric field of an axial dipole varies as E ∝ 1/r³. Force on a second dipole F = p (dE/dr) ∝ d(1/r³)/dr ∝ 1/r⁴.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  }
+]
+[
+  {
+    "question": "A Uniform circular disc of mass M and radius R rotates about an axis passing through its center and perpendicular to its plane with angular speed ω. Its kinetic energy of rotation is:",
+    "options": [
+      "(1 / 2) M R² ω²",
+      "(1 / 4) M R² ω²",
+      "M R² ω²",
+      "(1 / 8) M R² ω²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rotational kinetic energy K = (1/2) I ω². For a uniform circular disc rotating about its central perpendicular axis, moment of inertia I = (1/2) M R². Substituting gives K = (1/2) × (1/2 M R²) × ω² = (1/4) M R² ω².",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two thin lenses of powers +5 D and -3 D are placed in contact coaxially. What is the focal length of the combination?",
+    "options": [
+      "+50 cm",
+      "-50 cm",
+      "+20 cm",
+      "-20 cm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net power P = P1 + P2 = +5 D - 3 D = +2 D. Focal length f = 1 / P = 1 / 2 m = +0.5 m = +50 cm.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A copper rod of length L rotates with uniform angular velocity ω in a uniform magnetic field B perpendicular to the plane of rotation. The induced EMF across its ends is:",
+    "options": [
+      "B L² ω",
+      "(1 / 2) B L² ω",
+      "2 B L² ω",
+      "Zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Motional EMF induced across a rotating conductor of length L in a perpendicular magnetic field is e = (1/2) B L² ω.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A soap bubble of radius r has surface tension T. The excess pressure inside the soap bubble is:",
+    "options": [
+      "2 T / r",
+      "4 T / r",
+      "T / r",
+      "8 T / r"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A soap bubble has two free liquid surfaces in contact with air. Hence excess pressure ΔP = 2 × (2T / r) = 4T / r.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A block of mass m is placed on a rough inclined plane of inclination θ. If coefficient of static friction is μ, the block just begins to slide down when:",
+    "options": [
+      "tan θ = μ",
+      "sin θ = μ",
+      "cos θ = μ",
+      "cot θ = μ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At the angle of repose θ, component of gravity along incline equals maximum static friction: m g sin θ = μ m g cos θ => tan θ = μ.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work function of a metal surface is 2.14 eV. What is the threshold frequency of the metal? (h = 6.63 × 10⁻³⁴ J·s, 1 eV = 1.6 × 10⁻¹⁹ J)",
+    "options": [
+      "5.16 × 10¹⁴ Hz",
+      "2.14 × 10¹⁴ Hz",
+      "6.63 × 10¹⁴ Hz",
+      "3.20 × 10¹⁴ Hz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Work function ϕ = h f₀ => f₀ = ϕ / h = (2.14 × 1.6 × 10⁻¹⁹ J) / (6.63 × 10⁻³⁴ J·s) ≈ 5.16 × 10¹⁴ Hz.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which electromagnetic wave has the shortest wavelength in the electromagnetic spectrum?",
+    "options": [
+      "X-rays",
+      "Ultraviolet rays",
+      "Gamma rays",
+      "Microwaves"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gamma rays have the highest frequency and shortest wavelength (< 10⁻¹¹ m) in the electromagnetic spectrum.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In an elastic collision between two equal masses moving along a straight line, which of the following occurs?",
+    "options": [
+      "They stick together and move with common velocity",
+      "They interchange their velocities",
+      "Both come to rest",
+      "One remains stationary while other doubles velocity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In a 1D elastic collision between two bodies of equal mass (m1 = m2), they completely interchange their velocities after impact.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A capacitor of capacitance C is charged to potential V and then disconnected from battery. It is then connected across an uncharged identical capacitor C. The final common potential across each capacitor is:",
+    "options": [
+      "V",
+      "V / 2",
+      "V / 4",
+      "2 V"
+    ],
+    "correctAnswer": 1,
+    "explanation": "By conservation of charge, Q_total = C V. Total capacitance C_total = C + C = 2C. Common potential V' = Q_total / C_total = (C V) / (2 C) = V / 2.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "According to Wien's Displacement Law, the product of peak wavelength λ_m and absolute temperature T is constant. The value of Wien's constant is approximately:",
+    "options": [
+      "2.898 × 10⁻³ m·K",
+      "5.67 × 10⁻⁸ W/(m²·K⁴)",
+      "1.38 × 10⁻²³ J/K",
+      "6.022 × 10²³ mol⁻¹"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Wien's displacement constant b = λ_m T ≈ 2.898 × 10⁻³ m·K.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal gas undergoes a thermodynamic process where its pressure is proportional to volume (P ∝ V). The molar heat capacity of the gas during this process is: (C_v = molar heat capacity at constant volume)",
+    "options": [
+      "C_v + R / 2",
+      "C_v + R",
+      "C_v - R",
+      "C_v + 2R"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Process equation: P V⁻¹ = constant (polytropic index n = -1). Molar heat capacity C = C_v + R / (1 - n) = C_v + R / (1 - (-1)) = C_v + R / 2.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the magnetic force experienced by a stationary charge q placed in a uniform magnetic field B?",
+    "options": [
+      "q v B",
+      "q B",
+      "Zero",
+      "q / B"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lorentz magnetic force is F = q (v × B). For a stationary charge, velocity v = 0, so the magnetic force is zero.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A sound source moves towards a stationary observer with speed v/5, where v is the speed of sound. The percentage increase in apparent frequency heard by the observer is:",
+    "options": [
+      "20%",
+      "25%",
+      "15%",
+      "10%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Apparent frequency f' = f [ v / (v - v_s) ] = f [ v / (v - v/5) ] = f (5/4) = 1.25 f. The percentage increase is (1.25 - 1) × 100% = 25%.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a Full-Wave Rectifier without filter, what is the ripple factor?",
+    "options": [
+      "1.21",
+      "0.482",
+      "0.812",
+      "0.406"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The ripple factor for a standard full-wave rectifier without capacitor/choke filter is approximately 0.482 (48.2%), compared to 1.21 for a half-wave rectifier.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two simple pendulums of lengths 1 m and 1.21 m start swinging together. After how many minimum oscillations of the shorter pendulum will they be in phase again?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Time period T ∝ √L. Ratio of periods T1/T2 = √(1/1.21) = 1/1.1 = 10/11. Frequency ratio f1/f2 = 11/10. Shorter pendulum completes 11 oscillations while longer completes 10, bringing them back in phase.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the root mean square value of an AC current given by I = 6 sin(ωt) + 8 cos(ωt) A?",
+    "options": [
+      "10 A",
+      "7 A",
+      "5 √2 A",
+      "14 A"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Peak value I_0 = √(6² + 8²) = √(36 + 64) = √100 = 10 A. The RMS value is I_rms = I_0 / √2 = 10 / √2 = 5 √2 A.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Which of the following physical quantities has the same dimensions as Planck's constant (h)?",
+    "options": [
+      "Linear Momentum",
+      "Angular Momentum",
+      "Energy",
+      "Force"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dimensions of Planck's constant h = [M L² T⁻¹]. Angular momentum L = m v r = [M] [L T⁻¹] [L] = [M L² T⁻¹]. They share identical dimensions.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The focal length of an objective lens of a compound microscope is f_o and that of eyepiece is f_e. For high magnification:",
+    "options": [
+      "Both f_o and f_e should be large",
+      "Both f_o and f_e should be small",
+      "f_o should be large and f_e small",
+      "f_o should be small and f_e large"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Magnification of compound microscope M ≈ (L / f_o) × (D / f_e). To maximize M, both focal lengths (f_o and f_e) should be small.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "What is the half-life of a radioactive sample if its decay constant λ is 0.0693 per day?",
+    "options": [
+      "10 days",
+      "100 days",
+      "6.93 days",
+      "1 day"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Half-life T_{1/2} = ln(2) / λ = 0.693 / 0.0693 = 10 days.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two thin infinite parallel sheets have uniform surface charge densities +σ and -σ respectively. The electric field in the region between the two sheets is:",
+    "options": [
+      "Zero",
+      "σ / ε₀",
+      "σ / (2 ε₀)",
+      "2 σ / ε₀"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Between oppositely charged parallel plates, fields due to both sheets add up in the same direction: E_net = σ / (2 ε₀) + σ / (2 ε₀) = σ / ε₀.",
+    "difficulty": "medium",
+    "subject": "Physics"
   }
 ]
