@@ -1,13 +1,2608 @@
-{
-  "question": "The SI unit of force is?",
-  "options": [
-    "Newton",
-    "Joule",
-    "Pascal",
-    "Watt"
-  ],
-  "correctAnswer": 0,
-  "explanation": "Force is measured in Newton (N).",
-  "difficulty": "easy",
-  "subject": "Physics"
-}
+[
+  {
+    "question": "If matrix A is of order 2×3 and matrix B is of order 3×4, what is the order of matrix AB?",
+    "options": [
+      "2×4",
+      "3×3",
+      "4×2",
+      "2×3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When multiplying an m×n matrix by an n×p matrix, the inner dimensions must match (3 = 3), and the resulting matrix has dimensions m×p (2×4).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of lim (x → 0) [sin(x) / x]?",
+    "options": [
+      "1",
+      "0",
+      "Infinity",
+      "Does not exist"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This is a fundamental trigonometric limit identity: as x approaches 0 (in radians), sin(x)/x equals 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of f(x) = e^(2x) with respect to x?",
+    "options": [
+      "2e^(2x)",
+      "e^(2x)",
+      "2xe^(2x)",
+      "(1/2)e^(2x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By applying the chain rule, d/dx [e^(u)] = e^(u) * du/dx. Here, u = 2x, so derivative is 2e^(2x).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate the indefinite integral: ∫ (1 / x) dx",
+    "options": [
+      "ln|x| + C",
+      "-1/x^2 + C",
+      "x + C",
+      "e^x + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard antiderivative of 1/x for x ≠ 0 is the natural logarithm of the absolute value of x plus a constant C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If vectors A = 2i + 3j - k and B = i - j + 2k, what is their dot product A · B?",
+    "options": [
+      "-3",
+      "3",
+      "7",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The dot product A · B = (2)(1) + (3)(-1) + (-1)(2) = 2 - 3 - 2 = -3.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What are the roots of the quadratic equation x^2 - 5x + 6 = 0?",
+    "options": [
+      "2, 3",
+      "-2, -3",
+      "1, 6",
+      "-1, -6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Factoring the quadratic gives (x - 2)(x - 3) = 0, so x = 2 or x = 3.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the determinant of a 2x2 identity matrix I_2?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The determinant of the 2x2 identity matrix [[1, 0], [0, 1]] is (1)(1) - (0)(0) = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the slope of the line perpendicular to 2x + 3y = 6?",
+    "options": [
+      "3/2",
+      "-2/3",
+      "-3/2",
+      "2/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The slope of 2x + 3y = 6 is m1 = -2/3. A perpendicular line has negative reciprocal slope m2 = -1 / (-2/3) = 3/2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the domain of the function f(x) = √(x - 4)?",
+    "options": [
+      "[4, ∞)",
+      "(4, ∞)",
+      "(-∞, 4]",
+      "(-∞, ∞)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The expression inside a real square root must be non-negative: x - 4 ≥ 0 ⇒ x ≥ 4. In interval notation, this is [4, ∞).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If log_10(x) = 3, what is the value of x?",
+    "options": [
+      "1000",
+      "30",
+      "100",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Converting logarithmic form to exponential form: x = 10^3 = 1000.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the 10th term of the arithmetic progression (AP): 3, 7, 11, 15, ...?",
+    "options": [
+      "39",
+      "36",
+      "43",
+      "40"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The formula for the n-th term is a_n = a + (n-1)d. Here a = 3, d = 4, so a_10 = 3 + (9)(4) = 39.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the sum of an infinite geometric series with first term a = 8 and common ratio r = 1/2?",
+    "options": [
+      "16",
+      "12",
+      "24",
+      "8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sum of an infinite GP with |r| < 1 is S = a / (1 - r) = 8 / (1 - 1/2) = 8 / (1/2) = 16.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the general solution of the differential equation dy/dx = y.",
+    "options": [
+      "y = C e^x",
+      "y = x + C",
+      "y = C x",
+      "y = e^x + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Separating variables: dy/y = dx ⇒ ∫ (1/y) dy = ∫ dx ⇒ ln|y| = x + c ⇒ y = C e^x.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "In how many distinct ways can the letters of the word 'MATH' be arranged?",
+    "options": [
+      "24",
+      "12",
+      "16",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The word contains 4 distinct letters. The total permutations are 4! = 4 × 3 × 2 × 1 = 24.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Two fair dice are rolled. What is the probability of getting a sum of 7?",
+    "options": [
+      "1/6",
+      "1/12",
+      "5/36",
+      "1/4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Favorable outcomes for sum of 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 outcomes out of 36 total. Probability = 6/36 = 1/6.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of cos(120°)?",
+    "options": [
+      "-1/2",
+      "1/2",
+      "-√3/2",
+      "√3/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "cos(120°) = cos(180° - 60°) = -cos(60°) = -1/2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the modulus of the complex number z = 3 + 4i?",
+    "options": [
+      "5",
+      "7",
+      "25",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Modulus |z| = √(a^2 + b^2) = √(3^2 + 4^2) = √(9 + 16) = √25 = 5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Which of the following represents a square matrix A that is equal to its transpose (A = A^T)?",
+    "options": [
+      "Symmetric matrix",
+      "Skew-symmetric matrix",
+      "Orthogonal matrix",
+      "Singular matrix"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By definition, a real square matrix A is symmetric if A = A^T.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the focal length of the parabola y^2 = 12x.",
+    "options": [
+      "3",
+      "6",
+      "12",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard form of a parabola opening right is y^2 = 4ax. Comparing gives 4a = 12 ⇒ a = 3, which is the focal length.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the distance between the points P(1, 2, 3) and Q(4, 6, 3) in 3D space?",
+    "options": [
+      "5",
+      "7",
+      "25",
+      "√13"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Distance d = √[(4-1)^2 + (6-2)^2 + (3-3)^2] = √[3^2 + 4^2 + 0] = √(9 + 16) = 5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If a line makes angles α, β, γ with the positive coordinate axes, what is cos^2(α) + cos^2(β) + cos^2(γ)?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The direction cosines l, m, n satisfy the fundamental identity l^2 + m^2 + n^2 = cos^2(α) + cos^2(β) + cos^2(γ) = 1.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the period of the function f(x) = sin(3x)?",
+    "options": [
+      "2π/3",
+      "2π",
+      "π/3",
+      "3π"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard period of sin(x) is 2π. For sin(kx), the period is 2π/|k|, which gives 2π/3.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of ∫_0^1 (2x) dx?",
+    "options": [
+      "1",
+      "2",
+      "0.5",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Antiderivative of 2x is x^2. Evaluating from 0 to 1 gives 1^2 - 0^2 = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If A and B are mutually exclusive events, what is P(A ∩ B)?",
+    "options": [
+      "0",
+      "1",
+      "P(A) * P(B)",
+      "P(A) + P(B)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mutually exclusive events cannot occur at the same time, so their intersection is an empty set and P(A ∩ B) = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the second derivative of f(x) = x^4 - 3x^2 + 5?",
+    "options": [
+      "12x^2 - 6",
+      "4x^3 - 6x",
+      "24x",
+      "12x^2 - 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "First derivative f'(x) = 4x^3 - 6x. Second derivative f''(x) = d/dx [4x^3 - 6x] = 12x^2 - 6.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If a matrix A has determinant |A| = 5, what is |A^(-1)|?",
+    "options": [
+      "1/5",
+      "-5",
+      "5",
+      "1/25"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The determinant of the inverse matrix is the reciprocal of the original determinant: |A^(-1)| = 1 / |A| = 1/5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the eccentricity of a circle.",
+    "options": [
+      "0",
+      "1",
+      "Greater than 1",
+      "Between 0 and 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A circle is a special conic section where both foci coincide at the center, giving an eccentricity e = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of standard deviation for a set of constant values [5, 5, 5, 5]?",
+    "options": [
+      "0",
+      "5",
+      "1",
+      "25"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard deviation measures dispersion around the mean. Since all values are identical to the mean, dispersion is 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate lim (x → ∞) [(3x^2 + 2) / (x^2 - 5)].",
+    "options": [
+      "3",
+      "0",
+      "Infinity",
+      "-2/5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For rational functions at infinity with equal degrees in numerator and denominator, the limit is the ratio of leading coefficients: 3 / 1 = 3.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the sum of the roots of the quadratic equation ax^2 + bx + c = 0?",
+    "options": [
+      "-b/a",
+      "c/a",
+      "b/a",
+      "-c/a"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to Vieta's formulas, the sum of roots for ax^2 + bx + c = 0 is -b/a.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the radius of the circle given by the equation x^2 + y^2 = 49.",
+    "options": [
+      "7",
+      "49",
+      "14",
+      "√7"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard circle equation centered at origin is x^2 + y^2 = r^2. Here r^2 = 49, so radius r = 7.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of arctan(x) with respect to x?",
+    "options": [
+      "1 / (1 + x^2)",
+      "1 / √(1 - x^2)",
+      "-1 / (1 + x^2)",
+      "1 / (x^2 - 1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard derivative rule for inverse tangent is d/dx [arctan(x)] = 1 / (1 + x^2).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If nC2 = 15, what is the value of n?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "nC2 = n(n-1)/2 = 15 ⇒ n(n-1) = 30. Solving n^2 - n - 30 = 0 gives positive integer root n = 6.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the angle between two non-zero vectors A and B if A · B = |A||B|?",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A · B = |A||B|cos(θ). Given A · B = |A||B|, cos(θ) = 1, which corresponds to θ = 0° (parallel vectors).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the integrating factor (IF) for the linear differential equation dy/dx + P(x)y = Q(x)?",
+    "options": [
+      "e^(∫ P(x) dx)",
+      "e^(∫ Q(x) dx)",
+      "∫ P(x) dx",
+      "e^(-∫ P(x) dx)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard integrating factor formula for a first-order linear differential equation is IF = e^(∫ P(x) dx).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the mean of the first n natural numbers?",
+    "options": [
+      "(n + 1) / 2",
+      "n / 2",
+      "n(n + 1) / 2",
+      "(n - 1) / 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sum of first n natural numbers is n(n+1)/2. Mean = Sum / n = [n(n+1)/2] / n = (n + 1) / 2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the geometric mean between 4 and 16?",
+    "options": [
+      "8",
+      "10",
+      "64",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The geometric mean between two positive numbers a and b is √(ab) = √(4 × 16) = √64 = 8.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Convert the complex number z = 1 + i to polar form r(cos θ + i sin θ).",
+    "options": [
+      "√2 (cos(π/4) + i sin(π/4))",
+      "2 (cos(π/4) + i sin(π/4))",
+      "√2 (cos(π/2) + i sin(π/2))",
+      "1 (cos(π/4) + i sin(π/4))"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Modulus r = √(1^2 + 1^2) = √2. Argument θ = arctan(1/1) = π/4. So z = √2 (cos(π/4) + i sin(π/4)).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of f(x) = ln(x) with respect to x?",
+    "options": [
+      "1 / x",
+      "e^x",
+      "1 / x^2",
+      "x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The derivative of natural log ln(x) for x > 0 is 1/x.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate the integral: ∫ cos(x) dx",
+    "options": [
+      "sin(x) + C",
+      "-sin(x) + C",
+      "cos(x) + C",
+      "-cos(x) + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard antiderivative of cos(x) is sin(x) + C, since d/dx [sin(x)] = cos(x).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the range of the function f(x) = sin(x) for real x?",
+    "options": [
+      "[-1, 1]",
+      "(-1, 1)",
+      "[0, 1]",
+      "(-∞, ∞)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sine function oscillates between a minimum value of -1 and a maximum value of 1 for all real inputs.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the rank of a zero matrix of order 3×3?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "Undefined"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The rank of a matrix is the maximum number of linearly independent rows or columns. A zero matrix has rank 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If the discriminant of a quadratic equation ax^2 + bx + c = 0 is less than zero (b^2 - 4ac < 0), what nature do the roots have?",
+    "options": [
+      "Complex / Imaginary and unequal",
+      "Real and equal",
+      "Real and rational",
+      "Real and irrational"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A negative discriminant results in the square root of a negative number, giving complex conjugate roots.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the equation of the line passing through origin with slope m = 3.",
+    "options": [
+      "y = 3x",
+      "y = x + 3",
+      "3y = x",
+      "y = 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The slope-intercept form is y = mx + c. Since it passes through the origin, c = 0, so y = 3x.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of i^4 where i is the imaginary unit (√-1)?",
+    "options": [
+      "1",
+      "-1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": 0,
+    "explanation": "i = √-1, i^2 = -1, i^3 = -i, and i^4 = (i^2)^2 = (-1)^2 = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the projection of vector A onto vector B?",
+    "options": [
+      "(A · B) / |B|",
+      "(A · B) / |A|",
+      "|A| |B|",
+      "(A × B) / |B|"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The scalar projection of vector A onto B is given by the formula (A · B) / |B|.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "In a binomial distribution with n trials and probability of success p, what is the variance?",
+    "options": [
+      "np(1 - p)",
+      "np",
+      "n(1 - p)",
+      "√(np(1 - p))"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a binomial distribution B(n, p), the mean is np and the variance is npq = np(1 - p).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of 0! (zero factorial)?",
+    "options": [
+      "1",
+      "0",
+      "Undefined",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By mathematical convention and definition in combinatorics, 0! = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If matrix A is non-singular, what is A * A^(-1)?",
+    "options": [
+      "Identity matrix I",
+      "Zero matrix O",
+      "Matrix A",
+      "2A"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By definition, multiplying a non-singular matrix by its inverse yields the identity matrix I.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of a constant c with respect to x?",
+    "options": [
+      "0",
+      "1",
+      "c",
+      "x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A constant value does not change as x changes, so its rate of change (derivative) is always 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]
+[
+  {
+    "question": "If matrix A is symmetric, what is A - A^T equal to?",
+    "options": [
+      "Zero matrix O",
+      "Identity matrix I",
+      "2A",
+      "A"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a symmetric matrix, A^T = A. Therefore, A - A^T = A - A = O (the zero matrix).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the order and degree of the differential equation (d^2y/dx^2)^3 + (dy/dx)^4 + y = 0?",
+    "options": [
+      "Order 2, Degree 3",
+      "Order 3, Degree 2",
+      "Order 2, Degree 4",
+      "Order 4, Degree 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The order is the highest derivative present (2nd derivative, so Order = 2). The degree is the power of this highest derivative (raised to power 3, so Degree = 3).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of ∫ e^x (x + 1) dx?",
+    "options": [
+      "x e^x + C",
+      "e^x + C",
+      "(x^2 / 2) e^x + C",
+      "e^x / x + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using integration by parts or recognizing the identity ∫ e^x [f(x) + f'(x)] dx = e^x f(x) + C where f(x) = x, we get x e^x + C.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the angle between two lines with direction ratios (1, 2, 2) and (2, -1, 2)?",
+    "options": [
+      "cos^(-1)(4/9)",
+      "cos^(-1)(2/9)",
+      "90°",
+      "0°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "cos(θ) = |a1a2 + b1b2 + c1c2| / [√(a1^2+b1^2+c1^2) * √(a2^2+b2^2+c2^2)] = |1(2) + 2(-1) + 2(2)| / [√(1+4+4) * √(4+1+4)] = 4 / (3 * 3) = 4/9.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If |A × B| = A · B for two vectors A and B, what is the angle between them?",
+    "options": [
+      "45°",
+      "0°",
+      "90°",
+      "60°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "|A × B| = |A||B|sin(θ) and A · B = |A||B|cos(θ). Setting them equal gives sin(θ) = cos(θ) ⇒ tan(θ) = 1 ⇒ θ = 45°.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the maximum value of f(x) = sin(x) + cos(x).",
+    "options": [
+      "√2",
+      "2",
+      "1",
+      "√3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expressions of the form a sin(x) + b cos(x) have a maximum value of √(a^2 + b^2). Here √(1^2 + 1^2) = √2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the sum of the roots of unity 1 + ω + ω^2?",
+    "options": [
+      "0",
+      "1",
+      "i",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By property of complex cube roots of unity, the sum of all three roots (1, ω, ω^2) is always equal to 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the length of the latus rectum of the ellipse (x^2 / 16) + (y^2 / 9) = 1?",
+    "options": [
+      "9/2",
+      "9/4",
+      "8/3",
+      "16/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Here a^2 = 16 (a = 4) and b^2 = 9. The formula for length of latus rectum is 2b^2 / a = 2(9) / 4 = 18/4 = 9/2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate lim (x → 0) [(1 - cos(x)) / x^2].",
+    "options": [
+      "1/2",
+      "1",
+      "0",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using L'Hôpital's rule twice: lim (x → 0) [sin(x) / 2x] = 1/2 * lim (x → 0) [sin(x)/x] = 1/2(1) = 1/2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the equation of the plane passing through the origin with normal vector N = 2i - 3j + 4k?",
+    "options": [
+      "2x - 3y + 4z = 0",
+      "2x + 3y + 4z = 0",
+      "x - y + z = 0",
+      "2x - 3y + 4z = 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard plane equation is a(x - x0) + b(y - y0) + c(z - z0) = 0. Passing through (0,0,0) with normal (2, -3, 4) gives 2x - 3y + 4z = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If dynamic probability function follows Poisson distribution with mean λ = 4, what is its variance?",
+    "options": [
+      "4",
+      "2",
+      "16",
+      "8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A key property of a Poisson distribution is that its mean and variance are equal (Variance = Mean = λ = 4).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the area bounded by the curve y = x^2, the x-axis, and lines x = 0 to x = 3.",
+    "options": [
+      "9",
+      "27",
+      "3",
+      "18"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Area = ∫_0^3 x^2 dx = [x^3 / 3]_0^3 = 27 / 3 - 0 = 9.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the inverse of a 2x2 matrix A = [[a, b], [c, d]]?",
+    "options": [
+      "(1 / (ad - bc)) * [[d, -b], [-c, a]]",
+      "(1 / (ad - bc)) * [[a, c], [b, d]]",
+      "(1 / (ad + bc)) * [[d, -b], [-c, a]]",
+      "[[d, -b], [-c, a]]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The formula for the inverse of a 2x2 matrix is (1 / |A|) * adj(A) = (1 / (ad - bc)) * [[d, -b], [-c, a]].",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫_0^(π/2) sin^2(x) dx",
+    "options": [
+      "π/4",
+      "π/2",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using identity sin^2(x) = (1 - cos(2x))/2: ∫_0^(π/2) (1/2 - cos(2x)/2) dx = [x/2 - sin(2x)/4]_0^(π/2) = π/4 - 0 = π/4.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If nP2 = 20, what is the value of n?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "nP2 = n(n-1) = 20 ⇒ n^2 - n - 20 = 0 ⇒ (n - 5)(n + 4) = 0. Thus, n = 5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of sec^2(x) - tan^2(x) for all valid x?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This is a fundamental Pythagorean trigonometric identity: 1 + tan^2(x) = sec^2(x) ⇒ sec^2(x) - tan^2(x) = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of 2^x with respect to x?",
+    "options": [
+      "2^x ln(2)",
+      "x 2^(x-1)",
+      "2^x / ln(2)",
+      "2^x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard rule for exponential functions with base a is d/dx [a^x] = a^x ln(a). So d/dx [2^x] = 2^x ln(2).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If a line has equal inclination with all three coordinate axes, what are its direction cosines?",
+    "options": [
+      "±(1/√3, 1/√3, 1/√3)",
+      "±(1/3, 1/3, 1/3)",
+      "±(1/√2, 1/√2, 1/√2)",
+      "±(1, 1, 1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Equal inclination implies cos^2(α) + cos^2(α) + cos^2(α) = 1 ⇒ 3cos^2(α) = 1 ⇒ cos(α) = ±1/√3.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the eccentricity of a rectangular hyperbola?",
+    "options": [
+      "√2",
+      "2",
+      "1",
+      "1/√2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a rectangular hyperbola, a = b. Eccentricity e = √(1 + b^2/a^2) = √(1 + 1) = √2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the maximum number of points of intersection of 4 distinct straight lines?",
+    "options": [
+      "6",
+      "4",
+      "12",
+      "8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Any 2 non-parallel lines intersect at 1 point. Maximum intersections for 4 lines = 4C2 = (4 × 3) / 2 = 6.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of Arg(z) if z is a purely negative real number?",
+    "options": [
+      "π",
+      "0",
+      "π/2",
+      "-π/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Purely negative real numbers lie on the negative real axis (left horizontal axis) in the Argand plane, having principal argument π.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the derivative of f(x) = x^x with respect to x.",
+    "options": [
+      "x^x (1 + ln(x))",
+      "x x^(x-1)",
+      "x^x ln(x)",
+      "1 + ln(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let y = x^x ⇒ ln(y) = x ln(x). Differentiating implicitly: (1/y)(dy/dx) = 1 + ln(x) ⇒ dy/dx = x^x (1 + ln(x)).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If vector A = i + j and vector B = j + k, what is A × B?",
+    "options": [
+      "i - j + k",
+      "i + j + k",
+      "i - j - k",
+      "-i + j - k"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Evaluating cross product determinant: | i j k | | 1 1 0 | | 0 1 1 | = i(1-0) - j(1-0) + k(1-0) = i - j + k.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the probability of drawing a red card OR a king from a standard 52-card deck?",
+    "options": [
+      "7/13",
+      "1/2",
+      "15/26",
+      "4/13"
+    ],
+    "correctAnswer": 0,
+    "explanation": "P(Red ∪ King) = P(Red) + P(King) - P(Red ∩ King) = 26/52 + 4/52 - 2/52 = 28/52 = 7/13.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the perpendicular distance from the point (1, 2) to the line 3x + 4y - 11 = 0.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Distance d = |3(1) + 4(2) - 11| / √(3^2 + 4^2) = |3 + 8 - 11| / √25 = 0 / 5 = 0 (Point lies on the line).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the nth term of the harmonic progression (HP) whose corresponding AP terms are 2, 5, 8, 11, ...?",
+    "options": [
+      "1 / (3n - 1)",
+      "1 / (3n + 1)",
+      "3n - 1",
+      "1 / (2n + 1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the AP, a = 2, d = 3. The nth AP term = 2 + (n-1)3 = 3n - 1. The corresponding HP term is the reciprocal: 1 / (3n - 1).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the rank of an identity matrix of order 4x4?",
+    "options": [
+      "4",
+      "1",
+      "0",
+      "16"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An identity matrix of order n has n linearly independent rows/columns, so its rank is n (here, 4).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate the definite integral: ∫_(-1)^1 x^3 dx",
+    "options": [
+      "0",
+      "1/2",
+      "2",
+      "-1/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The integrand f(x) = x^3 is an odd function. The integral of an odd function over symmetric limits [-a, a] is always 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Which term of the expansion (x + y)^n is the middle term if n is even?",
+    "options": [
+      "(n/2 + 1)-th term",
+      "(n/2)-th term",
+      "((n+1)/2)-th term",
+      "(n+2)-th term"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When n is even, there are n+1 (odd number of) terms in total, yielding a single middle term at position (n/2 + 1).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of cos(0°)?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "Undefined"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By definition of unit circle trigonometric ratios, cos(0°) = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the domain of f(x) = 1 / √(9 - x^2).",
+    "options": [
+      "(-3, 3)",
+      "[-3, 3]",
+      "(-∞, -3) ∪ (3, ∞)",
+      "(-∞, 3)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For real non-zero values inside square root in denominator: 9 - x^2 > 0 ⇒ x^2 < 9 ⇒ -3 < x < 3, which is (-3, 3).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of sin^2(x) with respect to x?",
+    "options": [
+      "sin(2x)",
+      "2 sin(x)",
+      "cos(2x)",
+      "2 cos(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "d/dx [sin^2(x)] = 2 sin(x) cos(x) = sin(2x) using double-angle identity.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the sum of all interior angles of a regular hexagon.",
+    "options": [
+      "720°",
+      "540°",
+      "360°",
+      "1080°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For a hexagon (n = 6), (6 - 2) * 180° = 4 * 180° = 720°.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the condition for two planes a1 x + b1 y + c1 z + d1 = 0 and a2 x + b2 y + c2 z + d2 = 0 to be perpendicular?",
+    "options": [
+      "a1a2 + b1b2 + c1c2 = 0",
+      "a1/a2 = b1/b2 = c1/c2",
+      "a1b2 - a2b1 = 0",
+      "a1a2 + b1b2 + c1c2 = 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Two planes are perpendicular if their normal vectors are orthogonal, which means their dot product equals zero: a1a2 + b1b2 + c1c2 = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If f(x) = x^3 - 3x, what are the critical points of f(x)?",
+    "options": [
+      "x = ±1",
+      "x = 0, 3",
+      "x = ±3",
+      "x = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Critical points occur where f'(x) = 0. f'(x) = 3x^2 - 3 = 0 ⇒ 3(x^2 - 1) = 0 ⇒ x = ±1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫ (e^x / x - ln(x) e^x) dx using standard rules.",
+    "options": [
+      "-e^x ln(x) + C",
+      "e^x ln(x) + C",
+      "e^x / x + C",
+      "-e^x / x + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using d/dx [-e^x ln(x)] = -e^x (1/x) - ln(x) e^x = e^x/x - ln(x) e^x (rewritten), the antiderivative is -e^x ln(x) + C.",
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If A and B are independent events, P(A) = 0.4 and P(B) = 0.5, what is P(A ∪ B)?",
+    "options": [
+      "0.7",
+      "0.9",
+      "0.2",
+      "0.6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "P(A ∩ B) = P(A)*P(B) = 0.4 * 0.5 = 0.2. P(A ∪ B) = P(A) + P(B) - P(A ∩ B) = 0.4 + 0.5 - 0.2 = 0.7.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the center and radius of the sphere x^2 + y^2 + z^2 - 2x + 4y - 6z = 0?",
+    "options": [
+      "Center (1, -2, 3), Radius √14",
+      "Center (-1, 2, -3), Radius 14",
+      "Center (1, 2, 3), Radius 14",
+      "Center (2, -4, 6), Radius √14"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Comparing with x^2+y^2+z^2+2ux+2vy+2wz+d=0 gives u=-1, v=2, w=-3, d=0. Center = (-u,-v,-w) = (1, -2, 3). Radius r = √(u^2+v^2+w^2-d) = √(1+4+9-0) = √14.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of lim (x → ∞) [(1 + 1/x)^x]?",
+    "options": [
+      "e",
+      "1",
+      "0",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This is the classic limit definition of Euler's number e.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the determinant of matrix A = [[3, 1], [4, 2]].",
+    "options": [
+      "2",
+      "10",
+      "-2",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "|A| = (3 × 2) - (1 × 4) = 6 - 4 = 2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If a, b, c are in Arithmetic Progression (AP), then 2b is equal to:",
+    "options": [
+      "a + c",
+      "ac",
+      "√(ac)",
+      "a - c"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In an AP, common difference d = b - a = c - b. Rearranging gives 2b = a + c.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the principal value of arcsin(-1/2)?",
+    "options": [
+      "-π/6",
+      "5π/6",
+      "-π/3",
+      "7π/6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The range of principal values for arcsin(x) is [-π/2, π/2]. Since sin(-π/6) = -1/2, arcsin(-1/2) = -π/6.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the derivative of f(x) = tan(x) with respect to x.",
+    "options": [
+      "sec^2(x)",
+      "cot(x)",
+      "-sec^2(x)",
+      "sec(x)tan(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard calculus derivative formula for tan(x) is sec^2(x).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the distance between parallel lines 2x + 3y + 4 = 0 and 2x + 3y - 9 = 0.",
+    "options": [
+      "13 / √13",
+      "5 / √13",
+      "13 / 13",
+      "9 / √13"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Formula d = |c1 - c2| / √(a^2 + b^2) = |4 - (-9)| / √(2^2 + 3^2) = 13 / √13 = √13.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the modulus of the complex number z = cos(θ) + i sin(θ)?",
+    "options": [
+      "1",
+      "cos(θ)",
+      "sin(θ)",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "|z| = √(cos^2(θ) + sin^2(θ)) = √1 = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "In how many ways can 5 people be seated around a circular table?",
+    "options": [
+      "24",
+      "120",
+      "60",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Circular permutations of n distinct objects is given by (n - 1)!. For 5 people: (5 - 1)! = 4! = 24.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the solution of differential equation dy/dx = -x/y?",
+    "options": [
+      "x^2 + y^2 = C",
+      "x^2 - y^2 = C",
+      "y = C x",
+      "x + y = C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Separating variables: y dy = -x dx ⇒ ∫ y dy = -∫ x dx ⇒ y^2 / 2 = -x^2 / 2 + c1 ⇒ x^2 + y^2 = C.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of ∫ (1 / (1 + x^2)) dx?",
+    "options": [
+      "arctan(x) + C",
+      "arcsin(x) + C",
+      "ln|1 + x^2| + C",
+      "arccosh(x) + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard antiderivative of 1 / (1 + x^2) is arctan(x) + C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If vectors A and B are orthogonal, what is A · B?",
+    "options": [
+      "0",
+      "1",
+      "|A||B|",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Orthogonal vectors meet at an angle θ = 90°. A · B = |A||B|cos(90°) = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the coefficient of x^3 in the expansion of (1 + x)^5?",
+    "options": [
+      "10",
+      "5",
+      "20",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By Binomial Theorem, the coefficient of x^3 in (1 + x)^5 is 5C3 = 5! / (3! 2!) = 10.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]
+[
+  {
+    "question": "If a matrix A is skew-symmetric, what is the value of its diagonal elements?",
+    "options": [
+      "All zeroes",
+      "All ones",
+      "All positive integers",
+      "Any real numbers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a skew-symmetric matrix, a_ij = -a_ji. For diagonal elements where i = j, a_ii = -a_ii ⇒ 2a_ii = 0 ⇒ a_ii = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of ∫ (1 / √(1 - x^2)) dx?",
+    "options": [
+      "arcsin(x) + C",
+      "arccos(x) + C",
+      "arctan(x) + C",
+      "ln|x + √(1-x^2)| + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard antiderivative of 1 / √(1 - x^2) is arcsin(x) + C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the slope of the tangent to the curve y = x^3 - 3x + 2 at x = 2?",
+    "options": [
+      "9",
+      "4",
+      "12",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The slope of the tangent is given by dy/dx = 3x^2 - 3. Evaluating at x = 2 gives 3(2)^2 - 3 = 12 - 3 = 9.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the scalar projection of vector A = 3i + j + 2k onto B = i - 2j + 2k?",
+    "options": [
+      "5/3",
+      "3/5",
+      "5",
+      "1/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Scalar projection = (A · B) / |B| = [(3)(1) + (1)(-2) + (2)(2)] / √(1^2 + (-2)^2 + 2^2) = (3 - 2 + 4) / √9 = 5/3.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If the roots of x^2 - px + q = 0 differ by 1, what is the relationship between p and q?",
+    "options": [
+      "p^2 - 4q = 1",
+      "p^2 + 4q = 1",
+      "q^2 - 4p = 1",
+      "p^2 - 2q = 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let roots be α and β. |α - β| = 1 ⇒ (α - β)^2 = 1 ⇒ (α + β)^2 - 4αβ = 1. Substituting sum = p and product = q gives p^2 - 4q = 1.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of lim (x → 0) [(e^x - 1) / x]?",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This is a fundamental exponential limit identity. Using L'Hôpital's rule: lim (x → 0) [e^x / 1] = e^0 = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the distance of the point (2, 3, 4) from the xy-plane?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "√29"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The distance of any point (x, y, z) from the xy-plane is given by the absolute value of its z-coordinate, which is |4| = 4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If matrix A is orthogonal, what is A * A^T?",
+    "options": [
+      "Identity matrix I",
+      "Zero matrix O",
+      "Matrix A",
+      "2I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By definition, a real square matrix A is orthogonal if A * A^T = A^T * A = I.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of f(x) = log_10(x) with respect to x?",
+    "options": [
+      "1 / (x ln(10))",
+      "1 / x",
+      "ln(10) / x",
+      "1 / (10x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Change of base formula gives log_10(x) = ln(x) / ln(10). Differentiating yields 1 / (x ln(10)).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the focus of the parabola x^2 = -8y?",
+    "options": [
+      "(0, -2)",
+      "(0, 2)",
+      "(-2, 0)",
+      "(2, 0)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Comparing with the standard form x^2 = -4ay gives 4a = 8 ⇒ a = 2. Since it opens downwards, the focus is at (0, -a) = (0, -2).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the value of 1 + 2 + 3 + ... + 100.",
+    "options": [
+      "5050",
+      "5000",
+      "5100",
+      "10000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using the formula S_n = n(n + 1)/2 for n = 100: S_100 = 100(101)/2 = 50 × 101 = 5050.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫_0^1 x e^x dx",
+    "options": [
+      "1",
+      "e",
+      "e - 1",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integration by parts gives ∫ x e^x dx = x e^x - e^x. Evaluating from 0 to 1: (1 e^1 - e^1) - (0 - e^0) = 0 - (-1) = 1.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the number of subsets of a set containing 5 elements?",
+    "options": [
+      "32",
+      "25",
+      "10",
+      "16"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The total number of subsets (power set size) for a set with n elements is 2^n. For n = 5, 2^5 = 32.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If sin(θ) = 3/5 and θ is in the first quadrant, what is tan(θ)?",
+    "options": [
+      "3/4",
+      "4/5",
+      "4/3",
+      "5/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "cos(θ) = √(1 - sin^2(θ)) = √(1 - 9/25) = 4/5. tan(θ) = sin(θ) / cos(θ) = (3/5) / (4/5) = 3/4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of i^10?",
+    "options": [
+      "-1",
+      "1",
+      "i",
+      "-i"
+    ],
+    "correctAnswer": 0,
+    "explanation": "i^10 = (i^4)^2 * i^2 = (1)^2 * (-1) = -1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the solution of the linear differential equation dy/dx + y = e^(-x)?",
+    "options": [
+      "y = (x + C) e^(-x)",
+      "y = x e^x + C",
+      "y = e^(-x) + C",
+      "y = x e^(-x) + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integrating factor IF = e^(∫ 1 dx) = e^x. Solution: y e^x = ∫ e^x e^(-x) dx = ∫ 1 dx = x + C ⇒ y = (x + C) e^(-x).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the general solution of sin(x) = 0.",
+    "options": [
+      "x = nπ (n ∈ Z)",
+      "x = 2nπ (n ∈ Z)",
+      "x = (2n+1)π/2 (n ∈ Z)",
+      "x = nπ/2 (n ∈ Z)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sine function equals zero at all integer multiples of π. Thus, x = nπ for any integer n.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the sum of the roots of unity 1 + ω + ω^2?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The sum of all three complex cube roots of unity is a standard identity equal to 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the radius of the circle 2x^2 + 2y^2 - 8x + 12y - 1 = 0?",
+    "options": [
+      "√13.5",
+      "√13",
+      "5",
+      "13"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Divide by 2: x^2 + y^2 - 4x + 6y - 0.5 = 0. Center = (2, -3). Radius r = √(2^2 + (-3)^2 - (-0.5)) = √(4 + 9 + 0.5) = √13.5.",
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the cross product of two parallel vectors?",
+    "options": [
+      "Zero vector 0",
+      "Unit vector",
+      "1",
+      "Dot product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For parallel vectors, angle θ = 0° or 180°. Since sin(θ) = 0, their magnitude |A × B| = 0, producing a zero vector.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate lim (x → 0) [tan(x) / x].",
+    "options": [
+      "1",
+      "0",
+      "Infinity",
+      "Undefined"
+    ],
+    "correctAnswer": 0,
+    "explanation": "lim (x → 0) [sin(x) / (x cos(x))] = lim (x → 0) [sin(x)/x] * lim (x → 0) [1/cos(x)] = 1 * 1 = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the derivative of f(x) = csc(x) with respect to x.",
+    "options": [
+      "-csc(x)cot(x)",
+      "csc(x)cot(x)",
+      "-sec(x)tan(x)",
+      "-csc^2(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard derivative rule for cosecant is d/dx [csc(x)] = -csc(x)cot(x).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If nC3 = nC7, what is the value of n?",
+    "options": [
+      "10",
+      "4",
+      "21",
+      "7"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By the property nCx = nCy ⇒ x + y = n or x = y. Here x + y = 3 + 7 = 10, so n = 10.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the maximum area of a rectangle with a given perimeter P?",
+    "options": [
+      "P^2 / 16",
+      "P^2 / 4",
+      "P^2 / 8",
+      "P^2 / 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a fixed perimeter, a rectangle achieves maximum area when it is a square of side P/4. Area = (P/4)^2 = P^2 / 16.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫ sec^2(x) dx",
+    "options": [
+      "tan(x) + C",
+      "-tan(x) + C",
+      "sec(x) + C",
+      "ln|sec(x)| + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Since d/dx [tan(x)] = sec^2(x), the antiderivative of sec^2(x) is tan(x) + C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the trace of a square matrix?",
+    "options": [
+      "Sum of its diagonal elements",
+      "Product of its diagonal elements",
+      "Determinant of the matrix",
+      "Sum of all elements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The trace of a square matrix is defined as the sum of all elements on its main diagonal.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If A and B are two events such that P(A|B) = P(A), what can be concluded about A and B?",
+    "options": [
+      "A and B are independent",
+      "A and B are mutually exclusive",
+      "P(A) = P(B)",
+      "A is a subset of B"
+    ],
+    "correctAnswer": 0,
+    "explanation": "P(A|B) = P(A ∩ B) / P(B) = P(A) ⇒ P(A ∩ B) = P(A)P(B), which defines independent events.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the length of the vector V = 2i - j + 2k.",
+    "options": [
+      "3",
+      "9",
+      "5",
+      "√5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "|V| = √(2^2 + (-1)^2 + 2^2) = √(4 + 1 + 4) = √9 = 3.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the third term of the expansion of (x + y)^4?",
+    "options": [
+      "6 x^2 y^2",
+      "4 x^3 y",
+      "4 x y^3",
+      "x^4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The r-th general term T_(r+1) = nCr * x^(n-r) * y^r. For 3rd term (r=2): 4C2 * x^2 * y^2 = 6 x^2 y^2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of f(x) = cot(x) with respect to x?",
+    "options": [
+      "-csc^2(x)",
+      "csc^2(x)",
+      "-sec^2(x)",
+      "-csc(x)cot(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard derivative of cotangent is d/dx [cot(x)] = -csc^2(x).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the angle of intersection between the lines y = x and y = -x.",
+    "options": [
+      "90°",
+      "45°",
+      "0°",
+      "60°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Slopes are m1 = 1 and m2 = -1. Since m1 * m2 = (1)(-1) = -1, the two lines are perpendicular (90°).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫_1^e (1 / x) dx",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "ln(2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "∫_1^e (1/x) dx = [ln|x|]_1^e = ln(e) - ln(1) = 1 - 0 = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the argument of the complex number z = -1 + i √3?",
+    "options": [
+      "2π/3",
+      "π/3",
+      "5π/6",
+      "4π/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "z is in quadrant II (x < 0, y > 0). θ = π - arctan(|√3 / -1|) = π - π/3 = 2π/3.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the sum to infinity of GP: 1, 1/3, 1/9, 1/27, ...",
+    "options": [
+      "3/2",
+      "2/3",
+      "3",
+      "4/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "First term a = 1, common ratio r = 1/3. S_∞ = a / (1 - r) = 1 / (1 - 1/3) = 1 / (2/3) = 3/2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the condition for a square matrix A to be singular?",
+    "options": [
+      "det(A) = 0",
+      "det(A) ≠ 0",
+      "A = A^T",
+      "A^T = A^(-1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A matrix is singular if and only if its determinant is zero (meaning it has no inverse).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the inflection point of f(x) = x^3.",
+    "options": [
+      "(0, 0)",
+      "(1, 1)",
+      "(-1, -1)",
+      "No inflection point"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f''(x) = 6x = 0 ⇒ x = 0. Since the second derivative changes sign across x = 0, (0, 0) is an inflection point.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the standard deviation of a standard normal distribution?",
+    "options": [
+      "1",
+      "0",
+      "Variable",
+      "0.5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By definition, a standard normal distribution Z has mean μ = 0 and standard deviation σ = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫ (1 / x^2) dx",
+    "options": [
+      "-1/x + C",
+      "1/x + C",
+      "ln|x^2| + C",
+      "-2/x^3 + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "∫ x^(-2) dx = x^(-1) / (-1) + C = -1/x + C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the contrapositive of the statement 'If P, then Q'?",
+    "options": [
+      "If not Q, then not P",
+      "If Q, then P",
+      "If not P, then not Q",
+      "P if and only if Q"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The contrapositive of a conditional statement 'P ⇒ Q' is logically equivalent to '¬Q ⇒ ¬P'.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If dynamic position is given by s(t) = t^3 - 6t^2, what is the acceleration at t = 3?",
+    "options": [
+      "6",
+      "0",
+      "-9",
+      "18"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Velocity v(t) = s'(t) = 3t^2 - 12t. Acceleration a(t) = v'(t) = 6t - 12. At t = 3: a(3) = 6(3) - 12 = 6.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the degree of a non-zero constant polynomial?",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A non-zero constant polynomial like f(x) = c (c ≠ 0) can be written as c*x^0, making its degree 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the cross product i × j.",
+    "options": [
+      "k",
+      "-k",
+      "0",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By the right-hand rule of Cartesian unit vectors, i × j = k.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of sinh(0)?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "e"
+    ],
+    "correctAnswer": 0,
+    "explanation": "sinh(x) = (e^x - e^(-x)) / 2. At x = 0: (e^0 - e^0) / 2 = (1 - 1) / 2 = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If f(x) = |x|, is f(x) differentiable at x = 0?",
+    "options": [
+      "No, left and right derivatives differ",
+      "Yes, derivative is 0",
+      "Yes, derivative is 1",
+      "Yes, derivative is -1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At x = 0, the left-hand derivative of |x| is -1 while the right-hand derivative is +1. Since they are unequal, it is not differentiable at x = 0.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the geometric meaning of |det(A)| for a 2x2 matrix with column vectors u and v?",
+    "options": [
+      "Area of the parallelogram spanned by u and v",
+      "Perimeter of the rectangle formed by u and v",
+      "Length of vector u + v",
+      "Distance between heads of u and v"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The absolute value of the determinant of a 2x2 matrix represents the area of the parallelogram formed by its column vectors.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of e^(x^2) with respect to x?",
+    "options": [
+      "2x e^(x^2)",
+      "e^(x^2)",
+      "x e^(x^2)",
+      "2e^(x^2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By chain rule: d/dx [e^(u)] = e^(u) * du/dx where u = x^2, du/dx = 2x. Thus 2x e^(x^2).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the formula for the volume of a sphere of radius r?",
+    "options": [
+      "(4/3)π r^3",
+      "4π r^2",
+      "(1/3)π r^3",
+      "2π r^3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard geometric formula for the volume of a sphere of radius r is V = (4/3)π r^3.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the period of cos(x)?",
+    "options": [
+      "2π",
+      "π",
+      "π/2",
+      "4π"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard cosine function repeats its values every 2π radians.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫_0^π sin(x) dx",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "∫_0^π sin(x) dx = [-cos(x)]_0^π = -cos(π) - (-cos(0)) = -(-1) + 1 = 1 + 1 = 2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If a fair coin is tossed 3 times, what is the probability of getting exactly 2 heads?",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "1/8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Outcomes for 2 heads: {HHT, HTH, THH} = 3 outcomes out of 2^3 = 8 total outcomes. P = 3/8.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]
+[
+  {
+    "question": "What is the value of ∫ e^x (sin(x) + cos(x)) dx?",
+    "options": [
+      "e^x sin(x) + C",
+      "e^x cos(x) + C",
+      "-e^x sin(x) + C",
+      "e^x (sin(x) - cos(x)) + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using the standard integral result ∫ e^x [f(x) + f'(x)] dx = e^x f(x) + C with f(x) = sin(x) and f'(x) = cos(x), the answer is e^x sin(x) + C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the order and degree of the differential equation (d^2y/dx^2)^3 + (dy/dx)^4 + y = 0?",
+    "options": [
+      "Order 2, Degree 3",
+      "Order 3, Degree 2",
+      "Order 2, Degree 4",
+      "Order 4, Degree 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The highest order derivative present is d^2y/dx^2 (order 2), and its exponent in polynomial form is 3 (degree 3).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If two events A and B are mutually exclusive, what is P(A ∩ B)?",
+    "options": [
+      "0",
+      "1",
+      "P(A)P(B)",
+      "P(A) + P(B)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mutually exclusive events cannot occur simultaneously, meaning their intersection is an empty set and P(A ∩ B) = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the distance between the parallel lines 3x + 4y + 5 = 0 and 3x + 4y - 15 = 0?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The distance formula between parallel lines Ax + By + C1 = 0 and Ax + By + C2 = 0 is d = |C1 - C2| / √(A^2 + B^2) = |5 - (-15)| / √(3^2 + 4^2) = 20 / 5 = 4.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of lim (x → ∞) [(3x^2 + 2x - 1) / (5x^2 - 4x + 7)]?",
+    "options": [
+      "3/5",
+      "0",
+      "Infinity",
+      "2/4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For limits at infinity of rational functions with equal degrees in the numerator and denominator, the limit equals the ratio of leading coefficients: 3/5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If A is a 3x3 matrix with |A| = 5, what is |2A|?",
+    "options": [
+      "40",
+      "10",
+      "30",
+      "20"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For an n x n matrix, |kA| = k^n |A|. Here n = 3, so |2A| = 2^3 * 5 = 8 * 5 = 40.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the eccentricity of the ellipse (x^2 / 25) + (y^2 / 16) = 1.",
+    "options": [
+      "3/5",
+      "4/5",
+      "9/25",
+      "5/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Here a^2 = 25, b^2 = 16. Eccentricity e = √(1 - b^2/a^2) = √(1 - 16/25) = √(9/25) = 3/5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of arctan(x) with respect to x?",
+    "options": [
+      "1 / (1 + x^2)",
+      "1 / √(1 - x^2)",
+      "-1 / (1 + x^2)",
+      "1 / (x^2 - 1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard derivative of the inverse tangent function arctan(x) is 1 / (1 + x^2).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the magnitude of the vector projection of A = 2i + 3j on B = i + k?",
+    "options": [
+      "√2",
+      "2",
+      "2√2",
+      "5 / √2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vector projection magnitude = |A · B| / |B| = |(2)(1) + (3)(0) + (0)(1)| / √(1^2 + 0^2 + 1^2) = 2 / √2 = √2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the general solution of the differential equation dy/dx = y/x.",
+    "options": [
+      "y = C x",
+      "y = x + C",
+      "y = C / x",
+      "y^2 = x^2 + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Separating variables: dy/y = dx/x ⇒ ln|y| = ln|x| + ln|C| ⇒ y = Cx.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫_0^(π/2) sin^2(x) dx",
+    "options": [
+      "π/4",
+      "π/2",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using identity sin^2(x) = (1 - cos(2x))/2: ∫_0^(π/2) [(1 - cos(2x))/2] dx = [x/2 - sin(2x)/4]_0^(π/2) = π/4 - 0 = π/4.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the angle between two vectors A and B if |A × B| = A · B?",
+    "options": [
+      "45°",
+      "0°",
+      "90°",
+      "60°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "|A||B| sin(θ) = |A||B| cos(θ) ⇒ tan(θ) = 1 ⇒ θ = 45°.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the sum of the first n natural numbers?",
+    "options": [
+      "n(n + 1) / 2",
+      "n^2",
+      "n(n - 1) / 2",
+      "(n(n + 1) / 2)^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard sum formula for the arithmetic progression 1 + 2 + ... + n is n(n + 1) / 2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the value of k if the lines 2x - y + 3 = 0 and kx + 2y - 1 = 0 are perpendicular.",
+    "options": [
+      "1",
+      "-1",
+      "4",
+      "-4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Slopes are m1 = 2 and m2 = -k/2. For perpendicular lines, m1 * m2 = -1 ⇒ 2 * (-k/2) = -1 ⇒ -k = -1 ⇒ k = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the principal value of arcsin(-1/2)?",
+    "options": [
+      "-π/6",
+      "5π/6",
+      "7π/6",
+      "-π/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The principal range of arcsin is [-π/2, π/2]. Since sin(-π/6) = -1/2, the principal value is -π/6.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If a matrix A is symmetric, which of the following is true?",
+    "options": [
+      "A = A^T",
+      "A = -A^T",
+      "A A^T = I",
+      "det(A) = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By definition, a square matrix A is symmetric if it is equal to its transpose (A = A^T).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of cos(15°)?",
+    "options": [
+      "(√6 + √2) / 4",
+      "(√6 - √2) / 4",
+      "(√3 + 1) / 2",
+      "(√3 - 1) / 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "cos(15°) = cos(45° - 30°) = cos(45°)cos(30°) + sin(45°)sin(30°) = (1/√2)(√3/2) + (1/√2)(1/2) = (√6 + √2) / 4.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the area bounded by the curve y = x^2, the x-axis, and lines x = 0 and x = 3?",
+    "options": [
+      "9",
+      "27",
+      "18",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Area = ∫_0^3 x^2 dx = [x^3 / 3]_0^3 = (27 / 3) - 0 = 9.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of ln(sin(x)) with respect to x?",
+    "options": [
+      "cot(x)",
+      "tan(x)",
+      "1 / sin(x)",
+      "-cot(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By chain rule: d/dx [ln(sin(x))] = (1 / sin(x)) * cos(x) = cot(x).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the sum of the roots of the quadratic equation 3x^2 - 12x + 5 = 0?",
+    "options": [
+      "4",
+      "-4",
+      "5/3",
+      "-5/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For ax^2 + bx + c = 0, sum of roots = -b/a = -(-12)/3 = 4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫ (e^x / (1 + e^x)) dx",
+    "options": [
+      "ln(1 + e^x) + C",
+      "1 / (1 + e^x) + C",
+      "e^x ln(1 + e^x) + C",
+      "arctan(e^x) + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let u = 1 + e^x, du = e^x dx. Integral becomes ∫ (1/u) du = ln|u| + C = ln(1 + e^x) + C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the coordinate of the centroid of a triangle with vertices (0,0), (6,0), and (0,6)?",
+    "options": [
+      "(2, 2)",
+      "(3, 3)",
+      "(1, 1)",
+      "(2, 3)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Centroid = ((x1+x2+x3)/3, (y1+y2+y3)/3) = ((0+6+0)/3, (0+0+6)/3) = (2, 2).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the binomial coefficient C(8, 3)?",
+    "options": [
+      "56",
+      "24",
+      "336",
+      "28"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C(8, 3) = 8! / (3! * 5!) = (8 * 7 * 6) / (3 * 2 * 1) = 56.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the derivative of a constant function f(x) = c?",
+    "options": [
+      "0",
+      "1",
+      "c",
+      "x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The rate of change of a constant value is always 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the modulus of the complex number z = 3 - 4i.",
+    "options": [
+      "5",
+      "7",
+      "1",
+      "25"
+    ],
+    "correctAnswer": 0,
+    "explanation": "|z| = √(3^2 + (-4)^2) = √(9 + 16) = √25 = 5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the domain of f(x) = √(4 - x^2)?",
+    "options": [
+      "[-2, 2]",
+      "(-2, 2)",
+      "(-∞, -2] ∪ [2, ∞)",
+      "[0, 2]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For real values, 4 - x^2 ≥ 0 ⇒ x^2 ≤ 4 ⇒ -2 ≤ x ≤ 2. Domain is [-2, 2].",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If matrix A is invertible, what is det(A^(-1))?",
+    "options": [
+      "1 / det(A)",
+      "det(A)",
+      "-det(A)",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Since A * A^(-1) = I, det(A * A^(-1)) = det(I) = 1 ⇒ det(A) * det(A^(-1)) = 1 ⇒ det(A^(-1)) = 1 / det(A).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: lim (x → 0) [(1 - cos(x)) / x^2]",
+    "options": [
+      "1/2",
+      "0",
+      "1",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using L'Hôpital's rule twice: lim (x → 0) [sin(x) / (2x)] = lim (x → 0) [cos(x) / 2] = 1/2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the sum of an infinite geometric series with a = 5 and r = 1/2?",
+    "options": [
+      "10",
+      "5",
+      "2.5",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "explanation": "S_∞ = a / (1 - r) = 5 / (1 - 0.5) = 5 / 0.5 = 10.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the equation of a line passing through (1, 2) with slope 3?",
+    "options": [
+      "3x - y - 1 = 0",
+      "3x + y - 5 = 0",
+      "x - 3y + 5 = 0",
+      "3x - y + 1 = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Point-slope form: y - y1 = m(x - x1) ⇒ y - 2 = 3(x - 1) ⇒ y - 2 = 3x - 3 ⇒ 3x - y - 1 = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the derivative of f(x) = x ln(x) at x = e.",
+    "options": [
+      "2",
+      "1",
+      "e",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Product rule: f'(x) = 1 * ln(x) + x * (1/x) = ln(x) + 1. At x = e: ln(e) + 1 = 1 + 1 = 2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the period of tan(x)?",
+    "options": [
+      "π",
+      "2π",
+      "π/2",
+      "4π"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The tangent function repeats its values every π radians.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the integrating factor of the linear differential equation dy/dx + (2/x)y = x^2?",
+    "options": [
+      "x^2",
+      "2x",
+      "ln(x)",
+      "e^(2x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "IF = e^(∫ P dx) = e^(∫ (2/x) dx) = e^(2 ln(x)) = e^(ln(x^2)) = x^2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫_0^1 (1 / (1 + x^2)) dx",
+    "options": [
+      "π/4",
+      "π/2",
+      "1",
+      "π"
+    ],
+    "correctAnswer": 0,
+    "explanation": "∫_0^1 (1 / (1 + x^2)) dx = [arctan(x)]_0^1 = arctan(1) - arctan(0) = π/4 - 0 = π/4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of 0! (zero factorial)?",
+    "options": [
+      "1",
+      "0",
+      "Undefined",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By mathematical definition and convention (to keep n! = n * (n-1)! consistent), 0! = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the vector normal to the surface plane 2x + 3y - z = 5?",
+    "options": [
+      "2i + 3j - k",
+      "2i - 3j + k",
+      "i + j + k",
+      "5i + 5j + 5k"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The normal vector to a plane Ax + By + Cz = D is given by its coefficient vector N = Ai + Bj + Ck = 2i + 3j - k.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the nth term of the Arithmetic Progression 2, 5, 8, 11, ...",
+    "options": [
+      "3n - 1",
+      "3n + 1",
+      "2n + 1",
+      "3n - 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "First term a = 2, common difference d = 3. T_n = a + (n - 1)d = 2 + (n - 1)3 = 3n - 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If f(x) = x^3 - 6x^2 + 9x + 1, where does f(x) have a local maximum?",
+    "options": [
+      "x = 1",
+      "x = 3",
+      "x = 0",
+      "x = 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 3x^2 - 12x + 9 = 3(x - 1)(x - 3) = 0 ⇒ x = 1, 3. f''(x) = 6x - 12. f''(1) = -6 < 0, so local maximum occurs at x = 1.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the total number of diagonals in a regular hexagon?",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Formula for number of diagonals in an n-gon is n(n - 3) / 2. For hexagon (n=6): 6(3)/2 = 9.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the slope of a horizontal line?",
+    "options": [
+      "0",
+      "1",
+      "Undefined",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A horizontal line has zero change in y (Δy = 0), making its slope m = Δy / Δx = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the value of log_2(32)?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "16"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2^5 = 32, so log_2(32) = 5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫ x cos(x) dx",
+    "options": [
+      "x sin(x) + cos(x) + C",
+      "x sin(x) - cos(x) + C",
+      "-x sin(x) + cos(x) + C",
+      "x cos(x) - sin(x) + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By integration by parts: ∫ u dv = uv - ∫ v du with u = x, dv = cos(x)dx ⇒ x sin(x) - ∫ sin(x)dx = x sin(x) + cos(x) + C.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If tan(θ) = 1, what is the principal value of θ in radians?",
+    "options": [
+      "π/4",
+      "π/2",
+      "π/3",
+      "π/6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "tan(π/4) = 1, so the principal value of θ is π/4 radians (45°).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the inverse of a 2x2 matrix [[a, b], [c, d]] if ad - bc ≠ 0?",
+    "options": [
+      "(1/(ad-bc)) [[d, -b], [-c, a]]",
+      "(1/(ad-bc)) [[a, -b], [-c, d]]",
+      "(1/(ad-bc)) [[d, b], [c, a]]",
+      "[[d, -b], [-c, a]]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard formula for the inverse of a 2x2 matrix is (1 / det) * adj(A), where adj(A) swaps main diagonal elements and negates off-diagonal elements.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the mean of a Poisson distribution with parameter λ?",
+    "options": [
+      "λ",
+      "λ^2",
+      "√λ",
+      "1/λ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a Poisson distribution, both the mean and the variance are equal to parameter λ.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the derivative of f(x) = x^x for x > 0.",
+    "options": [
+      "x^x (1 + ln(x))",
+      "x * x^(x-1)",
+      "x^x ln(x)",
+      "x^x / (1 + ln(x))"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let y = x^x ⇒ ln(y) = x ln(x). Differentiating implicitly: (1/y) dy/dx = 1 + ln(x) ⇒ dy/dx = x^x (1 + ln(x)).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the length of the latus rectum of the hyperbola (x^2 / a^2) - (y^2 / b^2) = 1?",
+    "options": [
+      "2b^2 / a",
+      "2a^2 / b",
+      "b^2 / a",
+      "2ab"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard formula for the length of the latus rectum of a horizontal hyperbola is 2b^2 / a.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Find the value of det([[1, 2], [3, 4]]).",
+    "options": [
+      "-2",
+      "2",
+      "-10",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "det = (1)(4) - (2)(3) = 4 - 6 = -2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the probability of drawing a red ace from a standard deck of 52 playing cards?",
+    "options": [
+      "1/26",
+      "1/52",
+      "1/13",
+      "2/13"
+    ],
+    "correctAnswer": 0,
+    "explanation": "There are 2 red aces (Ace of Hearts, Ace of Diamonds) in a deck of 52 cards. P = 2 / 52 = 1 / 26.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Evaluate: ∫_0^1 x^3 dx",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "∫_0^1 x^3 dx = [x^4 / 4]_0^1 = (1/4) - 0 = 1/4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]
