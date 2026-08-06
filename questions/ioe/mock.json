@@ -260,3 +260,1963 @@
     "subject": "Mathematics"
   }
 ]
+[
+  {
+    "question": "Which of the following compounds exhibits optical isomerism?",
+    "options": [
+      "Lactic acid",
+      "Acetic acid",
+      "Propan-2-ol",
+      "Ethanol"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lactic acid [CH3-CH(OH)-COOH] possesses a chiral carbon atom bonded to four different groups (-H, -OH, -CH3, -COOH), making it optically active.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the order of reaction for radioactive decay processes?",
+    "options": [
+      "First order",
+      "Zero order",
+      "Second order",
+      "Pseudo-first order"
+    ],
+    "correctAnswer": 0,
+    "explanation": "All natural and artificial radioactive disintegrations follow first-order reaction kinetics, where the rate depends solely on the number of radioactive nuclei present.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following gas molecules has a zero dipole moment?",
+    "options": [
+      "CCl4",
+      "CHCl3",
+      "NH3",
+      "H2O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbon tetrachloride (CCl4) has a symmetric regular tetrahedral geometry, causing individual C-Cl bond dipoles to vectorially cancel each other completely.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What product is formed at the cathode during the electrolysis of molten NaCl?",
+    "options": [
+      "Sodium metal (Na)",
+      "Chlorine gas (Cl2)",
+      "Hydrogen gas (H2)",
+      "Oxygen gas (O2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "During electrolysis of molten NaCl, Na+ cations migrate to the cathode and undergo reduction to form sodium metal (Na).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reagent is used in the Lucas test to differentiate primary, secondary, and tertiary alcohols?",
+    "options": [
+      "Anhydrous ZnCl2 and concentrated HCl",
+      "Dilute HCl and ZnSO4",
+      "Alkaline KMnO4 solution",
+      "Iodine and NaOH solution"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lucas reagent consists of anhydrous ZnCl2 dissolved in concentrated HCl. Tertiary alcohols react immediately, secondary alcohols within 5 minutes, and primary alcohols show no reaction at room temperature.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the molarity of pure water at 4°C?",
+    "options": [
+      "55.55 M",
+      "18 M",
+      "100 M",
+      "1 M"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At 4°C, 1 L of pure water weighs 1000 g. Moles = 1000 g / 18.015 g/mol ≈ 55.55 moles. Therefore, concentration = 55.55 M.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which type of isomerism is exhibited by the pair [Co(NH3)5(SO4)]Br and [Co(NH3)5Br]SO4?",
+    "options": [
+      "Ionisation isomerism",
+      "Linkage isomerism",
+      "Coordination isomerism",
+      "Hydrate isomerism"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ionisation isomerism occurs when a counter ion in a coordination compound acts as a ligand inside the coordination sphere, yielding different ions in aqueous solution.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the spin-only magnetic moment for a transition metal ion with 3 unpaired electrons?",
+    "options": [
+      "3.87 BM",
+      "2.83 BM",
+      "1.73 BM",
+      "4.90 BM"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spin-only magnetic moment μ = √(n(n+2)) BM. For n = 3: μ = √(3 × 5) = √15 ≈ 3.87 BM.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which quantum number set is mathematically NOT permitted for an electron in an atom?",
+    "options": [
+      "n = 2, l = 2, ml = 0, ms = +1/2",
+      "n = 3, l = 1, ml = -1, ms = -1/2",
+      "n = 4, l = 0, ml = 0, ms = +1/2",
+      "n = 1, l = 0, ml = 0, ms = -1/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The azimuthal quantum number (l) ranges from 0 to (n - 1). For n = 2, the allowed values of l are 0 and 1; thus l = 2 is invalid.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "According to Le Chatelier's principle, how does an increase in temperature affect an exothermic reaction at equilibrium?",
+    "options": [
+      "Equilibrium shifts to the left (reactants side)",
+      "Equilibrium shifts to the right (products side)",
+      "Equilibrium constant increases",
+      "No shift occurs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In an exothermic process (heat released), adding heat favors the reverse endothermic direction to absorb heat, shifting the equilibrium toward the reactants.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which law states that the total enthalpy change in a chemical reaction is independent of the pathway taken?",
+    "options": [
+      "Hess's Law",
+      "Kirchhoff's Law",
+      "Henry's Law",
+      "Graham's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hess's Law of Constant Heat Summation asserts that the enthalpy change of a chemical process depends only on the initial and final states.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which pyrimidine base is present in RNA but absent in DNA?",
+    "options": [
+      "Uracil",
+      "Thymine",
+      "Cytosine",
+      "Adenine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RNA contains Uracil instead of Thymine, which is found in DNA.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the chief ore of aluminum metal?",
+    "options": [
+      "Bauxite",
+      "Hematite",
+      "Galena",
+      "Siderite"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bauxite (hydrated aluminum oxide, Al2O3·xH2O) is the primary ore used for aluminum extraction.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the catalyst used in the industrial Haber process for ammonia synthesis?",
+    "options": [
+      "Finely divided Iron with K2O and Al2O3 promoters",
+      "Powdered Nickel",
+      "Platinum mesh",
+      "Vanadium pentoxide (V2O5)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Haber-Bosch process employs finely divided iron as a catalyst, promoted by oxides of potassium and aluminum (K2O and Al2O3).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which qualitative test is used to detect peptide bonds in proteins?",
+    "options": [
+      "Biuret Test",
+      "Barfoed's Test",
+      "Seliwanoff's Test",
+      "Tollen's Test"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Biuret test gives a violet-purple solution when alkaline copper sulfate complexes with compounds containing two or more peptide linkages.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relation between half-life (t1/2) and rate constant (k) for a zero-order reaction?",
+    "options": [
+      "t1/2 = [A]0 / 2k",
+      "t1/2 = 0.693 / k",
+      "t1/2 = 1 / (k [A]0)",
+      "t1/2 = k / [A]0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integrating the rate equation for a zero-order reaction yields [A] = [A]0 - kt. Setting [A] = [A]0/2 gives t1/2 = [A]0 / (2k).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reducing agent converts aldehydes and ketones to alcohols without reducing carboxylic acids or esters?",
+    "options": [
+      "NaBH4",
+      "LiAlH4",
+      "H2 with Pt catalyst",
+      "Na in liquid NH3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sodium borohydride (NaBH4) selectively reduces aldehydes and ketones to alcohols, leaving esters and carboxylic acids untouched.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the formula for calculating the van 't Hoff factor (i) in case of electrolyte dissociation?",
+    "options": [
+      "i = 1 + (n - 1)α",
+      "i = 1 - (1 - n)α",
+      "i = 1 + α / n",
+      "i = n α"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a solute that dissociates into 'n' ions with a degree of dissociation α, total particle count = 1 - α + n α = 1 + (n - 1)α.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What type of solid crystal lattice is diamond?",
+    "options": [
+      "Covalent network solid",
+      "Ionic solid",
+      "Molecular solid",
+      "Metallic solid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diamond consists of sp3-hybridized carbon atoms linked continuously by covalent bonds in a 3D network lattice.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which products are obtained when benzaldehyde undergoes the Cannizzaro reaction in concentrated NaOH?",
+    "options": [
+      "Benzyl alcohol and Sodium benzoate",
+      "Benzoic acid and Benzene",
+      "Benzoin and Water",
+      "Acetophenone and Phenol"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benzaldehyde lacks alpha-hydrogens and undergoes disproportionation in concentrated alkali to give benzyl alcohol (reduction) and sodium benzoate (oxidation).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the geometry and hybridisation of the ClF5 molecule?",
+    "options": [
+      "Square pyramidal, sp3d2",
+      "Trigonal bipyramidal, sp3d",
+      "Octahedral, sp3d2",
+      "Pentagonal bipyramidal, sp3d3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ClF5 has 5 single bonds and 1 lone pair on central Cl (steric number = 6, sp3d2 hybridization), leading to a square pyramidal geometry.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the relation for critical temperature (Tc) in terms of van der Waals constants 'a' and 'b'?",
+    "options": [
+      "Tc = 8a / (27 R b)",
+      "Tc = a / (27 R b^2)",
+      "Tc = 3 b",
+      "Tc = a / (R b)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "From the van der Waals equation, the formula for critical temperature is Tc = 8a / (27 R b).",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which functional group is formed by the condensation of a primary amine with an aldehyde?",
+    "options": [
+      "Schiff base (Imine)",
+      "Amide",
+      "Oxime",
+      "Hydrazone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Primary amines react with aldehydes via nucleophilic addition followed by dehydration to yield imines (>C=N-R), commonly called Schiff bases.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the pH of a 0.01 M aqueous solution of HCl at 25°C?",
+    "options": [
+      "2",
+      "1",
+      "12",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HCl completely dissociates in water: [H+] = 0.01 M = 10^-2 M. pH = -log10[H+] = -log10(10^-2) = 2.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reaction converts benzene diazonium chloride to chlorobenzene using Cu2Cl2 / HCl?",
+    "options": [
+      "Sandmeyer Reaction",
+      "Finkelstein Reaction",
+      "Gattermann Reaction",
+      "Swarts Reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Sandmeyer reaction converts a diazonium salt to aryl halide using cuprous halides dissolved in corresponding halogen acids.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the coordination number of Na+ in the rock salt (NaCl) structure?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In the NaCl crystal lattice, each Na+ ion is surrounded octahedrally by 6 Cl- ions, giving a 6:6 coordination ratio.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following cyclic molecules exhibits anti-aromatic character?",
+    "options": [
+      "Cyclobutadiene",
+      "Benzene",
+      "Cyclooctatetraene (tub shape)",
+      "Cyclopropenyl cation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cyclobutadiene is cyclic, planar, completely conjugated, and has 4 π-electrons (4n where n = 1), satisfying anti-aromaticity rules.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which equation relates electrode potential to standard potential and reaction quotient?",
+    "options": [
+      "Nernst Equation",
+      "Faraday's Law",
+      "Kohlrausch's Law",
+      "Gibbs-Helmholtz Equation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Nernst equation (E = E° - (RT/nF)ln Q) gives the relationship between non-standard electrode potential and species concentrations.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reaction yields an amide converted to a primary amine with one fewer carbon atom?",
+    "options": [
+      "Hofmann Bromamide Degradation",
+      "Stephen Reduction",
+      "Gabriel Phthalimide Synthesis",
+      "Clemmensen Reduction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hofmann bromamide reaction treats acid amides with Br2 and KOH to form primary amines containing one less carbon atom.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the H-O-H bond angle in a water molecule?",
+    "options": [
+      "104.5°",
+      "109.5°",
+      "120°",
+      "180°"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Water has sp3 hybridization with 2 bonding pairs and 2 lone pairs. Strong lone pair-lone pair repulsions compress the tetrahedral angle to 104.5°.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which rule predicts the major alkene formed during the dehydrohalogenation of alkyl halides?",
+    "options": [
+      "Saytzeff's (Zaitsev's) Rule",
+      "Markovnikov's Rule",
+      "Anti-Markovnikov's Rule",
+      "Hund's Rule"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Saytzeff's rule states that elimination reactions yield the most substituted (most alkylated) alkene as the predominant product.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation number of Chromium in K2Cr2O7?",
+    "options": [
+      "+6",
+      "+3",
+      "+7",
+      "+2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In K2Cr2O7: 2(+1) + 2(Cr) + 7(-2) = 0 ⇒ 2Cr = 12 ⇒ Cr = +6.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which carbohydrate is classified as a non-reducing sugar?",
+    "options": [
+      "Sucrose",
+      "Glucose",
+      "Maltose",
+      "Lactose"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In sucrose, the anomeric carbons of both glucose and fructose are tied up in the glycosidic bond, leaving no free hemiacetal/hemiketal group.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the SI unit of molar conductivity (Λm)?",
+    "options": [
+      "S m^2 mol^-1",
+      "S cm^2 mol^-1",
+      "S m^-1",
+      "Ohm^-1 cm^-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard SI unit for molar conductivity is Siemens meter squared per mole (S m^2 mol^-1).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the oxidation state of Nickel in [Ni(CO)4]?",
+    "options": [
+      "0",
+      "+2",
+      "+4",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carbon monoxide (CO) is a neutral ligand. Because the complex charge is zero, the oxidation state of Ni is 0.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which quantum number specifies the spatial orientation of an orbital?",
+    "options": [
+      "Magnetic quantum number (ml)",
+      "Principal quantum number (n)",
+      "Azimuthal quantum number (l)",
+      "Spin quantum number (ms)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The magnetic quantum number (ml) determines the orientation of an orbital in space relative to coordinate axes.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the hybridization of the central sulfur atom in SF6?",
+    "options": [
+      "sp3d2",
+      "sp3d",
+      "sp3",
+      "dsp2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SF6 features 6 single bonds around sulfur with zero lone pairs (steric number = 6), resulting in sp3d2 hybridization and octahedral shape.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reaction introduces an aldehyde group (-CHO) onto phenol using CHCl3 and NaOH?",
+    "options": [
+      "Reimer-Tiemann Reaction",
+      "Kolbe's Reaction",
+      "Friedel-Crafts Acylation",
+      "Stephen Reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Reimer-Tiemann reaction converts phenol to salicylaldehyde using chloroform in basic medium via a dichlorocarbene intermediate.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which d-block element possesses the highest melting point among all metals?",
+    "options": [
+      "Tungsten (W)",
+      "Iron (Fe)",
+      "Chromium (Cr)",
+      "Osmium (Os)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tungsten (W) exhibits the highest melting point (3422°C) due to maximum interatomic metallic bonding strength from unpaired d-electrons.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which standard amino acid is achiral?",
+    "options": [
+      "Glycine",
+      "Alanine",
+      "Valine",
+      "Leucine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Glycine (H2N-CH2-COOH) has two identical hydrogen atoms attached to the alpha carbon, making it non-chiral.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the magnetic behavior of [Fe(CN)6]3-?",
+    "options": [
+      "Paramagnetic with 1 unpaired electron",
+      "Diamagnetic",
+      "Paramagnetic with 5 unpaired electrons",
+      "Ferromagnetic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fe3+ (d5 configuration) paired with strong-field ligand CN- forms t2g5 eg0, leaving 1 unpaired electron and weak paramagnetism.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the main function of cryolite (Na3AlF6) in the extraction of aluminum?",
+    "options": [
+      "Lower the melting point and improve conductivity of alumina",
+      "Act as an oxidizing agent",
+      "Precipitate iron impurities",
+      "Protect graphite anodes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cryolite lowers the melting temperature of pure Al2O3 from ~2050°C to ~950°C and increases electrical conductivity during Hall-Héroult electrolysis.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reaction alpha-halogenates carboxylic acids containing α-hydrogen using X2 and Red P?",
+    "options": [
+      "Hell-Volhard-Zelinsky (HVZ) Reaction",
+      "Cannizzaro Reaction",
+      "Etard Reaction",
+      "Reformatsky Reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The HVZ reaction converts carboxylic acids containing α-hydrogens into α-halocarboxylic acids using elemental halogen and red phosphorus.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which catalyst is used in low-pressure synthesis of high-density polyethylene (HDPE)?",
+    "options": [
+      "Ziegler-Natta catalyst",
+      "Wilkinson's catalyst",
+      "Lindlar's catalyst",
+      "Adams' catalyst"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ziegler-Natta catalyst [TiCl4 + Al(C2H5)3] catalyzes the coordination polymerization of ethylene to linear HDPE.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the bond order of the O2+ molecular ion?",
+    "options": [
+      "2.5",
+      "2.0",
+      "1.5",
+      "3.0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "O2+ has 15 valence electrons. Molecular orbital configuration yields (10 bonding - 5 antibonding)/2 = 2.5 bond order.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which transitional metal oxide exhibits an oxidation state of +8?",
+    "options": [
+      "Osmium tetroxide (OsO4)",
+      "Manganese heptoxide (Mn2O7)",
+      "Chromium trioxide (CrO3)",
+      "Vanadium pentoxide (V2O5)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In OsO4, Osmium exhibits a +8 oxidation state, which is among the highest known chemical oxidation states.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which functional group is selectively identified by the Carbylamine test?",
+    "options": [
+      "Primary amine",
+      "Secondary amine",
+      "Tertiary amine",
+      "Nitro group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Heating primary aliphatic or aromatic amines with chloroform and alcoholic KOH yields extremely foul-smelling isocyanides (carbylamines).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the atomic packing efficiency of a Simple Cubic unit cell?",
+    "options": [
+      "52.4%",
+      "68.0%",
+      "74.0%",
+      "32.0%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a simple cubic lattice, packing efficiency = (volume of 1 atom / volume of unit cell) = π / 6 ≈ 0.524 or 52.4%.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the geometry of the XeF2 (Xenon difluoride) molecule?",
+    "options": [
+      "Linear",
+      "Bent",
+      "Trigonal planar",
+      "Tetrahedral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "XeF2 has 2 bonding pairs and 3 equatorial lone pairs (sp3d hybridization), resulting in a linear molecular shape.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the total number of constituent atoms per unit cell in a Face-Centered Cubic (FCC) lattice?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FCC lattice atoms count = (8 corners × 1/8) + (6 faces × 1/2) = 1 + 3 = 4 atoms per unit cell.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  }
+]
+[
+  {
+    "question": "The dimensional formula of [RC] (where R is resistance and C is capacitance) is:",
+    "options": [
+      "[M^0 L^0 T^1]",
+      "[M^0 L^0 T^-1]",
+      "[M^1 L^2 T^-2]",
+      "[M^0 L^0 T^2]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RC represents the capacitive time constant (τ = RC) of a circuit, which has the dimension of time [T^1].",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "When a large bubble rises from the bottom of a lake to the surface, its radius doubles. If atmospheric pressure is equal to a water column of height H, what is the depth of the lake?",
+    "options": [
+      "7H",
+      "H",
+      "2H",
+      "8H"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assuming constant temperature, P1*V1 = P2*V2. At the bottom, P1 = H + h and V1 = (4/3)πr^3. At the surface, P2 = H and V2 = (4/3)π(2r)^3 = 8V1. Thus, (H + h)V1 = H*(8V1) ⇒ H + h = 8H ⇒ h = 7H.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "The thermoelectric emf in a thermocouple at the temperature of inversion is:",
+    "options": [
+      "Zero",
+      "Maximum",
+      "Infinity",
+      "Half of maximum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Thermoelectric emf increases with temperature up to the neutral temperature (maximum emf) and then decreases to zero at the temperature of inversion.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A body of mass m is projected vertically upward with speed v. The total energy of the body at half the maximum height is:",
+    "options": [
+      "(1/2)m v^2",
+      "(1/4)m v^2",
+      "m v^2",
+      "Zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to the law of conservation of mechanical energy, total energy remains constant at every point during vertical flight and equals initial kinetic energy = (1/2)m v^2.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two copper spheres of radii r and 2r are charged to the same surface charge density. The ratio of their electrical potential is:",
+    "options": [
+      "1:2",
+      "1:1",
+      "2:1",
+      "1:4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Potential V = Q / (4πε0 r) = (σ * 4π r^2) / (4πε0 r) = (σ r) / ε0. Since σ is identical, V ∝ r. Thus V1 / V2 = r / (2r) = 1/2.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The velocity of sound in a gas is v. If the absolute temperature of the gas is quadrupled and pressure is doubled, the velocity becomes:",
+    "options": [
+      "2v",
+      "v",
+      "4v",
+      "v/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Velocity of sound in gas v = √(γ R T / M). Velocity depends directly on the square root of absolute temperature (v ∝ √T) and is independent of pressure. Quadrupling T makes v' = √4 * v = 2v.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A convex lens of focal length 20 cm produces a real image double the size of the object. What is the distance of the object from the lens?",
+    "options": [
+      "30 cm",
+      "10 cm",
+      "40 cm",
+      "60 cm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For a real image, magnification m = -v/u = -2 ⇒ v = 2u. Lens formula: 1/f = 1/v - 1/u ⇒ 1/20 = 1/(2u) - 1/(-u) = 3/(2u) ⇒ 2u = 60 ⇒ u = 30 cm.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "An electron is accelerated through a potential difference of 100 V. Its de Broglie wavelength is approximately:",
+    "options": [
+      "1.227 Å",
+      "12.27 Å",
+      "0.1227 Å",
+      "122.7 Å"
+    ],
+    "correctAnswer": 0,
+    "explanation": "de Broglie wavelength for an electron λ = 12.27 / √V Å. For V = 100 V, λ = 12.27 / √100 = 12.27 / 10 = 1.227 Å.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The domain of the function f(x) = log_e(a^2 - x^2) is:",
+    "options": [
+      "(-a, a)",
+      "[-a, a]",
+      "(-∞, ∞)",
+      "[0, ∞)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Logarithmic functions require positive inputs: a^2 - x^2 > 0 ⇒ x^2 < a^2 ⇒ -a < x < a, which in interval notation is (-a, a).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If A = {1, 2, 3, 4}, the number of non-empty proper subsets of A is:",
+    "options": [
+      "14",
+      "16",
+      "15",
+      "8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Total number of subsets = 2^n = 2^4 = 16. Excluding the empty set (1) and the improper subset itself (1) gives 16 - 2 = 14.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The distance between two parallel planes 2x - y + 2z + 1 = 0 and 4x - 2y + 4z + 11 = 0 is:",
+    "options": [
+      "1.5",
+      "2.5",
+      "3.5",
+      "4.5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rewrite the second equation by dividing by 2: 2x - y + 2z + 5.5 = 0. Distance d = |d2 - d1| / √(A^2 + B^2 + C^2) = |5.5 - 1| / √(2^2 + (-1)^2 + 2^2) = 4.5 / 3 = 1.5.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If A and B are square matrices of order 3 such that |A| = 2 and |B| = 3, then |2 A B^-1| is equal to:",
+    "options": [
+      "16/3",
+      "8/3",
+      "4/3",
+      "16"
+    ],
+    "correctAnswer": 0,
+    "explanation": "|2 A B^-1| = 2^3 * |A| * |B^-1| = 8 * |A| * (1 / |B|) = 8 * 2 * (1 / 3) = 16/3.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The term independent of x in the expansion of (x^2 - 1/x)^9 is:",
+    "options": [
+      "84",
+      "-84",
+      "36",
+      "-36"
+    ],
+    "correctAnswer": 0,
+    "explanation": "General term T_(r+1) = 9Cr * (x^2)^(9-r) * (-1/x)^r = 9Cr * (-1)^r * x^(18 - 3r). For independent of x: 18 - 3r = 0 ⇒ r = 6. T_7 = 9C6 * (-1)^6 = 84.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The limit as x approaches 0 of (e^(sin x) - 1) / x equals:",
+    "options": [
+      "1",
+      "0",
+      "e",
+      "Does not exist"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rewrite as [(e^(sin x) - 1) / sin x] * [sin x / x]. Taking limit as x → 0 gives 1 * 1 = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The derivative of tan^-1(2x / (1 - x^2)) with respect to sin^-1(2x / (1 + x^2)) is:",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "1 / (1 + x^2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let u = tan^-1(2x / (1 - x^2)) = 2 tan^-1(x) and v = sin^-1(2x / (1 + x^2)) = 2 tan^-1(x). Therefore, du/dv = d(2 tan^-1(x)) / d(2 tan^-1(x)) = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The area enclosed between the curves y^2 = 4x and x^2 = 4y is:",
+    "options": [
+      "16/3",
+      "8/3",
+      "32/3",
+      "16"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intersection points are (0,0) and (4,4). Area = ∫[0 to 4] (2√x - x^2 / 4) dx = [ (4/3)x^(3/2) - x^3 / 12 ] from 0 to 4 = 32/3 - 16/3 = 16/3.",
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The integral from 0 to π/2 of √sin(x) / (√sin(x) + √cos(x)) dx is:",
+    "options": [
+      "π/4",
+      "π/2",
+      "π",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Using King's property I = ∫[0 to a] f(a-x) dx: I = ∫[0 to π/2] √cos(x) / (√cos(x) + √sin(x)) dx. Adding both integrals gives 2I = ∫[0 to π/2] 1 dx = π/2 ⇒ I = π/4.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "What is the equivalent weight of H2O2 when it acts as a reducing agent?",
+    "options": [
+      "17",
+      "34",
+      "68",
+      "100"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In oxidation, H2O2 → O2 + 2 H+ + 2 e-. Molecular mass of H2O2 = 34. Change in oxidation state per mole = 2. Equivalent weight = 34 / 2 = 17.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which of the following compounds is Lindlar's catalyst?",
+    "options": [
+      "Pd poisoned with BaSO4 or CaCO3",
+      "Pt with H2SO4",
+      "Ni and Al2O3",
+      "Fe and Mo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lindlar's catalyst is palladium deposited on calcium carbonate or barium sulfate and deactivated (poisoned) with lead or quinoline.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which oxide among the following exhibits amphoteric properties?",
+    "options": [
+      "ZnO",
+      "Na2O",
+      "CO2",
+      "CaO"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zinc oxide (ZnO) reacts with both acids and bases to yield salts and water, making it amphoteric.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the hybridization of carbon atoms in benzene?",
+    "options": [
+      "sp2",
+      "sp",
+      "sp3",
+      "dsp2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each carbon atom in benzene forms 3 sigma bonds with planar 120° bond angles, corresponding to sp2 hybridization.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the pH of a 10^-8 M aqueous solution of HCl at 25°C?",
+    "options": [
+      "6.98",
+      "8.00",
+      "7.02",
+      "6.00"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Water auto-ionization must be considered: [H+]_total = 10^-8 (from HCl) + 10^-7 (from H2O) = 1.1 * 10^-7 M. pH = -log(1.1 * 10^-7) ≈ 6.98.",
+    "difficulty": "hard",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Select the correct form: 'Neither of them ______ seen the document before.'",
+    "options": [
+      "has",
+      "have",
+      "were",
+      "are"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Neither' acts as a singular indefinite pronoun when used as a subject, requiring the singular verb 'has'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: He said, 'I may leave tomorrow.'",
+    "options": [
+      "He said that he might leave the next day.",
+      "He said that he may leave tomorrow.",
+      "He told he might leave tomorrow.",
+      "He said he can leave the next day."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Modal 'may' changes to 'might', and time adverbial 'tomorrow' shifts to 'the next day' in reported speech.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct synonym of the word 'EPHEMERAL':",
+    "options": [
+      "Transient",
+      "Eternal",
+      "Substantial",
+      "Permanent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ephemeral' means lasting for a very short time, which is synonymous with 'transient' or 'fleeting'.",
+    "difficulty": "medium",
+    "subject": "English"
+  }
+]
+[
+  {
+    "question": "A particle moves along a straight line such that its displacement x at time t is given by x^2 = t^2 + 1. The acceleration of the particle is proportional to:",
+    "options": [
+      "1 / x^3",
+      "1 / x^2",
+      "1 / x",
+      "x^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Differentiating x^2 = t^2 + 1 gives 2x(dx/dt) = 2t ⇒ v = t/x. Differentiating again: a = dv/dt = (x(1) - t(dx/dt)) / x^2 = (x - t(t/x)) / x^2 = (x^2 - t^2) / x^3. Since x^2 - t^2 = 1, a = 1 / x^3.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "The time period of a simple pendulum inside a satellite orbiting the Earth is:",
+    "options": [
+      "Infinite",
+      "Zero",
+      "2 seconds",
+      "Depends on the orbit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Inside a freely orbiting satellite, effective gravity g_eff = 0. Since T = 2π√(L / g_eff), dividing by zero yields an infinite time period.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal gas expands isothermally from volume V1 to V2. The work done by the gas is:",
+    "options": [
+      "n R T ln(V2 / V1)",
+      "n R T (V2 - V1)",
+      "Zero",
+      "P (V2 - V1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For an isothermal expansion (T = constant), W = ∫ P dV = ∫ (nRT / V) dV = nRT ln(V2 / V1).",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two long parallel wires carrying equal currents in opposite directions will:",
+    "options": [
+      "Repel each other",
+      "Attract each other",
+      "Exert no force on each other",
+      "Rotate perpendicular to each other"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By Fleming's Left-Hand Rule and Biot-Savart Law, currents flowing in opposite directions produce magnetic fields that exert repulsive forces on each other.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A light wave enters from glass to water. Which of the following properties remains unchanged?",
+    "options": [
+      "Frequency",
+      "Wavelength",
+      "Velocity",
+      "Amplitude"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Frequency is determined solely by the wave source and does not change when the wave transitions between different media.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work function of a metal is 4.2 eV. The threshold wavelength for photoelectric emission from this metal is approximately:",
+    "options": [
+      "2955 Å",
+      "3500 Å",
+      "4200 Å",
+      "5890 Å"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Threshold wavelength λ0 = hc / Φ = 12400 eV·Å / 4.2 eV ≈ 2952.3 Å ≈ 2955 Å.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A charged particle moves perpendicular to a uniform magnetic field. The path followed by the particle is a:",
+    "options": [
+      "Circle",
+      "Parabola",
+      "Straight line",
+      "Helix"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When velocity v is perpendicular to magnetic field B, the magnetic force F = q(v × B) acts as a centripetal force, steering the particle into a circular path.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The power factor of a purely inductive AC circuit is:",
+    "options": [
+      "0",
+      "1",
+      "0.5",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a purely inductive AC circuit, current lags voltage by a phase angle ϕ = 90°. Power factor = cos(90°) = 0.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The locus of a point which moves such that the difference of its distances from two fixed points is constant is a:",
+    "options": [
+      "Hyperbola",
+      "Ellipse",
+      "Parabola",
+      "Circle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By definition, a hyperbola is the set of all points where the absolute difference of distances to two fixed points (foci) is a constant value 2a.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The angle between the vectors a = i + j - k and b = i - j + k is:",
+    "options": [
+      "cos^-1(-1/3)",
+      "cos^-1(1/3)",
+      "π/2",
+      "π/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "cos θ = (a · b) / (|a||b|) = (1*1 + 1*(-1) + (-1)*1) / (√3 * √3) = -1 / 3 ⇒ θ = cos^-1(-1/3).",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The maximum value of f(x) = x * (1 - x) on the interval [0, 1] is:",
+    "options": [
+      "1/4",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = x - x^2. f'(x) = 1 - 2x = 0 ⇒ x = 1/2. Since f''(x) = -2 < 0, maximum value is f(1/2) = (1/2)(1 - 1/2) = 1/4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If sin^-1(x) + sin^-1(y) = π/2, then the value of cos^-1(x) + cos^-1(y) is:",
+    "options": [
+      "π/2",
+      "π",
+      "0",
+      "π/4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Since sin^-1(θ) + cos^-1(θ) = π/2 for any θ: (π/2 - cos^-1(x)) + (π/2 - cos^-1(y)) = π/2 ⇒ π - (cos^-1(x) + cos^-1(y)) = π/2 ⇒ cos^-1(x) + cos^-1(y) = π/2.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The number of ways to arrange the letters of the word 'ENGINEERING' is:",
+    "options": [
+      "277200",
+      "39916800",
+      "554400",
+      "138600"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Total letters = 11 (3 E's, 3 N's, 2 G's, 2 I's, 1 R). Total arrangements = 11! / (3! * 3! * 2! * 2!) = 39916800 / (6 * 6 * 2 * 2) = 277200.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The value of the determinant | 1 1 1 | | 1 1+x 1 | | 1 1 1+y | is:",
+    "options": [
+      "xy",
+      "x + y",
+      "x - y",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Perform operations R2 → R2 - R1 and R3 → R3 - R1. The determinant becomes | 1 1 1 | | 0 x 0 | | 0 0 y | = 1 * (x * y - 0) = xy.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The standard deviation of the first n natural numbers is:",
+    "options": [
+      "√((n^2 - 1) / 12)",
+      "√((n^2 + 1) / 12)",
+      "(n^2 - 1) / 12",
+      "(n - 1) / 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Variance of first n natural numbers σ^2 = (n^2 - 1) / 12. Taking the square root gives standard deviation σ = √((n^2 - 1) / 12).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If the roots of the equation x^2 - p x + q = 0 differ by 1, then:",
+    "options": [
+      "p^2 = 4q + 1",
+      "p^2 = 4q - 1",
+      "q^2 = 4p + 1",
+      "p^2 = 2q + 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let roots be α and β. |α - β| = 1 ⇒ (α - β)^2 = 1. Expanding: (α + β)^2 - 4αβ = 1. Substituting sum = p and product = q yields p^2 - 4q = 1 ⇒ p^2 = 4q + 1.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Which of the following elements has the highest electronegativity?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fluorine is the most electronegative element on the Pauling scale, with a value of 3.98 (commonly approximated as 4.0).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "An aqueous solution of copper sulfate (CuSO4) turns blue litmus red because of:",
+    "options": [
+      "Cationic hydrolysis",
+      "Anionic hydrolysis",
+      "Direct oxidation",
+      "Neutralization"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CuSO4 is a salt of a weak base Cu(OH)2 and a strong acid H2SO4. Cu2+ ions undergo cationic hydrolysis: Cu2+ + 2H2O ⇌ Cu(OH)2 + 2H+, rendering the solution acidic.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which polymer is formed by the condensation reaction of hexamethylenediamine and adipic acid?",
+    "options": [
+      "Nylon 6,6",
+      "Bakelite",
+      "Terylene",
+      "Teflon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Condensation polymerization of hexamethylenediamine and adipic acid with the elimination of water molecules produces Nylon 6,6.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What product is formed when ethanol is heated with excess concentrated H2SO4 at 170°C?",
+    "options": [
+      "Ethene",
+      "Diethyl ether",
+      "Ethyl hydrogen sulfate",
+      "Ethane"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At 170°C (443 K), excess concentrated H2SO4 acts as a strong dehydrating agent, converting ethanol (CH3CH2OH) into ethene (CH2=CH2).",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "According to Bronsted-Lowry theory, what is the conjugate base of HSO4-?",
+    "options": [
+      "SO4^2-",
+      "H2SO4",
+      "SO3",
+      "H3O+"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A conjugate base is formed when an acid loses a proton (H+). Removing H+ from HSO4- gives SO4^2-.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Identify the passive voice for: 'They are building a new bridge over the river.'",
+    "options": [
+      "A new bridge is being built over the river.",
+      "A new bridge was built over the river.",
+      "A new bridge is built over the river.",
+      "A new bridge has been built over the river."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Present continuous active ('are building') converts to 'is/are being built' in passive voice.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Complete the sentence: 'She worked hard lest she ______ fail the examination.'",
+    "options": [
+      "should",
+      "would",
+      "might",
+      "could"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The conjunction 'lest' ('for fear that') is traditionally followed by the modal verb 'should'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct antonym of the word 'PRUDENT':",
+    "options": [
+      "Reckless",
+      "Cautious",
+      "Wise",
+      "Discreet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Prudent' means acting with care and thought for the future. Its direct antonym is 'reckless' or 'imprudent'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the idiom meaning 'to face a difficult situation with courage':",
+    "options": [
+      "Bite the bullet",
+      "Burn the midnight oil",
+      "Spill the beans",
+      "Break the ice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Bite the bullet' is a well-known English idiom meaning to endure a painful or difficult situation with fortitude.",
+    "difficulty": "easy",
+    "subject": "English"
+  }
+]
+[
+  {
+    "question": "The moment of inertia of a uniform solid sphere of mass M and radius R about a tangent to the sphere is:",
+    "options": [
+      "(7/5) M R^2",
+      "(2/5) M R^2",
+      "(3/5) M R^2",
+      "(7/3) M R^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By the parallel axis theorem: I_tangent = I_cm + M R^2 = (2/5) M R^2 + M R^2 = (7/5) M R^2.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A satellite is orbiting close to the Earth's surface with orbital speed v0. The escape speed from the Earth's surface is:",
+    "options": [
+      "√2 v0",
+      "2 v0",
+      "v0 / √2",
+      "v0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Orbital speed close to Earth v0 = √(G M / R) and escape speed v_e = √(2 G M / R). Therefore, v_e = √2 v0.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The efficiency of a Carnot engine working between 27°C and 127°C is:",
+    "options": [
+      "25%",
+      "20%",
+      "33.3%",
+      "78.7%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Convert temperatures to Kelvin: T1 = 127 + 273 = 400 K, T2 = 27 + 273 = 300 K. Efficiency η = 1 - (T2 / T1) = 1 - (300 / 400) = 1/4 = 25%.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two thin lenses of focal lengths +20 cm and -40 cm are placed in contact. The power of the combination is:",
+    "options": [
+      "+2.5 D",
+      "+5.0 D",
+      "-2.5 D",
+      "+7.5 D"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Power P = P1 + P2 = (100 / 20) + (100 / -40) = +5.0 - 2.5 = +2.5 Diopters.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a Young's double-slit experiment, if the distance between the slits is halved and distance to the screen is doubled, the fringe width becomes:",
+    "options": [
+      "4 times",
+      "2 times",
+      "Unchanged",
+      "1/4 times"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fringe width β = λ D / d. If D' = 2D and d' = d/2, new fringe width β' = λ (2D) / (d/2) = 4 (λ D / d) = 4β.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "A magnetic dipole of magnetic moment M is placed in a uniform magnetic field B. The work done in rotating it from θ = 0° to θ = 180° is:",
+    "options": [
+      "2 M B",
+      "M B",
+      "Zero",
+      "-M B"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Work done W = -M B (cos θ2 - cos θ1) = -M B (cos 180° - cos 0°) = -M B (-1 - 1) = 2 M B.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The half-life of a radioactive sample is 10 days. The time taken for 75% of the original sample to decay is:",
+    "options": [
+      "20 days",
+      "15 days",
+      "30 days",
+      "40 days"
+    ],
+    "correctAnswer": 0,
+    "explanation": "75% decay means 25% (1/4 = (1/2)^2) remains un-decayed. Number of half-lives n = 2. Total time t = n * t_1/2 = 2 * 10 = 20 days.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "In an npn transistor circuit, 90% of the electrons emitted reach the collector. If collector current is 9 mA, emitter current is:",
+    "options": [
+      "10 mA",
+      "9 mA",
+      "1 mA",
+      "11 mA"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Collector current Ic = 0.90 * Ie ⇒ 9 mA = 0.90 * Ie ⇒ Ie = 9 / 0.90 = 10 mA.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The solution of the differential equation dy/dx = e^(x - y) is:",
+    "options": [
+      "e^y = e^x + C",
+      "e^(-y) = e^x + C",
+      "e^y + e^x = C",
+      "e^(-y) + e^(-x) = C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rewrite as dy/dx = e^x / e^y ⇒ e^y dy = e^x dx. Integrating both sides yields e^y = e^x + C.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If vector a and vector b are unit vectors such that |a + b| = 1, then the angle between a and b is:",
+    "options": [
+      "2π/3",
+      "π/3",
+      "π/2",
+      "5π/6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Squaring |a + b|^2 = |a|^2 + |b|^2 + 2(a · b) ⇒ 1^2 = 1^2 + 1^2 + 2(1)(1)cos θ ⇒ 1 = 2 + 2 cos θ ⇒ cos θ = -1/2 ⇒ θ = 2π/3.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The projection of vector i - 2j + k on the vector 4i - 4j + 7k is:",
+    "options": [
+      "19/9",
+      "19/3",
+      "9/19",
+      "5/9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Projection = (a · b) / |b| = (1*4 + (-2)*(-4) + 1*7) / √(4^2 + (-4)^2 + 7^2) = (4 + 8 + 7) / √(16 + 16 + 49) = 19 / √81 = 19 / 9.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If probability of event A is 0.4, P(B) = 0.8 and P(B|A) = 0.6, then P(A ∪ B) is:",
+    "options": [
+      "0.96",
+      "0.84",
+      "0.76",
+      "0.64"
+    ],
+    "correctAnswer": 0,
+    "explanation": "P(A ∩ B) = P(A) * P(B|A) = 0.4 * 0.6 = 0.24. P(A ∪ B) = P(A) + P(B) - P(A ∩ B) = 0.4 + 0.8 - 0.24 = 0.96.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The radius of the sphere x^2 + y^2 + z^2 - 2x + 4y - 6z - 11 = 0 is:",
+    "options": [
+      "5",
+      "25",
+      "√14",
+      "√11"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Center (u, v, w) = (1, -2, 3) and d = -11. Radius r = √(u^2 + v^2 + w^2 - d) = √(1^2 + (-2)^2 + 3^2 - (-11)) = √(1 + 4 + 9 + 11) = √25 = 5.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The eccentricity of the hyperbola x^2 / 16 - y^2 / 9 = 1 is:",
+    "options": [
+      "5/4",
+      "5/3",
+      "4/3",
+      "√(7)/4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For hyperbola, e = √(1 + b^2 / a^2) = √(1 + 9 / 16) = √(25 / 16) = 5/4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If omega (ω) is a complex cube root of unity, the value of (1 + ω - ω^2)^7 is:",
+    "options": [
+      "-128 ω^2",
+      "128 ω",
+      "-128 ω",
+      "128 ω^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Since 1 + ω = -ω^2, expression becomes (-ω^2 - ω^2)^7 = (-2 ω^2)^7 = -128 ω^14. Since ω^14 = (ω^3)^4 * ω^2 = ω^2, the result is -128 ω^2.",
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The value of sum of the infinite series 1 + 1/2 + 1/4 + 1/8 + ... is:",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "Infinity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Infinite GP with first term a = 1 and common ratio r = 1/2. Sum S_inf = a / (1 - r) = 1 / (1 - 1/2) = 2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Which of the following molecules has zero bond order?",
+    "options": [
+      "He2",
+      "H2",
+      "Li2",
+      "O2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "He2 has 4 electrons: σ1s^2 σ*1s^2. Bond order = (Nb - Na) / 2 = (2 - 2) / 2 = 0, meaning the diatomic helium molecule cannot exist.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "The gas law which relates volume and temperature at constant pressure is:",
+    "options": [
+      "Charles's Law",
+      "Boyle's Law",
+      "Gay-Lussac's Law",
+      "Dalton's Law"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Charles's Law states that at constant pressure, volume of a given mass of gas is directly proportional to absolute temperature (V ∝ T).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which ore is concentrated by the froth flotation process?",
+    "options": [
+      "Galena (PbS)",
+      "Hematite (Fe2O3)",
+      "Bauxite (Al2O3.2H2O)",
+      "Cassiterite (SnO2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Froth flotation process is preferentially used for concentrating sulfide ores like Galena (PbS), Copper pyrites (CuFeS2), and Zinc blende (ZnS).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the IUPAC name of CH3-CH(OH)-CH2-CHO?",
+    "options": [
+      "3-Hydroxybutanal",
+      "2-Hydroxybutanal",
+      "3-Hydroxybutanone",
+      "4-Hydroxybutan-2-one"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Numbering starts from aldehyde carbon (-CHO = C1). C2 is CH2, C3 has -OH substituent, C4 is CH3. IUPAC name is 3-Hydroxybutanal.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which reagent distinguishes primary aliphatic amines from secondary and tertiary amines via reaction with benzene sulfonyl chloride?",
+    "options": [
+      "Hinsberg's Reagent",
+      "Tollen's Reagent",
+      "Fehling's Reagent",
+      "Grignard Reagent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hinsberg's reagent (benzene sulfonyl chloride) reacts with primary amines to form a product soluble in alkali, secondary amines form insoluble product, tertiary amines do not react.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Choose the correct preposition: 'He is proficient ______ mathematics.'",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "on"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The adjective 'proficient' correctly takes the preposition 'in' when denoting skill in a subject or field.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct transformation to passive voice: 'Who broke the window glass?'",
+    "options": [
+      "By whom was the window glass broken?",
+      "By who was the window glass broken?",
+      "Who was the window glass broken by?",
+      "By whom the window glass was broken?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Interrogative sentences starting with 'Who' convert to 'By whom + auxiliary verb + object + past participle'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Find the correctly spelt word:",
+    "options": [
+      "Maintenance",
+      "Maintainance",
+      "Maintenence",
+      "Mentenance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling of the noun form derived from 'maintain' is 'Maintenance'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word opposite in meaning to 'GREGARIOUS':",
+    "options": [
+      "Introverted",
+      "Sociable",
+      "Affable",
+      "Extroverted"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Gregarious' means fond of company and sociable. Its antonym is 'introverted' or 'solitary'.",
+    "difficulty": "medium",
+    "subject": "English"
+  }
+]
+[
+  {
+    "question": "A uniform wire of resistance R is stretched such that its length becomes n times its original length. The new resistance of the wire is:",
+    "options": [
+      "n^2 R",
+      "n R",
+      "R / n^2",
+      "R / n"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When stretched, volume V = A * L remains constant, so A' = A / n. New resistance R' = ρ * L' / A' = ρ * (n L) / (A / n) = n^2 * (ρ L / A) = n^2 R.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "An ideal transformer has 500 primary turns and 100 secondary turns. If the primary AC voltage is 220 V, the secondary voltage is:",
+    "options": [
+      "44 V",
+      "1100 V",
+      "22 V",
+      "88 V"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By transformer formula: Vs / Vp = Ns / Np ⇒ Vs = Vp * (Ns / Np) = 220 * (100 / 500) = 220 / 5 = 44 V.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "At what temperature is the RMS velocity of hydrogen gas molecules equal to that of oxygen gas molecules at 47°C?",
+    "options": [
+      "20 K",
+      "80 K",
+      "-253°C",
+      "40 K"
+    ],
+    "correctAnswer": 0,
+    "explanation": "v_rms = √(3 R T / M). Setting v_H2 = v_O2 ⇒ T_H2 / M_H2 = T_O2 / M_O2 ⇒ T_H2 / 2 = (47 + 273) / 32 = 320 / 32 = 10 ⇒ T_H2 = 20 K.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two simple harmonic motions are represented by y1 = 10 sin(3π t + π/4) and y2 = 5 (sin 3π t + √3 cos 3π t). The ratio of their amplitudes is:",
+    "options": [
+      "1:1",
+      "2:1",
+      "1:2",
+      "1:4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rewrite y2 = 5 * 2 * (1/2 sin 3π t + √3/2 cos 3π t) = 10 sin(3π t + π/3). Amplitude A1 = 10, Amplitude A2 = 10. Ratio = 10:10 = 1:1.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "A capillary tube of radius r is dipped in water and water rises to height h. The mass of water in the capillary tube is M. If radius is doubled, the mass of water that rises is:",
+    "options": [
+      "2 M",
+      "M",
+      "M / 2",
+      "4 M"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Height of water column h = (2 T cos θ) / (r ρ g) ⇒ h ∝ 1/r. Mass M = π r^2 h ρ = π r^2 (k/r) ρ ∝ r. Doubling radius r doubles mass M to 2M.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "The stopping potential for photoelectrons emitted from a surface illuminated by light of wavelength λ is V0. If wavelength is changed to 2λ, stopping potential becomes V0/4. The threshold wavelength is:",
+    "options": [
+      "3 λ",
+      "4 λ",
+      "5 λ",
+      "6 λ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Einstein's photoelectric equation: e V0 = h c / λ - h c / λ0 and e (V0/4) = h c / (2λ) - h c / λ0. Multiplying second by 4: h c / λ - h c / λ0 = 2 h c / λ - 4 h c / λ0 ⇒ 3 h c / λ0 = h c / λ ⇒ λ0 = 3 λ.",
+    "difficulty": "hard",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a series LCR circuit, R = 10 Ω, XL = 20 Ω, and XC = 20 Ω. The impedance of the circuit is:",
+    "options": [
+      "10 Ω",
+      "20 Ω",
+      "0 Ω",
+      "10√2 Ω"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Impedance Z = √(R^2 + (XL - XC)^2). Since XL = XC (resonance), Z = √(10^2 + (20 - 20)^2) = √100 = 10 Ω.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "A convex mirror of focal length f forms an image 1/n times the size of the real object. The distance of the object from the mirror is:",
+    "options": [
+      "(n - 1) f",
+      "(n + 1) f",
+      "f / n",
+      "n f"
+    ],
+    "correctAnswer": 0,
+    "explanation": "For convex mirror, magnification m = +1/n. Magnification formula m = f / (f - u) ⇒ 1/n = f / (f - u) ⇒ f - u = n f ⇒ -u = (n - 1) f ⇒ u = -(n - 1) f. Object distance is (n - 1) f.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work done by a variable force F = (3 x^2 + 2 x) N on a particle during its displacement from x = 1 m to x = 3 m is:",
+    "options": [
+      "34 J",
+      "26 J",
+      "38 J",
+      "42 J"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Work W = ∫[1 to 3] (3 x^2 + 2 x) dx = [x^3 + x^2] from 1 to 3 = (3^3 + 3^2) - (1^3 + 1^2) = (27 + 9) - (1 + 1) = 36 - 2 = 34 J.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The equation of a straight line passing through (2, 3) and perpendicular to the line 3x + 4y - 7 = 0 is:",
+    "options": [
+      "4x - 3y + 1 = 0",
+      "3x - 4y + 6 = 0",
+      "4x + 3y - 17 = 0",
+      "3x + 4y - 18 = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Line perpendicular to 3x + 4y - 7 = 0 is of form 4x - 3y + k = 0. Substituting (2, 3): 4(2) - 3(3) + k = 0 ⇒ 8 - 9 + k = 0 ⇒ k = 1. Line is 4x - 3y + 1 = 0.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If matrix A = [[1, 2], [3, 4]], then A^2 - 5A is equal to:",
+    "options": [
+      "2 I",
+      "I",
+      "-2 I",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Characteristic equation of A is det(A - λI) = 0 ⇒ λ^2 - Tr(A)λ + |A| = 0. Tr(A) = 1 + 4 = 5, |A| = 4 - 6 = -2. By Cayley-Hamilton Theorem: A^2 - 5A - 2I = 0 ⇒ A^2 - 5A = 2I.",
+    "difficulty": "hard",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The eccentricity of the ellipse 9 x^2 + 16 y^2 = 144 is:",
+    "options": [
+      "√(7) / 4",
+      "7 / 16",
+      "3 / 4",
+      "√(7) / 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Divide by 144: x^2 / 16 + y^2 / 9 = 1 ⇒ a^2 = 16, b^2 = 9. Eccentricity e = √(1 - b^2 / a^2) = √(1 - 9 / 16) = √(7 / 16) = √(7) / 4.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The domain of f(x) = sin^-1(2x - 3) is:",
+    "options": [
+      "[1, 2]",
+      "[-1, 1]",
+      "[0, 3]",
+      "[-1, 2]"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Domain of sin^-1(u) requires -1 ≤ u ≤ 1 ⇒ -1 ≤ 2x - 3 ≤ 1. Add 3: 2 ≤ 2x ≤ 4. Divide by 2: 1 ≤ x ≤ 2. Domain is [1, 2].",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The maximum value of function f(x) = sin x + cos x is:",
+    "options": [
+      "√2",
+      "2",
+      "1",
+      "1 / √2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Expression a sin x + b cos x has maximum value √(a^2 + b^2). For sin x + cos x, a = 1, b = 1, maximum value = √(1^2 + 1^2) = √2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The general solution of differential equation dy/dx + y = e^(-x) is:",
+    "options": [
+      "y e^x = x + C",
+      "y e^(-x) = x + C",
+      "y = e^x + C",
+      "y = x e^x + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "First order linear differential equation with P = 1, Q = e^(-x). Integrating factor IF = e^(∫ 1 dx) = e^x. Solution: y * e^x = ∫ e^(-x) * e^x dx = ∫ 1 dx = x + C ⇒ y e^x = x + C.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If 1, ω, ω^2 are complex cube roots of unity, then (1 - ω + ω^2)(1 + ω - ω^2) equals:",
+    "options": [
+      "4",
+      "2",
+      "-4",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Since 1 + ω + ω^2 = 0: 1 + ω^2 = -ω, and 1 + ω = -ω^2. Substituting yields (-ω - ω)(-ω^2 - ω^2) = (-2ω)(-2ω^2) = 4ω^3 = 4(1) = 4.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The standard electrode potential of Half-cells A and B are -0.76 V and +0.34 V respectively. The EMF of the cell formed by combining them is:",
+    "options": [
+      "1.10 V",
+      "-0.42 V",
+      "0.42 V",
+      "-1.10 V"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cell EMF E°_cell = E°_cathode - E°_anode. Higher reduction potential acts as cathode (+0.34 V), lower acts as anode (-0.76 V). E°_cell = 0.34 - (-0.76) = +1.10 V.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which transition in the hydrogen spectrum falls in the visible region?",
+    "options": [
+      "Balmer series",
+      "Lyman series",
+      "Paschen series",
+      "Brackett series"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balmer series (n_lower = 2) emits light in the visible spectrum. Lyman falls in UV, while Paschen, Brackett, and Pfund fall in IR region.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Phenol reacts with chloroform in the presence of aqueous NaOH to give salicylaldehyde. This reaction is known as:",
+    "options": [
+      "Reimer-Tiemann reaction",
+      "Kolbe's reaction",
+      "Friedel-Crafts reaction",
+      "Cannizzaro reaction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Formylation of phenol using chloroform (CHCl3) and sodium hydroxide (NaOH) yields salicylaldehyde via the Reimer-Tiemann reaction.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "What is the IUPAC name of acetone?",
+    "options": [
+      "Propan-2-one",
+      "Propanal",
+      "Ethanone",
+      "Butan-2-one"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Acetone (CH3-CO-CH3) has a three-carbon chain containing a ketone carbonyl group at position 2, giving it the IUPAC name Propan-2-one.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which organic compound gives a positive Iodoform test?",
+    "options": [
+      "Ethanol",
+      "Methanol",
+      "Propan-1-ol",
+      "Benzaldehyde"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Iodoform test requires a CH3-CH(OH)- or CH3-C(=O)- group. Ethanol (CH3-CH2-OH) gets oxidized to acetaldehyde (CH3-CHO) and yields a yellow CHI3 precipitate.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Choose the correct indirect speech: She said, 'Honesty is the best policy.'",
+    "options": [
+      "She said that honesty is the best policy.",
+      "She said that honesty was the best policy.",
+      "She told that honesty is the best policy.",
+      "She said honesty had been the best policy."
+    ],
+    "correctAnswer": 0,
+    "explanation": "When the reported speech expresses a universal truth or proverb, the tense of the verb remains unchanged in indirect speech.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "He is superior to me in rank.",
+      "He is superior than me in rank.",
+      "He is superior from me in rank.",
+      "He is superior over me in rank."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Comparative adjectives ending in '-ior' (superior, inferior, senior, junior, prior) are followed by 'to' instead of 'than'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "What is the meaning of the idiom 'To throw in the towel'?",
+    "options": [
+      "To admit defeat",
+      "To start a fight",
+      "To clean the mess",
+      "To celebrate victory"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'To throw in the towel' originated in boxing (where a corner throws a towel into the ring) and means to give up or admit defeat.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word antonymous to 'ALTRUISTIC':",
+    "options": [
+      "Selfish",
+      "Benevolent",
+      "Philanthropic",
+      "Generous"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Altruistic' means showing unselfish concern for the welfare of others. Its direct antonym is 'selfish' or 'egotistical'.",
+    "difficulty": "easy",
+    "subject": "English"
+  }
+]
