@@ -1,13 +1,262 @@
-{
-  "question": "The SI unit of force is?",
-  "options": [
-    "Newton",
-    "Joule",
-    "Pascal",
-    "Watt"
-  ],
-  "correctAnswer": 0,
-  "explanation": "Force is measured in Newton (N).",
-  "difficulty": "easy",
-  "subject": "Physics"
-}
+[
+  {
+    "question": "Choose the correct indirect form: He said, 'If I had money, I would buy a car.'",
+    "options": [
+      "He said that if he had money, he would buy a car.",
+      "He said that if he had had money, he would buy a car.",
+      "He said that if he has money, he would buy a car.",
+      "He said that if he had had money, he would have bought a car."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In indirect speech, hypothetical or conditional type-2 statements ('If I had..., I would...') remain unchanged in tense.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive voice: 'One should keep one's promises.'",
+    "options": [
+      "One's promises should be kept.",
+      "Promises should be kept by one.",
+      "Promises should be kept.",
+      "Promises must be kept by anyone."
+    ],
+    "correctAnswer": 2,
+    "explanation": "When transforming 'One should keep one's promises' to passive voice, the indefinite pronoun 'one' and 'one's' are omitted. The standard form is 'Promises should be kept.'",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct preposition: He died _____ overwork.",
+    "options": [
+      "of",
+      "from",
+      "by",
+      "with"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One dies 'of' a disease (e.g., died of malaria), but dies 'from' an indirect cause like overwork, hunger, or exhaustion.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of the word 'EPHEMERAL':",
+    "options": [
+      "Transient",
+      "Eternal",
+      "Perpetual",
+      "Permanent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ephemeral' means lasting for a very short time. 'Transient' is its synonym, whereas eternal, perpetual, and permanent are antonyms.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct subject-verb agreement: Neither the teacher nor the students _____ present in the hall.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When subjects are joined by 'neither... nor', the verb agrees with the subject closest to it. Here, 'the students' is plural, so 'were' is correct.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word with the correct stress on the first syllable:",
+    "options": [
+      "Photograph",
+      "Photographer",
+      "Photographic",
+      "Photography"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'Photograph', primary stress is on the first syllable ('PHO-to-graph). In 'photographer' and 'photography', stress shifts to the second syllable.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the appropriate idiom meaning 'to face a difficult situation courageously':",
+    "options": [
+      "Bite the bullet",
+      "Burn the midnight oil",
+      "Hit the nail on the head",
+      "Spill the beans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Bite the bullet' means to face a difficult or unpleasant situation with courage and fortitude.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word having a different vowel sound than the rest:",
+    "options": [
+      "Food",
+      "Look",
+      "Good",
+      "Foot"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Food' has the long vowel sound /uː/, whereas 'look', 'good', and 'foot' all share the short vowel sound /ʊ/.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the sentence with correct word order:",
+    "options": [
+      "Seldom I have seen such a beautiful sight.",
+      "Seldom have I seen such a beautiful sight.",
+      "Seldom I seen have such a beautiful sight.",
+      "I have seen seldom such a beautiful sight."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a sentence begins with a negative or restrictive adverb like 'seldom', inversion takes place (adverb + auxiliary verb + subject + main verb).",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Let's go for a walk, _____?",
+    "options": [
+      "don't we",
+      "shall we",
+      "will you",
+      "can we"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Imperative sentences starting with 'Let's' (Let us) take 'shall we' as their question tag.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the antonym of the word 'LOQUACIOUS':",
+    "options": [
+      "Garrulous",
+      "Taciturn",
+      "Voluble",
+      "Eloquent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Loquacious' means talkative. Its antonym is 'taciturn' (reserved or uncommunicative in speech).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Complete the sentence: If he had studied hard, he _____ the IOE entrance exam.",
+    "options": [
+      "would pass",
+      "will pass",
+      "would have passed",
+      "passed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Conditional Type 3 structure: 'If + past perfect..., would have + past participle'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct meaning of 'a white elephant':",
+    "options": [
+      "An exceptionally rare finding",
+      "A costly but useless possession",
+      "A symbol of royalty",
+      "An unexpected danger"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The idiom 'a white elephant' refers to a possession that is expensive to maintain but provides no useful benefit or value.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correctly spelled word:",
+    "options": [
+      "Bureaucracy",
+      "Beurocracy",
+      "Bureacracy",
+      "Bureaucrasy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Bureaucracy' (B-U-R-E-A-U-C-R-A-C-Y).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the part of speech of 'fast' in: 'He ran fast to catch the bus.'",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Here, 'fast' modifies the verb 'ran', answering how he ran, making it an adverb.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct article: He is _____ European scientist.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Although 'European' starts with the vowel letter 'E', it begins with the consonant sound /j/ ('yoo'). Hence, article 'a' is used.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation: 'He is too weak to walk.' into a complex sentence:",
+    "options": [
+      "He is so weak that he cannot walk.",
+      "He is very weak so he cannot walk.",
+      "He is weak enough to not walk.",
+      "He is so weak to walk."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Too... to' transforms into 'so... that + subject + cannot/could not' in complex sentence structures.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'one who eats everything':",
+    "options": [
+      "Omnipotent",
+      "Omnipresent",
+      "Omnivorous",
+      "Omniscient"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Omnivorous' refers to an animal or person that eats food of both plant and animal origin.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct phrasal verb: The meeting was _____ due to bad weather.",
+    "options": [
+      "called off",
+      "called in",
+      "called for",
+      "called upon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Call off' means to cancel an event or agreement.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct pair of conjunctions: Hardly had I entered the room _____ the phone rang.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "since"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Hardly' and 'Scarcely' are always followed by the conjunction 'when' (or 'before'). 'No sooner' is followed by 'than'.",
+    "difficulty": "medium",
+    "subject": "English"
+  }
+]
