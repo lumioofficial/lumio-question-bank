@@ -260,3 +260,2612 @@
     "subject": "English"
   }
 ]
+[
+  {
+    "question": "Choose the correct indirect speech: She said to me, 'Where are you going?'",
+    "options": [
+      "She asked me where I was going.",
+      "She asked me where was I going.",
+      "She asked me where I am going.",
+      "She told me where I was going."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In indirect reporting of Wh- questions, word order becomes assertive (subject + verb), and present continuous 'are going' changes to past continuous 'was going'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive voice: 'They are building a new bridge over the river.'",
+    "options": [
+      "A new bridge is built over the river.",
+      "A new bridge was being built over the river.",
+      "A new bridge is being built over the river.",
+      "A new bridge has been built over the river."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Present continuous active (are building) transforms into 'is/am/are + being + past participle' (is being built) in passive voice.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank with the appropriate preposition: She is proficient _____ French.",
+    "options": [
+      "at",
+      "in",
+      "with",
+      "on"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The adjective 'proficient' is conventionally followed by the preposition 'in' when referring to skills, subjects, or languages.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct subject-verb agreement: Neither of the two candidates _____ suitable for the job.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Neither' acts as a singular distributive pronoun when referring to two entities, thus taking a singular verb ('is').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of the idiom: 'To spill the beans'",
+    "options": [
+      "To cause an accident",
+      "To reveal a secret prematurely",
+      "To waste valuable food",
+      "To perform a task poorly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The idiom 'spill the beans' means to disclose confidential information or a secret unintentionally or prematurely.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the synonym of 'UBIQUITOUS':",
+    "options": [
+      "Omnipresent",
+      "Rare",
+      "Transient",
+      "Lethargic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ubiquitous' means present, appearing, or found everywhere; its exact synonym is 'omnipresent'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'METICULOUS':",
+    "options": [
+      "Careful",
+      "Careless",
+      "Fastidious",
+      "Scrupulous"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Meticulous' means showing great attention to detail or being very careful. Its antonym is 'careless'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word with primary stress on the second syllable:",
+    "options": [
+      "Academic",
+      "Develop",
+      "Educate",
+      "Photograph"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In 'Develop', primary stress falls on the second syllable (/dɪˈvel.əp/). The others are stressed on the first or third syllable.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Nobody called while I was out, _____?",
+    "options": [
+      "did they",
+      "didn't they",
+      "did he",
+      "didn't he"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Indefinite pronouns like 'nobody' are negative in meaning and take 'they' as the tag pronoun, requiring an affirmative tag verb ('did they').",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the sentence with correct word order:",
+    "options": [
+      "Rarely we have witnessed such a magnificent display.",
+      "Rarely have we witnessed such a magnificent display.",
+      "Rarely we witness have such a magnificent display.",
+      "We witnessed have rarely such a magnificent display."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Starting a sentence with a restrictive adverbial like 'Rarely' triggers subject-auxiliary inversion (Rarely + auxiliary + subject + main verb).",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Complete the conditional sentence: If I _____ you, I would accept the offer immediately.",
+    "options": [
+      "was",
+      "were",
+      "am",
+      "had been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In second conditional hypothetical structures, the subjunctive past form 'were' is used for all persons including 'I'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct article: He hopes to join _____ university in Europe next year.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The word 'university' starts with the consonant sound /j/ ('yoo-ni-ver-si-ty'), so the indefinite article 'a' is required.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'A person who hates or distrusts mankind':",
+    "options": [
+      "Philanthropist",
+      "Misanthrope",
+      "Misogynist",
+      "Altruist"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 'misanthrope' is someone who dislikes or distrusts human species in general.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the phrasal verb meaning 'to tolerate or endure':",
+    "options": [
+      "Put off",
+      "Put up with",
+      "Put out",
+      "Put down"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Put up with' is a three-part phrasal verb meaning to tolerate or accept an unpleasant situation or person.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Accommodation",
+      "Acommodation",
+      "Accomodation",
+      "Acomodation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Accommodation', containing double 'c' and double 'm'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the odd vowel sound out among the given options:",
+    "options": [
+      "Seat",
+      "Feet",
+      "Great",
+      "Beat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Great' contains the diphthong /eɪ/, whereas 'seat', 'feet', and 'beat' contain the long monophthong /iː/.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation: 'He is so old that he cannot run fast.' (Into a simple sentence)",
+    "options": [
+      "He is too old to run fast.",
+      "He is very old and cannot run fast.",
+      "Being old, he is unable to run fast.",
+      "He is enough old to run fast."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The complex structure 'so + adj + that + cannot' converts to simple sentence format using 'too + adj + to + infinitive'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct preposition: The man was accused _____ theft.",
+    "options": [
+      "for",
+      "with",
+      "of",
+      "on"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The verb 'accuse' takes the fixed preposition 'of' (accused of a crime).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: Each of the boys _____ given a medal.",
+    "options": [
+      "was",
+      "were",
+      "have been",
+      "are"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Each' is an indefinite distributive pronoun that takes a singular verb ('was').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'CANDID':",
+    "options": [
+      "Frank",
+      "Secretive",
+      "Deceitful",
+      "Reserved"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Candid' means truthful, straightforward, or frank in speech or expression.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: The teacher said, 'The Earth revolves around the Sun.'",
+    "options": [
+      "The teacher said that the Earth revolved around the Sun.",
+      "The teacher said that the Earth revolves around the Sun.",
+      "The teacher told that the Earth revolves around the Sun.",
+      "The teacher said that the Earth has revolved around the Sun."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Universal truths and general scientific facts do not undergo tense change in indirect speech.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive form: 'Who wrote this book?'",
+    "options": [
+      "By whom was this book written?",
+      "By whom this book was written?",
+      "Who was this book written by whom?",
+      "By whom had this book been written?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Interrogative sentences with 'Who' change to 'By whom + auxiliary verb + object + past participle?' in passive voice.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct conjunction pair: Scarcely had I reached the station _____ the train left.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "before"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Scarcely' and 'Hardly' are strictly followed by 'when' or 'before' to connect time clauses.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word with a silent letter:",
+    "options": [
+      "Subtle",
+      "Public",
+      "Subject",
+      "Magnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'Subtle', the letter 'b' is silent (/ˈsʌt.əl/).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: She seldom goes to the cinema, _____?",
+    "options": [
+      "does she",
+      "doesn't she",
+      "is she",
+      "isn't she"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Seldom' is a negative adverb, making the main clause negative. Therefore, the tag question must be affirmative ('does she').",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of 'A blessing in disguise':",
+    "options": [
+      "A terrible misfortune that never ends",
+      "An apparent misfortune that eventually results in something good",
+      "An unexpected gift from a stranger",
+      "A secret plan to harm someone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'A blessing in disguise' refers to a good outcome that initially seemed bad or unfortunate.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'AMBIGUOUS':",
+    "options": [
+      "Vague",
+      "Obscure",
+      "Clear",
+      "Doubtful"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Ambiguous' means open to more than one interpretation or unclear. Its direct antonym is 'Clear'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the figure of speech in: 'The wind whispered through the trees.'",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Hyperbole"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Personification' gives human qualities or actions (whispering) to non-human elements (the wind).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Neither the director nor the actors _____ arrived yet.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "was"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When subjects are joined by 'neither... nor', the verb agrees with the closer subject. 'Actors' is plural, requiring 'have'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct expression: I am looking forward _____ you soon.",
+    "options": [
+      "to meet",
+      "to meeting",
+      "for meeting",
+      "meeting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The phrasal verb 'look forward to' takes a gerund (-ing form) as its object, so 'to meeting' is grammatically correct.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'A state of complete disorder or confusion':",
+    "options": [
+      "Harmony",
+      "Chaos",
+      "Symmetry",
+      "Order"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Chaos' denotes a state of total confusion and lack of order.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct option: He prevented me _____ completing the work.",
+    "options": [
+      "to",
+      "from",
+      "for",
+      "by"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The verb 'prevent' requires the construction 'prevent + object + from + verb-ing'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'PRUDENT':",
+    "options": [
+      "Reckless",
+      "Wise",
+      "Foolish",
+      "Hasty"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Prudent' means acting with or showing care and thought for the future; 'wise' is its synonym.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Manoeuvre",
+      "Maneuver",
+      "Manuever",
+      "Manoeuver"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Manoeuvre' is the standard British spelling (frequently used in IOE exams), while 'Maneuver' is American spelling.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct part of speech of 'hard' in: 'She works hard every day.'",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Here 'hard' modifies the verb 'works', describing the manner of working, making it an adverb.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the passive form of: 'Close the door.'",
+    "options": [
+      "Let the door be closed.",
+      "The door should close.",
+      "You close the door.",
+      "Let the door close."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Imperative sentences expressing a command transform into 'Let + object + be + past participle' in passive voice.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: The committee _____ divided in their opinions.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a collective noun like 'committee' acts as individual members with differing opinions, it takes a plural verb ('are').",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'TRANSIENT':",
+    "options": [
+      "Fleeting",
+      "Permanent",
+      "Epiphanic",
+      "Momentary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Transient' means lasting only for a short time. Its opposite is 'Permanent'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: He behaves as if he _____ the boss.",
+    "options": [
+      "is",
+      "was",
+      "were",
+      "has been"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hypothetical clauses introduced by 'as if' or 'as though' use subjunctive 'were' regardless of subject number.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct meaning of 'To burn the midnight oil':",
+    "options": [
+      "To waste energy needlessly",
+      "To work or study late into the night",
+      "To cause an unexpected fire",
+      "To wake up early in the morning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Burn the midnight oil' means to read, study, or work late into the night.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: He said, 'Bravo! You have done well.'",
+    "options": [
+      "He applauded him saying that he had done well.",
+      "He told him that he did well.",
+      "He exclaimed with joy that he did well.",
+      "He said bravo that he had done well."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exclamations with 'Bravo!' are properly reported using 'applauded [someone] saying that...'.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct preposition: I am customed to working _____ pressure.",
+    "options": [
+      "in",
+      "under",
+      "at",
+      "with"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The idiomatic prepositional phrase is 'under pressure'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word that has a different initial consonant sound:",
+    "options": [
+      "Chef",
+      "Chief",
+      "Chain",
+      "Choice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Chef' starts with the /ʃ/ ('sh') sound, whereas 'Chief', 'Chain', and 'Choice' start with /tʃ/ ('ch').",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word meaning 'A remedy for all diseases or difficulties':",
+    "options": [
+      "Panacea",
+      "Placebo",
+      "Antidote",
+      "Antibiotic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A 'panacea' is a cure-all solution or universal remedy.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation into indirect speech: She said, 'May God bless you!'",
+    "options": [
+      "She prayed that God might bless me.",
+      "She wished that God may bless me.",
+      "She prayed that God blessed me.",
+      "She ordered God to bless me."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Optative sentences starting with 'May God...' change to 'prayed that + subject + might + verb' in indirect speech.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct order of adjectives: 'She bought a _____ bag.'",
+    "options": [
+      "leather black beautiful",
+      "beautiful black leather",
+      "black beautiful leather",
+      "leather beautiful black"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard adjective order follows OSASCOMP (Opinion, Size, Age, Shape, Color, Origin, Material, Purpose): Opinion (beautiful) -> Color (black) -> Material (leather).",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'GARRULOUS':",
+    "options": [
+      "Talkative",
+      "Loquacious",
+      "Taciturn",
+      "Verbose"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Garrulous' means excessively talkative. Its antonym is 'Taciturn' (reserved or uncommunicative).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Ten miles _____ a long distance to walk.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nouns denoting a specific distance, weight, time, or amount take a singular verb when considered as a single unit.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Let us finish this work, _____?",
+    "options": [
+      "shall we",
+      "will you",
+      "don't we",
+      "can we"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Imperative proposals beginning with 'Let us' or 'Let's' always take 'shall we' as their question tag.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correctly spelled word:",
+    "options": [
+      "Occurred",
+      "Occured",
+      "Ocurred",
+      "Ocurred"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Occurred', with double 'c' and double 'r'.",
+    "difficulty": "easy",
+    "subject": "English"
+  }
+]
+[
+  {
+    "question": "Choose the correct indirect form: The doctor said to the patient, 'Take your medicines on time.'",
+    "options": [
+      "The doctor advised the patient to take his medicines on time.",
+      "The doctor ordered the patient that take your medicines on time.",
+      "The doctor said to the patient to take his medicines on time.",
+      "The doctor suggested the patient taking his medicines on time."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Imperative advice from a doctor transforms into 'advised + object + to + infinitive' in reported speech.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive voice: 'The mechanic has repaired the car.'",
+    "options": [
+      "The car was repaired by the mechanic.",
+      "The car has been repaired by the mechanic.",
+      "The car is repaired by the mechanic.",
+      "The car had been repaired by the mechanic."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Present perfect active ('has repaired') converts to 'has/have + been + past participle' ('has been repaired') in passive voice.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank with the appropriate preposition: He is senior _____ me by two years.",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "over"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comparative adjectives ending in '-ior' (senior, junior, superior, inferior, prior) take 'to' instead of 'than'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct subject-verb agreement: Bread and butter _____ a wholesome breakfast.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When two nouns express a single compound idea or item (bread and butter as a meal unit), they take a singular verb ('is').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of the idiom: 'To beat around the bush'",
+    "options": [
+      "To cut down trees in a forest",
+      "To avoid talking about the main topic",
+      "To defeat an enemy easily",
+      "To search for missing objects"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Beat around the bush' means to discuss a matter indirectly or delay approaching the main point.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the synonym of 'METAMORPHOSIS':",
+    "options": [
+      "Transformation",
+      "Stagnation",
+      "Contraction",
+      "Decline"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Metamorphosis' refers to a complete change or transformation of form, structure, or character.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'BENEVOLENT':",
+    "options": [
+      "Malevolent",
+      "Generous",
+      "Kind",
+      "Compassionate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Benevolent' means well-meaning and kindly; its direct antonym is 'Malevolent' (wishing evil or harm).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word with primary stress on the first syllable:",
+    "options": [
+      "Politics",
+      "Political",
+      "Politician",
+      "Politically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'POL-i-tics', primary stress is on the first syllable. In 'political', stress moves to the second syllable.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: You'd better consult a doctor, _____?",
+    "options": [
+      "hadn't you",
+      "wouldn't you",
+      "didn't you",
+      "shouldn't you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'You'd better' is an abbreviation for 'You had better', so the tag question uses the auxiliary verb 'hadn't you'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the sentence with correct word order:",
+    "options": [
+      "Not only she passed the exam, but she also topped it.",
+      "Not only did she pass the exam, but she also topped it.",
+      "Not only she did pass the exam, but also she topped it.",
+      "She passed not only the exam, but topped also she it."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Correlative conjunction 'Not only' at the beginning of a clause requires subject-auxiliary inversion ('Not only did she pass...').",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Complete the conditional sentence: If the driver had applied the brakes, the accident _____.",
+    "options": [
+      "would be avoided",
+      "would have been avoided",
+      "will be avoided",
+      "was avoided"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Third conditional structure (past unreal): 'If + past perfect..., would have + past participle'. In passive form, it becomes 'would have been avoided'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct article: He is _____ honorable person in our community.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The letter 'h' in 'honorable' is silent, so the word begins with a vowel sound (/ˈɒn.ər.ə.bəl/), requiring article 'an'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'One who looks at the bright side of things':",
+    "options": [
+      "Pessimist",
+      "Optimist",
+      "Cynic",
+      "Realist"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An 'optimist' is a person who tends to be hopeful and confident about the future or the success of something.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the phrasal verb meaning 'to cancel an event':",
+    "options": [
+      "Call off",
+      "Call on",
+      "Call up",
+      "Call out"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Call off' is a phrasal verb meaning to cancel a planned event or activity.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Maintenance",
+      "Maintainance",
+      "Maintenence",
+      "Mentenance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Maintenance' (M-A-I-N-T-E-N-A-N-C-E). Note that 'maintain' changes its vowel spelling in 'maintenance'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the odd vowel sound out among the given options:",
+    "options": [
+      "Blood",
+      "Flood",
+      "Good",
+      "Mud"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Good' contains the short vowel /ʊ/, whereas 'blood', 'flood', and 'mud' contain the short central vowel /ʌ/.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation: 'Although he worked hard, he failed the exam.' (Into a simple sentence)",
+    "options": [
+      "In spite of working hard, he failed the exam.",
+      "He worked hard but he failed the exam.",
+      "He worked hard so that he failed the exam.",
+      "Working hard, he failed the exam."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complex sentences introduced by 'Although' convert into simple sentences using 'In spite of + gerund/noun phrase'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct preposition: She congratulated him _____ his brilliant success.",
+    "options": [
+      "for",
+      "on",
+      "at",
+      "with"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The verb 'congratulate' takes the fixed preposition 'on' (congratulate someone on something).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: Neither of the answers _____ correct.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Neither' followed by 'of the [plural noun]' takes a singular verb ('is') in formal standard English.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'EPHEMERAL':",
+    "options": [
+      "Transient",
+      "Enduring",
+      "Eternal",
+      "Constant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ephemeral' means lasting for a very short time; 'Transient' is its exact synonym.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect speech: 'What a beautiful painting it is!' said the tourist.",
+    "options": [
+      "The tourist exclaimed with admiration that it was a very beautiful painting.",
+      "The tourist said that what a beautiful painting it was.",
+      "The tourist exclaimed that what a beautiful painting it is.",
+      "The tourist told that it is a beautiful painting."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exclamatory sentences transform into 'exclaimed with admiration/joy that + subject + verb (past tense) + intensifier (very) + adjective'.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive form: 'People say that honesty is the best policy.'",
+    "options": [
+      "Honesty is said to be the best policy.",
+      "Honesty was said to be the best policy.",
+      "It was said that honesty is the best policy.",
+      "Honesty is being said to be the best policy."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'People say that [clause]' converts passively to 'It is said that...' or '[Subject] is said to be...'.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct conjunction pair: No sooner did the bell ring _____ the students ran out.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "before"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'No sooner' is always paired with 'than'. ('Hardly/Scarcely' pair with 'when').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word with a silent letter:",
+    "options": [
+      "Receipt",
+      "Respect",
+      "Concept",
+      "Accept"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'Receipt', the letter 'p' is silent (/rɪˈsiːt/).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: I am late, _____?",
+    "options": [
+      "amn't I",
+      "aren't I",
+      "don't I",
+      "isn't I"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The standard negative tag question for 'I am' in standard English is 'aren't I?'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of 'To hit the nail on the head':",
+    "options": [
+      "To do or say something exactly right",
+      "To injure someone's head",
+      "To make a major construction error",
+      "To act in a foolish manner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Hit the nail on the head' means to describe precisely what is causing a situation or to give an exact answer.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Sociable",
+      "Introverted",
+      "Outgoing",
+      "Friendly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Gregarious' means fond of company or sociable. Its antonym is 'Introverted' or 'Solitary'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the figure of speech in: 'He is as brave as a lion.'",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Oxymoron"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A 'Simile' directly compares two different things using connective words 'as' or 'like'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Either you or your friend _____ stolen my pen.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When subjects are connected by 'either... or', the verb agrees with the closer subject. 'Your friend' is singular, so 'has' is used.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct expression: He is good _____ Mathematics.",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "on"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The adjective 'good' is followed by 'at' when expressing capability or skill in a subject or activity.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'A speech made without prior preparation':",
+    "options": [
+      "Extempore",
+      "Eulogy",
+      "Sermon",
+      "Monologue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Extempore' or 'Impromptu' refers to a speech delivered without any prior preparation.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct option: The teacher refrained _____ punishing the child.",
+    "options": [
+      "from",
+      "to",
+      "for",
+      "with"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The verb 'refrain' is followed by the preposition 'from' + gerund (verb-ing).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'LOQUACIOUS':",
+    "options": [
+      "Talkative",
+      "Silent",
+      "Reserved",
+      "Laconic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Loquacious' means tending to talk a great deal; 'Talkative' is its synonym.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Millennium",
+      "Millenium",
+      "Milenium",
+      "Millenniam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Millennium', containing double 'l' and double 'n'.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct part of speech of 'fast' in: 'He observed a fast for three days.'",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Noun",
+      "Verb"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Here 'fast' is preceded by the article 'a' and functions as the direct object of 'observed', making it a Noun.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the passive form of: 'Someone has stolen my watch.'",
+    "options": [
+      "My watch has been stolen.",
+      "My watch was stolen by someone.",
+      "My watch has stolen.",
+      "My watch had been stolen."
+    ],
+    "correctAnswer": 0,
+    "explanation": "When the agent is vague or unknown ('someone'), it is omitted in the passive voice: 'My watch has been stolen.'",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: A pair of scissors _____ lying on the table.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "explanation": "While 'scissors' alone takes a plural verb, 'a pair of scissors' focuses on the singular unit 'pair' and takes a singular verb ('is').",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'OPTIMISTIC':",
+    "options": [
+      "Pessimistic",
+      "Hopeful",
+      "Confident",
+      "Cheerful"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Optimistic' means expecting favorable outcomes. Its antonym is 'Pessimistic'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: I wish I _____ a bird.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Unreal or hypothetical desires following 'I wish' take the subjunctive past verb form 'were'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct meaning of 'To spill the tea':",
+    "options": [
+      "To mess up a dining table",
+      "To share gossip or secrets",
+      "To waste expensive beverage",
+      "To act recklessly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Spill the tea' is a contemporary idiom meaning to share gossip or secret information.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: He said, 'I have been waiting for two hours.'",
+    "options": [
+      "He said that he had been waiting for two hours.",
+      "He said that he has been waiting for two hours.",
+      "He said that I had been waiting for two hours.",
+      "He said that he was waiting for two hours."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Present perfect continuous ('have been waiting') changes into past perfect continuous ('had been waiting') in indirect speech.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct preposition: He is addicted _____ gambling.",
+    "options": [
+      "to",
+      "with",
+      "for",
+      "at"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The adjective 'addicted' takes the fixed preposition 'to' followed by a noun or gerund.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word that has a different initial consonant sound:",
+    "options": [
+      "Cat",
+      "Cite",
+      "Call",
+      "Coat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Cite' starts with the /s/ sound, whereas 'Cat', 'Call', and 'Coat' start with the hard /k/ sound.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word meaning 'A handwriting that cannot be read':",
+    "options": [
+      "Illegible",
+      "Ineligible",
+      "Illegitimate",
+      "Illiterate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Illegible' describes writing or print that is impossible or very difficult to read.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation: 'He is as strong as an ox.' (Into comparative degree)",
+    "options": [
+      "An ox is not stronger than he.",
+      "An ox is stronger than he.",
+      "He is stronger than an ox.",
+      "An ox is as strong as he."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Positive degree 'as strong as' converts to negative comparative 'is not stronger than' to maintain identical meaning.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct order of adjectives: 'He bought a _____ shirt.'",
+    "options": [
+      "cotton comfortable white",
+      "comfortable white cotton",
+      "white comfortable cotton",
+      "cotton white comfortable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adjective ordering rule: Opinion (comfortable) -> Color (white) -> Material (cotton).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'TACITURN':",
+    "options": [
+      "Reserved",
+      "Loquacious",
+      "Silent",
+      "Reticent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Taciturn' means reserved or uncommunicative in speech. Its antonym is 'Loquacious' (talkative).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Physics _____ my favorite subject in high school.",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "have been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Academic subjects ending in '-s' (Physics, Mathematics, Civics) are singular in meaning and take a singular verb ('was').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Let's start the presentation, _____?",
+    "options": [
+      "shall we",
+      "will you",
+      "don't we",
+      "can we"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Imperative proposals beginning with 'Let's' always take 'shall we' as their question tag.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correctly spelled word:",
+    "options": [
+      "Inconvenience",
+      "Inconvienience",
+      "Inconveniance",
+      "Inconvineance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Inconvenience' (I-N-C-O-N-V-E-N-I-E-N-C-E).",
+    "difficulty": "easy",
+    "subject": "English"
+  }
+]
+[
+  {
+    "question": "Choose the correct indirect form: The captain said to the soldiers, 'Attack the enemy post immediately.'",
+    "options": [
+      "The captain ordered the soldiers to attack the enemy post immediately.",
+      "The captain requested the soldiers to attack the enemy post immediately.",
+      "The captain told to the soldiers that they attack the enemy post immediately.",
+      "The captain advised the soldiers for attacking the enemy post immediately."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Commands or directives issued by military superiors transform into 'ordered + object + to + infinitive' in indirect speech.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive voice: 'Who taught you grammar?'",
+    "options": [
+      "By whom were you taught grammar?",
+      "By whom was you taught grammar?",
+      "Who was grammar taught to you by whom?",
+      "By whom had you been taught grammar?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Who' changes to 'By whom'. Past simple active 'taught' converts to 'were + past participle' for the plural pronoun 'you'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank with the appropriate preposition: She is very good _____ playing the piano.",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "on"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The adjective 'good' takes the fixed preposition 'at' when describing skill or proficiency in an action or subject.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct subject-verb agreement: Neither the manager nor his assistants _____ available for comment.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When two subjects are connected by 'neither... nor', the verb agrees with the closer subject ('his assistants' is plural, requiring 'were').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of the idiom: 'To bite the dust'",
+    "options": [
+      "To suffer defeat or die",
+      "To clean a dirty floor",
+      "To work hard in fields",
+      "To eat something unpalatable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The idiom 'bite the dust' means to fail, be defeated, or die.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the synonym of 'LUCID':",
+    "options": [
+      "Clear",
+      "Vague",
+      "Opaque",
+      "Confused"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Lucid' means expressed clearly or easy to understand; 'Clear' is its exact synonym.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'IMPLICIT':",
+    "options": [
+      "Explicit",
+      "Tacit",
+      "Unspoken",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Implicit' means implied though not plainly expressed. Its antonym is 'Explicit' (stated clearly and directly).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word with primary stress on the third syllable:",
+    "options": [
+      "Understand",
+      "Photograph",
+      "Computer",
+      "Substantial"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'Un-der-STAND', primary stress falls on the third syllable. 'Computer' and 'Substantial' are stressed on the second syllable.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: He rarely comes late, _____?",
+    "options": [
+      "does he",
+      "doesn't he",
+      "is he",
+      "isn't he"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Rarely' gives a negative meaning to the main sentence, so the tag question must be affirmative ('does he').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the sentence with correct word order:",
+    "options": [
+      "Little did he know what was about to happen.",
+      "Little he knew what was about to happen.",
+      "Little did he knew what was about to happen.",
+      "He knew little what about to happen was."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Placing the negative/restrictive adverb 'Little' at the beginning requires inversion: Little + auxiliary (did) + subject (he) + base verb (know).",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Complete the conditional sentence: Had I known your arrival time, I _____ you at the airport.",
+    "options": [
+      "would meet",
+      "would have met",
+      "will meet",
+      "met"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inverted third conditional ('Had I known...') takes 'would have + past participle' in the main clause.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct article: She is _____ M.Sc. student at Tribhuvan University.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The abbreviation 'M.Sc.' begins with an initial vowel sound /em/, requiring the indefinite article 'an'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'A person who collects or studies stamps':",
+    "options": [
+      "Numismatist",
+      "Philatelist",
+      "Archivist",
+      "Curator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 'philatelist' is a person who studies or collects postage stamps.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the phrasal verb meaning 'to investigate or examine':",
+    "options": [
+      "Look into",
+      "Look after",
+      "Look up",
+      "Look for"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Look into' means to investigate, research, or examine a matter.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Privilege",
+      "Privelege",
+      "Priviledge",
+      "Prevelege"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Privilege' (P-R-I-V-I-L-E-G-E). There is no 'd' in the word.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the odd vowel sound out among the given options:",
+    "options": [
+      "Cat",
+      "Bat",
+      "Car",
+      "Mat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Car' contains the long open back vowel sound /ɑː/, whereas 'cat', 'bat', and 'mat' contain the short front vowel /æ/.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation: 'Besides being clever, he is hardworking.' (Into a compound sentence)",
+    "options": [
+      "He is not only clever but also hardworking.",
+      "Although he is clever, he is hardworking.",
+      "He is clever so he is hardworking.",
+      "He is hardworking because he is clever."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Besides + gerund' converts into a compound sentence using the correlative conjunction 'not only... but also'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct preposition: He died _____ cholera.",
+    "options": [
+      "from",
+      "of",
+      "by",
+      "with"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When death is caused directly by a disease or illness, the fixed preposition used is 'of' (died of cholera).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: Mathematics _____ a compulsory subject for engineering aspirants.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nouns representing branches of study ending in '-s' (Mathematics, Physics) take singular verbs ('is').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'OBSTINATE':",
+    "options": [
+      "Stubborn",
+      "Pliable",
+      "Flexible",
+      "Docile"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Obstinate' means refusing to change one's opinion or chosen course of action; 'Stubborn' is its exact synonym.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: 'Don't make a noise,' the librarian said to the students.",
+    "options": [
+      "The librarian forbade the students to make a noise.",
+      "The librarian told the students not to make a noise.",
+      "Both A and B are correct.",
+      "The librarian ordered the students that do not make a noise."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Negative imperatives can be reported using 'forbade + object + to + verb' or 'told/ordered + object + not to + verb'. Both A and B are grammatically valid.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive form: 'One should keep one's word.'",
+    "options": [
+      "One's word should be kept.",
+      "Word should be kept.",
+      "Promises must be kept.",
+      "Word should be kept by one."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In passive transformations of 'One should keep one's word', the indefinite pronoun 'one' and possessive 'one's' are dropped, giving 'Word should be kept.'",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct conjunction: She worked hard _____ she might pass the examination.",
+    "options": [
+      "so that",
+      "because",
+      "unless",
+      "lest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'So that' expresses purpose and is followed by clauses containing modal verbs like 'may' or 'might'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word with a silent letter:",
+    "options": [
+      "Comb",
+      "Club",
+      "Crab",
+      "Crank"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'Comb', the final letter 'b' is silent (/koʊm/).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Everything looks beautiful today, _____?",
+    "options": [
+      "doesn't it",
+      "don't they",
+      "isn't it",
+      "does it"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Indefinite pronoun 'Everything' refers to non-human singular entities and takes 'it' as the pronoun in tag questions ('doesn't it').",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of 'To turn a deaf ear':",
+    "options": [
+      "To become physically deaf",
+      "To refuse to listen or pay attention",
+      "To listen very attentively",
+      "To speak softly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Turn a deaf ear' means to deliberately ignore or refuse to pay attention to a request or statement.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'ADVERSITY':",
+    "options": [
+      "Prosperity",
+      "Hardship",
+      "Misfortune",
+      "Calamity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Adversity' means state of hardship or misfortune. Its direct antonym is 'Prosperity'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the figure of speech in: 'Life is a walking shadow.'",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Apostrophe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A 'Metaphor' makes an implicit, direct comparison between two unlike things without using 'like' or 'as'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Either the principal or the teachers _____ responsible for this decision.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In 'either... or' structures, the verb agrees with the closer subject. 'Teachers' is plural, requiring 'are'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct expression: He is jealous _____ my promotion.",
+    "options": [
+      "of",
+      "with",
+      "at",
+      "for"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The adjective 'jealous' takes the fixed preposition 'of' (jealous of someone/something).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'A government run by a single person with absolute power':",
+    "options": [
+      "Autocracy",
+      "Democracy",
+      "Oligarchy",
+      "Bureaucracy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An 'autocracy' is a system of government by one person with absolute power.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct option: She insists _____ paying for the meal.",
+    "options": [
+      "on",
+      "for",
+      "to",
+      "with"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The verb 'insist' takes the preposition 'on' followed by a gerund ('insists on paying').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'CANDID':",
+    "options": [
+      "Frank",
+      "Guarded",
+      "Insincere",
+      "Hypocritical"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Candid' means truthful and straightforward; 'Frank' is its exact synonym.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Questionnaire",
+      "Questionaire",
+      "Questionare",
+      "Questionnair"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Questionnaire', ending in '-nnaire' with double 'n'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct part of speech of 'round' in: 'The Earth moves round the Sun.'",
+    "options": [
+      "Preposition",
+      "Adverb",
+      "Adjective",
+      "Noun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Here 'round' links the verb 'moves' to its noun object 'the Sun', functioning as a preposition.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the passive form of: 'They expect good news.'",
+    "options": [
+      "Good news is expected by them.",
+      "Good news was expected by them.",
+      "Good news are expected by them.",
+      "Good news have been expected."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'News' is an uncountable singular noun, so simple present passive is 'is expected'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Forty yards _____ a short distance for a sprinter.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A specific measurement or distance takes a singular verb when considered as a unified amount.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'SINCERE':",
+    "options": [
+      "Hypocritical",
+      "Honest",
+      "Genuine",
+      "Candid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Sincere' means free from pretense or deceit. Its antonym is 'Hypocritical' or 'Insincere'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: I would rather die than _____ a lie.",
+    "options": [
+      "tell",
+      "to tell",
+      "telling",
+      "told"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Would rather' is followed by a bare infinitive ('tell') without 'to'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct meaning of 'To call it a day':",
+    "options": [
+      "To stop working on something for the rest of the day",
+      "To start a new project immediately",
+      "To name a specific calendar date",
+      "To work late into the evening"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Call it a day' means to stop what you are doing because you have done enough or are tired.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: He said, 'I shall go to Kathmandu tomorrow.'",
+    "options": [
+      "He said that he would go to Kathmandu the next day.",
+      "He said that I should go to Kathmandu tomorrow.",
+      "He said that he shall go to Kathmandu the next day.",
+      "He said that he will go to Kathmandu the following day."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'I' changes to 'he', modal 'shall/will' changes to 'would' in reported past tense, and 'tomorrow' changes to 'the next day'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct preposition: He absorbed himself _____ his research work.",
+    "options": [
+      "in",
+      "with",
+      "at",
+      "on"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The verb 'absorb' (in passive or reflexive structures) takes the preposition 'in' ('absorbed in work').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the word that has a different initial consonant sound:",
+    "options": [
+      "Ghost",
+      "Gentle",
+      "Game",
+      "Goal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Gentle' starts with the soft /dʒ/ ('j') sound, whereas 'Ghost', 'Game', and 'Goal' start with the hard /ɡ/ sound.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word meaning 'A study of sound and its properties':",
+    "options": [
+      "Acoustics",
+      "Optics",
+      "Phonetics",
+      "Linguistics"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Acoustics' is the branch of physics concerned with the properties and production of sound.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation: 'He is so proud that he will not ask for help.' (Into a simple sentence)",
+    "options": [
+      "He is too proud to ask for help.",
+      "He is very proud and will not ask for help.",
+      "Being proud, he cannot ask for help.",
+      "He is proud enough not to ask for help."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'So + adj + that + negative clause' simplifies into 'too + adj + to + infinitive'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct order of adjectives: 'She gave me a _____ box.'",
+    "options": [
+      "wooden small square",
+      "small square wooden",
+      "square small wooden",
+      "wooden square small"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard adjective sequence: Size (small) -> Shape (square) -> Material (wooden).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'FUTILE':",
+    "options": [
+      "Fruitful",
+      "Useless",
+      "Vain",
+      "Ineffectual"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Futile' means producing no useful result; its antonym is 'Fruitful' or 'Effective'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Gulliver's Travels _____ written by Jonathan Swift.",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "have been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Titles of books, even if plural in appearance ('Travels'), represent a single entity and take a singular verb ('was').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Let us dance together, _____?",
+    "options": [
+      "shall we",
+      "will you",
+      "don't we",
+      "can we"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Imperative proposals beginning with 'Let us' take 'shall we' as their question tag.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correctly spelled word:",
+    "options": [
+      "Millennium",
+      "Milenium",
+      "Millenium",
+      "Millenniam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Millennium' contains double 'l' and double 'n' (M-I-L-L-E-N-N-I-U-M).",
+    "difficulty": "easy",
+    "subject": "English"
+  }
+]
+[
+  {
+    "question": "Choose the correct indirect form: The teacher said, 'The Earth revolves around the Sun.'",
+    "options": [
+      "The teacher said that the Earth revolved around the Sun.",
+      "The teacher said that the Earth revolves around the Sun.",
+      "The teacher told that the Earth revolves around the Sun.",
+      "The teacher said that the Earth had revolved around the Sun."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Universal truths or scientific facts do not change tense when converted into indirect speech.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive voice: 'They are constructing a new bridge over the river.'",
+    "options": [
+      "A new bridge is being constructed over the river.",
+      "A new bridge was being constructed over the river.",
+      "A new bridge has been constructed over the river.",
+      "A new bridge is constructed over the river."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Present continuous active (are constructing) converts to present continuous passive (is/are + being + past participle).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank with the appropriate preposition: He was accused _____ theft by the police.",
+    "options": [
+      "for",
+      "of",
+      "with",
+      "about"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The verb 'accuse' takes the fixed preposition 'of' (accused of a crime).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct subject-verb agreement: Bread and butter _____ his favorite breakfast.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When two nouns join by 'and' to form a single idea or compound subject (a specific meal), a singular verb ('is') is required.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of the idiom: 'To spill the beans'",
+    "options": [
+      "To drop food on the floor",
+      "To reveal a secret prematurely",
+      "To cause an accident",
+      "To cook a meal quickly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Spill the beans' means to disclose secret or confidential information prematurely or indiscreetly.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the synonym of 'EPHEMERAL':",
+    "options": [
+      "Transient",
+      "Permanent",
+      "Eternal",
+      "Enduring"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ephemeral' means lasting for a very short time; 'Transient' is its exact synonym.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'BENEVOLENT':",
+    "options": [
+      "Malevolent",
+      "Kind",
+      "Generous",
+      "Compassionate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Benevolent' means well-meaning and kindly. Its direct antonym is 'Malevolent' (wishing evil or harm to others).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the primary stress in the word 'PHOTOGRAPHY':",
+    "options": [
+      "Pho-TO-gra-phy",
+      "PHO-to-gra-phy",
+      "Pho-to-GRA-phy",
+      "Pho-to-gra-PHY"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Words ending in '-graphy' place primary stress on the antepenultimate (third from last) syllable: pho-TO-gra-phy.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Nobody came to the party, _____?",
+    "options": [
+      "did they",
+      "didn't they",
+      "did he",
+      "didn't he"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Nobody' is negative, so the tag must be positive. Indefinite pronouns referring to people take 'they' as the pronoun in question tags.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the sentence with correct word order:",
+    "options": [
+      "Seldom have I seen such a remarkable performance.",
+      "Seldom I have seen such a remarkable performance.",
+      "Seldom have seen I such a remarkable performance.",
+      "I seldom seen have such a remarkable performance."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fronting negative/restrictive adverbs like 'Seldom' triggers subject-auxiliary inversion (Seldom + have + I + seen).",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Complete the sentence: No sooner had the bell rung _____ the students ran out of the classroom.",
+    "options": [
+      "than",
+      "when",
+      "then",
+      "before"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'No sooner' is always paired with the conjunction 'than' in comparative/correlative structures.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct article: He is _____ European scholar.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'European' begins with a consonant sound /j/ (yoo-rə-pee-ən), so it takes the indefinite article 'a'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'A person who looks at the bright side of things':",
+    "options": [
+      "Optimist",
+      "Pessimist",
+      "Altruist",
+      "Realist"
+    ],
+    "correctAnswer": 0,
+    "explanation": "An 'optimist' is a person who tends to be hopeful and confident about the future or success of something.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the phrasal verb meaning 'to cancel or abandon an event':",
+    "options": [
+      "Call off",
+      "Call on",
+      "Call up",
+      "Call out"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Call off' means to cancel a planned event, meeting, or activity.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Accommodation",
+      "Acommodation",
+      "Accomodation",
+      "Acomodation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Accommodation', featuring double 'c' and double 'm' (A-C-C-O-M-M-O-D-A-T-I-O-N).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Which of the following words contains a diphthong?",
+    "options": [
+      "Boy",
+      "Cat",
+      "Sit",
+      "Pen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Boy' contains the diphthong sound /ɔɪ/. 'Cat', 'sit', and 'pen' contain monophthongs.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: She speaks as if she _____ everything.",
+    "options": [
+      "knew",
+      "knows",
+      "has known",
+      "had known"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'As if' introducing a subjunctive or unreal present situation requires a past tense verb ('knew').",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct preposition: I am confident _____ winning the tournament.",
+    "options": [
+      "of",
+      "in",
+      "for",
+      "about"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The adjective 'confident' takes the fixed preposition 'of' followed by a gerund ('confident of winning').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct sentence: Each of the boys _____ given a prize.",
+    "options": [
+      "was",
+      "were",
+      "have been",
+      "are"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Each' is an indefinite pronoun taking a singular verb ('was') regardless of plural modifiers in the prepositional phrase.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'METICULOUS':",
+    "options": [
+      "Careful",
+      "Careless",
+      "Sloppy",
+      "Hasty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Meticulous' means showing great attention to detail; 'Careful' or 'thorough' is its exact synonym.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: He said, 'May God bless you!'",
+    "options": [
+      "He prayed that God might bless me.",
+      "He wished that God may bless me.",
+      "He prayed God to bless me.",
+      "He told that God might bless me."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Optative sentences expressing a prayer or wish change to 'prayed/wished', and 'may' converts to 'might'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct passive form: 'Do not step on the grass.'",
+    "options": [
+      "You are forbidden to step on the grass.",
+      "Let the grass not be stepped on.",
+      "Grass should not step on.",
+      "You are ordered not step on grass."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Prohibitive imperative signs/orders convert into passive form using 'You are forbidden to + base verb'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct conjunction: Walk carefully _____ you should stumble.",
+    "options": [
+      "lest",
+      "unless",
+      "otherwise",
+      "or"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Lest' means 'for fear that' and takes the auxiliary verb 'should' in the dependent clause.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Which word has a silent letter 'k'?",
+    "options": [
+      "Knight",
+      "Kite",
+      "King",
+      "Kangaroo"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In 'Knight', the initial 'k' followed by 'n' is silent (/naɪt/).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: I am doing the right thing, _____?",
+    "options": [
+      "aren't I",
+      "am I not",
+      "don't I",
+      "isn't I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The standard tag question for 'I am' in informal/standard English is 'aren't I?'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct meaning of 'To burn the midnight oil':",
+    "options": [
+      "To work or study late into the night",
+      "To waste energy needlessly",
+      "To set something on fire at night",
+      "To sleep early to save light"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Burn the midnight oil' means to read, study, or work late into the night.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'LOQUACIOUS':",
+    "options": [
+      "Taciturn",
+      "Talkative",
+      "Garrulous",
+      "Voluble"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Loquacious' means tending to talk a great deal; its antonym is 'Taciturn' or 'Reserved'.",
+    "difficulty": "hard",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the figure of speech in: 'The wind whispered through the trees.'",
+    "options": [
+      "Personification",
+      "Simile",
+      "Metaphor",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Giving human qualities ('whispered') to non-human elements ('the wind') is 'Personification'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Neither of the answers _____ correct.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Neither' as a pronoun takes a singular verb ('is') in formal English grammar.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct preposition: She is proficient _____ French and Spanish.",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "on"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The adjective 'proficient' takes the fixed preposition 'in' when referring to skills or languages.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word that means 'A written account of a person's life written by someone else':",
+    "options": [
+      "Biography",
+      "Autobiography",
+      "Memoir",
+      "Chronicle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A 'biography' is an account of someone's life written by another person. (An 'autobiography' is written by the subject themselves).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the correct option: He prevented me _____ going out in the rain.",
+    "options": [
+      "from",
+      "to",
+      "against",
+      "for"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The verb 'prevent' takes 'from + gerund' (prevent someone from doing something).",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Find the synonym of 'PRAGMATIC':",
+    "options": [
+      "Practical",
+      "Idealistic",
+      "Theoretical",
+      "Speculative"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Pragmatic' means dealing with things sensibly and realistically; 'Practical' is its exact synonym.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": [
+      "Bureaucracy",
+      "Bureaucracey",
+      "Bureacracy",
+      "Beureaucracy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Bureaucracy' (B-U-R-E-A-U-C-R-A-C-Y).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct part of speech of 'fast' in: 'He ran fast to catch the bus.'",
+    "options": [
+      "Adverb",
+      "Adjective",
+      "Verb",
+      "Noun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Here 'fast' modifies the verb 'ran', indicating the manner of action; therefore, it is an adverb.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Select the passive form of: 'Someone has stolen my pen.'",
+    "options": [
+      "My pen has been stolen.",
+      "My pen was stolen by someone.",
+      "My pen has stolen by someone.",
+      "My pen had been stolen."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In present perfect passive ('has been stolen'), agent 'by someone' is indefinite and omitted.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: Ten miles _____ a long distance to walk every day.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A plural noun denoting a single unit of distance, time, or quantity takes a singular verb ('is').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'GREGARIOUS':",
+    "options": [
+      "Solitary",
+      "Social",
+      "Friendly",
+      "Outgoing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Gregarious' means fond of company or sociable; its antonym is 'Solitary' or 'Reclusive'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct option: She prefers coffee _____ tea.",
+    "options": [
+      "to",
+      "than",
+      "over",
+      "instead"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The verb 'prefer' takes the preposition 'to' when comparing two options ('prefer X to Y').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correct meaning of 'A blessing in disguise':",
+    "options": [
+      "A good thing that seemed bad at first",
+      "An unexpected financial loss",
+      "A secret wish granted by someone",
+      "A fake compliment from an enemy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'A blessing in disguise' refers to an apparent misfortune that eventually has good results.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct indirect form: She said to me, 'Where do you live?'",
+    "options": [
+      "She asked me where I lived.",
+      "She asked me where did I live.",
+      "She told me where I live.",
+      "She inquired me where I lived."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In indirect wh-questions, the question word is retained, auxiliary 'do' is dropped, and word order becomes assertive (subject + verb in past tense).",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct preposition: He is superior _____ all his peers in intelligence.",
+    "options": [
+      "to",
+      "than",
+      "from",
+      "over"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Comparative adjectives ending in '-ior' (superior, inferior, senior, junior) take 'to' instead of 'than'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Which of the following words ends with a /z/ sound?",
+    "options": [
+      "Boys",
+      "Cats",
+      "Books",
+      "Maps"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Boys' ends in a voiced vowel sound /ɔɪ/, so the plural suffix '-s' is pronounced as voiced /z/. Plural endings following voiceless consonants ('t', 'k', 'p') take /s/.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the word meaning 'Fear of confined or small spaces':",
+    "options": [
+      "Claustrophobia",
+      "Acrophobia",
+      "Agoraphobia",
+      "Xenophobia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Claustrophobia' is the extreme or irrational fear of confined or crowded spaces.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct transformation: 'He is too poor to buy a car.' (Into a complex sentence)",
+    "options": [
+      "He is so poor that he cannot buy a car.",
+      "He is very poor so he cannot buy a car.",
+      "Because he is poor, he buys a car.",
+      "He cannot buy a car due to his poverty."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Too + adj + to + infinitive' converts into a complex sentence using 'so + adj + that + clause with cannot/could not'.",
+    "difficulty": "medium",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct conditional sentence:",
+    "options": [
+      "If it rains, we will cancel the picnic.",
+      "If it will rain, we cancel the picnic.",
+      "If it rained, we will cancel the picnic.",
+      "If it rains, we would cancel the picnic."
+    ],
+    "correctAnswer": 0,
+    "explanation": "First conditional structure: If + present simple ('rains'), main clause with future simple ('will cancel').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the antonym of 'TRANSIENT':",
+    "options": [
+      "Permanent",
+      "Temporary",
+      "Fleeting",
+      "Brief"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Transient' means lasting only for a short time. Its direct antonym is 'Permanent'.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Fill in the blank: The police _____ investigating the robbery.",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "has been"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Police' is a collective noun that is always treated as plural in standard English, taking plural verbs ('are').",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Choose the correct tag question: Let's start the meeting, _____?",
+    "options": [
+      "shall we",
+      "will you",
+      "don't we",
+      "can we"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suggestions starting with 'Let's' (Let us) always take 'shall we' as the tag question.",
+    "difficulty": "easy",
+    "subject": "English"
+  },
+  {
+    "question": "Identify the correctly spelled word:",
+    "options": [
+      "Maintenance",
+      "Maintenence",
+      "Maintainance",
+      "Maintenense"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct spelling is 'Maintenance' (M-A-I-N-T-E-N-A-N-C-E).",
+    "difficulty": "medium",
+    "subject": "English"
+  }
+]
+
