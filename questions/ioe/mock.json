@@ -1,13 +1,262 @@
-{
-  "question": "The SI unit of force is?",
-  "options": [
-    "Newton",
-    "Joule",
-    "Pascal",
-    "Watt"
-  ],
-  "correctAnswer": 0,
-  "explanation": "Force is measured in Newton (N).",
-  "difficulty": "easy",
-  "subject": "Physics"
-}
+[
+  {
+    "question": "If matrix A is of order 2 × 3 and matrix B is of order 3 × 4, then the order of matrix (A B)ᵀ is:",
+    "options": [
+      "2 × 4",
+      "4 × 2",
+      "3 × 3",
+      "4 × 3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Matrix product AB has order 2 × 4. The transpose (AB)ᵀ reverses the dimensions, giving an order of 4 × 2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The value of limit lim_{x → 0} (1 - cos 2x) / x² is equal to:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "1 / 2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using identity 1 - cos(2x) = 2 sin²(x): lim_{x → 0} (2 sin² x) / x² = 2 × (lim_{x → 0} sin x / x)² = 2 × 1² = 2.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "If vectors a = 2i + j - k and b = i - j + λ k are perpendicular to each other, the value of λ is:",
+    "options": [
+      "1",
+      "-1",
+      "3",
+      "-3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Perpendicular vectors have dot product zero: a · b = (2)(1) + (1)(-1) + (-1)(λ) = 0 => 2 - 1 - λ = 0 => λ = 1.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The derivative of d/dx [tan⁻¹((3x - x³) / (1 - 3x²))] with respect to x is:",
+    "options": [
+      "3 / (1 + x²)",
+      "1 / (1 + x²)",
+      "3 / (1 - x²)",
+      "1 / (1 + 9x²)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let x = tan θ. Then (3x - x³)/(1 - 3x²) = tan(3θ). Thus tan⁻¹(tan 3θ) = 3θ = 3 tan⁻¹(x). Derivative is 3 / (1 + x²).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The number of distinct real roots of equation x³ - 3x + 2 = 0 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Factoring: (x - 1)²(x + 2) = 0. Roots are x = 1, 1, -2. The distinct real roots are x = 1 and x = -2 (total 2 distinct real roots).",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "Which of the following molecules has a linear geometry according to VSEPR theory?",
+    "options": [
+      "H₂O",
+      "SO₂",
+      "BeCl₂",
+      "NH₃"
+    ],
+    "correctAnswer": 2,
+    "explanation": "BeCl₂ has sp hybridization with 2 bond pairs and 0 lone pairs around Be, giving it a linear geometry (bond angle 180°).",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "The oxidation number of Chromium in Potassium Dichromate (K₂Cr₂O₇) is:",
+    "options": [
+      "+3",
+      "+6",
+      "+4",
+      "+7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2(+1) + 2(Cr) + 7(-2) = 0 => 2 + 2Cr - 14 = 0 => 2Cr = 12 => Cr = +6.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "When Ethyl alcohol is heated with excess concentrated H₂SO₄ at 170°C (443 K), the major organic product formed is:",
+    "options": [
+      "Diethyl ether",
+      "Ethene",
+      "Ethanal",
+      "Ethanoic acid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heating ethanol at 170°C with conc. H₂SO₄ undergoes acidic dehydration to yield ethene (CH₂=CH₂). At lower temp (140°C), diethyl ether is formed.",
+    "difficulty": "medium",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "How many moles of NaOH are required to completely neutralize 1 mole of Phosphoric acid (H₃PO₄)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H₃PO₄ is a tribasic acid containing 3 replaceable H⁺ ions. Reaction: H₃PO₄ + 3 NaOH → Na₃PO₄ + 3 H₂O.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Which metal is extracted commercially using the cyanide process (MacArthur-Forrest process)?",
+    "options": [
+      "Iron",
+      "Aluminum",
+      "Gold",
+      "Copper"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gold and Silver are leached using a dilute solution of NaCN/KCN in the presence of air to form soluble cyanide complexes.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "A moment of inertia of a uniform circular ring of mass M and radius R about its tangential axis parallel to its diameter is:",
+    "options": [
+      "(1 / 2) M R²",
+      "M R²",
+      "(3 / 2) M R²",
+      "(2 / 3) M R²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Moment of inertia about diameter is I_d = (1/2) M R². By parallel axis theorem: I_tangent = I_d + M R² = (1/2) M R² + M R² = (3/2) M R².",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "In a Carnot heat engine, the efficiency depends ONLY upon:",
+    "options": [
+      "Nature of working substance",
+      "Temperatures of source and sink",
+      "Volume of cylinder",
+      "Pressure of working fluid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carnot efficiency η = 1 - (T_sink / T_source), which depends strictly on absolute temperatures of the heat reservoirs.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The work done in turning an electric dipole of moment p by 90° from the direction of a uniform electric field E is:",
+    "options": [
+      "p E",
+      "2 p E",
+      "Zero",
+      "-p E"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Work W = p E (cos θ₁ - cos θ₂). Turning from 0° to 90°: W = p E (cos 0° - cos 90°) = p E (1 - 0) = p E.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "Two capacitors of 3 μF and 6 μF are connected in series across a 12 V battery. The charge on the 3 μF capacitor is:",
+    "options": [
+      "24 μC",
+      "36 μC",
+      "18 μC",
+      "12 μC"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Equivalent capacitance C_eq = (3 × 6) / (3 + 6) = 2 μF. Total charge Q = C_eq × V = 2 μF × 12 V = 24 μC. In series, charge on both capacitors is identical.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The self-inductance of a coil is 2 H. If current through it changes at a rate of 5 A/s, the magnitude of induced EMF is:",
+    "options": [
+      "2.5 V",
+      "10 V",
+      "0.4 V",
+      "7 V"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Magnitude of induced EMF e = L (dI/dt) = 2 H × 5 A/s = 10 V.",
+    "difficulty": "easy",
+    "subject": "Physics"
+  },
+  {
+    "question": "The value of ∫ [1 / (x (x + 1))] dx is:",
+    "options": [
+      "ln |x / (x + 1)| + C",
+      "ln |(x + 1) / x| + C",
+      "ln |x(x + 1)| + C",
+      "tan⁻¹(x) + C"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Partial fractions: 1 / [x(x+1)] = 1/x - 1/(x+1). Integrating gives ln|x| - ln|x+1| + C = ln|x / (x + 1)| + C.",
+    "difficulty": "medium",
+    "subject": "Mathematics"
+  },
+  {
+    "question": "The pH of a 0.01 M solution of aqueous HCl at 25°C is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl is a strong acid, so [H⁺] = 0.01 M = 10⁻² M. pH = -log₁₀[H⁺] = -log₁₀(10⁻²) = 2.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "Primary, secondary, and tertiary amines can be distinguished using which test?",
+    "options": [
+      "Hinsberg test",
+      "Tollens test",
+      "Biuret test",
+      "Iodoform test"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hinsberg's reagent (Benzenesulfonyl chloride) reacts differently with 1°, 2°, and 3° amines based on solubility and presence of acidic hydrogens.",
+    "difficulty": "easy",
+    "subject": "Chemistry"
+  },
+  {
+    "question": "The escape speed from Earth's surface is approximately 11.2 km/s. If a planet has 4 times the mass and 4 times the radius of Earth, its escape speed will be:",
+    "options": [
+      "5.6 km/s",
+      "11.2 km/s",
+      "22.4 km/s",
+      "44.8 km/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Escape speed v_e = √(2GM / R). If M' = 4M and R' = 4R, v_e' = √(2G(4M) / (4R)) = √(2GM / R) = v_e = 11.2 km/s.",
+    "difficulty": "medium",
+    "subject": "Physics"
+  },
+  {
+    "question": "The area bounded by the curve y = x², the x-axis, and lines x = 0 and x = 3 is:",
+    "options": [
+      "3 square units",
+      "9 square units",
+      "27 square units",
+      "6 square units"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Area = ∫₀³ x² dx = [x³ / 3]₀³ = (27 / 3) - 0 = 9 square units.",
+    "difficulty": "easy",
+    "subject": "Mathematics"
+  }
+]
