@@ -258,9 +258,7 @@
     "explanation": "According to Jurin's Law, h × r = constant. If height is insufficient, radius of curvature of the liquid meniscus increases so that the water reaches the top edge without overflowing.",
     "difficulty": "hard",
     "subject": "Physics"
-  }
-]
-[
+  },
   {
     "question": "At what temperature do the Celsius and Fahrenheit scales read the exact same value?",
     "options": [
@@ -520,9 +518,7 @@
     "explanation": "Wien's law states λ_max × T = b (Wien's constant ≈ 2.898 × 10⁻³ m·K).",
     "difficulty": "easy",
     "subject": "Physics"
-  }
-]
-[
+  },
   {
     "question": "Two electric point charges +q and +4q are separated by a distance L. Where must a third charge -q be placed on the line joining them for it to be in equilibrium?",
     "options": [
@@ -782,9 +778,7 @@
     "explanation": "Full-wave rectifiers convert both half-cycles of AC, doubling the ripple frequency: f_out = 2 × f_in = 2 × 50 Hz = 100 Hz.",
     "difficulty": "medium",
     "subject": "Physics"
-  }
-]
-[
+  },
   {
     "question": "A particle executes Simple Harmonic Motion (SHM) with an amplitude A and period T. The time taken to travel from x = A/2 to x = A is:",
     "options": [
@@ -1044,9 +1038,7 @@
     "explanation": "From force between parallel wires F/L = μ₀ I² / (2π d) => μ₀ = (F × d) / (L × I²) = [MLT⁻²] × [L] / ([L] × [A²]) = [M L T⁻² A⁻²].",
     "difficulty": "medium",
     "subject": "Physics"
-  }
-]
-[
+  },
   {
     "question": "A particle moves in a circular path of radius r with a constant speed v. What is the magnitude of average acceleration during a quarter revolution?",
     "options": [
@@ -1306,9 +1298,7 @@
     "explanation": "Total charge Q_total = -1 + 5 = +4 nC. When connected, charge redistributes proportional to radius (q ∝ r): q1 = Q_total × [r1 / (r1 + r2)] = 4 nC × [1 / (1 + 3)] = 1 nC.",
     "difficulty": "hard",
     "subject": "Physics"
-  }
-]
-[
+  },
   {
     "question": "Two solid spheres of same material have radii R and 2R. They are heated to the same temperature and left in vacuum to cool by radiation. The ratio of their initial rates of cooling is:",
     "options": [
@@ -1568,9 +1558,7 @@
     "explanation": "Inside a charged conducting sphere, electric field E = 0, which means potential V is constant and equal to its value on the surface: V = k Q / R.",
     "difficulty": "easy",
     "subject": "Physics"
-  }
-]
-[
+  },
   {
     "question": "Two non-mixing liquids of densities ρ and nρ (n > 1) are put in a container. The height of each liquid is h. A solid cylinder of length L and density d is put in this container. It floats with its axis vertical and total length L in both liquids such that its length in the denser liquid is L/3. The density d of the cylinder is:",
     "options": [
@@ -1830,9 +1818,7 @@
     "explanation": "The electric field of an axial dipole varies as E ∝ 1/r³. Force on a second dipole F = p (dE/dr) ∝ d(1/r³)/dr ∝ 1/r⁴.",
     "difficulty": "hard",
     "subject": "Physics"
-  }
-]
-[
+  },
   {
     "question": "A Uniform circular disc of mass M and radius R rotates about an axis passing through its center and perpendicular to its plane with angular speed ω. Its kinetic energy of rotation is:",
     "options": [
