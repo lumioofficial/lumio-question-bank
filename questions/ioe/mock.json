@@ -258,9 +258,7 @@
     "explanation": "Area = ∫₀³ x² dx = [x³ / 3]₀³ = (27 / 3) - 0 = 9 square units.",
     "difficulty": "easy",
     "subject": "Mathematics"
-  }
-]
-[
+  },
   {
     "question": "Which of the following compounds exhibits optical isomerism?",
     "options": [
@@ -910,9 +908,7 @@
     "explanation": "FCC lattice atoms count = (8 corners × 1/8) + (6 faces × 1/2) = 1 + 3 = 4 atoms per unit cell.",
     "difficulty": "easy",
     "subject": "Chemistry"
-  }
-]
-[
+  },
   {
     "question": "The dimensional formula of [RC] (where R is resistance and C is capacitance) is:",
     "options": [
@@ -1237,9 +1233,7 @@
     "explanation": "'Ephemeral' means lasting for a very short time, which is synonymous with 'transient' or 'fleeting'.",
     "difficulty": "medium",
     "subject": "English"
-  }
-]
-[
+  },
   {
     "question": "A particle moves along a straight line such that its displacement x at time t is given by x^2 = t^2 + 1. The acceleration of the particle is proportional to:",
     "options": [
@@ -1564,9 +1558,7 @@
     "explanation": "'Bite the bullet' is a well-known English idiom meaning to endure a painful or difficult situation with fortitude.",
     "difficulty": "easy",
     "subject": "English"
-  }
-]
-[
+  },
   {
     "question": "The moment of inertia of a uniform solid sphere of mass M and radius R about a tangent to the sphere is:",
     "options": [
@@ -1891,9 +1883,7 @@
     "explanation": "'Gregarious' means fond of company and sociable. Its antonym is 'introverted' or 'solitary'.",
     "difficulty": "medium",
     "subject": "English"
-  }
-]
-[
+  },
   {
     "question": "A uniform wire of resistance R is stretched such that its length becomes n times its original length. The new resistance of the wire is:",
     "options": [
