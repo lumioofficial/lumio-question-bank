@@ -648,9 +648,7 @@
     "explanation": "A constant value does not change as x changes, so its rate of change (derivative) is always 0.",
     "difficulty": "easy",
     "subject": "Mathematics"
-  }
-]
-[
+  },
   {
     "question": "If matrix A is symmetric, what is A - A^T equal to?",
     "options": [
@@ -1300,9 +1298,7 @@
     "explanation": "By Binomial Theorem, the coefficient of x^3 in (1 + x)^5 is 5C3 = 5! / (3! 2!) = 10.",
     "difficulty": "easy",
     "subject": "Mathematics"
-  }
-]
-[
+  },
   {
     "question": "If a matrix A is skew-symmetric, what is the value of its diagonal elements?",
     "options": [
@@ -1952,9 +1948,7 @@
     "explanation": "Outcomes for 2 heads: {HHT, HTH, THH} = 3 outcomes out of 2^3 = 8 total outcomes. P = 3/8.",
     "difficulty": "easy",
     "subject": "Mathematics"
-  }
-]
-[
+  },
   {
     "question": "What is the value of ∫ e^x (sin(x) + cos(x)) dx?",
     "options": [
